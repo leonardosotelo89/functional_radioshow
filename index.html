@@ -68,7 +68,9 @@ function random(array){
     djspeech.src = "sonidos mp3/" + array[luck].intro[parseInt(Math.random()*array[luck].intro.length)]
     djspeech.play()
     console.log(djspeech)  
-    djspeech.onended = main
+    djspeech.onended = function() {
+      main() 
+     } 
   }
   introduce()
   function main(){
