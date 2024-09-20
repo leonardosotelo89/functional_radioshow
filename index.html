@@ -1,1 +1,93 @@
+<html lang="en">
+  <head>
+<meta charset="UTF-8">
+<meta 
+name="viewport" 
+content="width=device-width,
+         height=device-height, 
+         initial-scale=1.0">
 
+    <title></title>
+    <style>
+*{margin:0px;padding:0px;}
+    body{
+      background-color: rgb(0,0,0);
+      color: lime;
+} 
+h2{
+  animation:colores 7s 1s linear infinite;
+}
+@keyframes colores{
+  from{
+   filter: hue-rotate(0deg);
+  }to{
+    filter: hue-rotate(360deg);
+  }
+}
+
+    </style>
+  </head>
+  
+  <body>
+    
+    <h2>html5</h2>
+<div id="div1"></div>
+<div id="div2"></div>
+<div id="div3"></div>
+
+
+
+
+
+
+<script>
+
+let sounds = []
+
+sounds[0] = {
+  intro:['rosesareredintro1.mp3','rosesareredintro2.mp3'],
+  song:'aqua - roses are red.mp3',
+  text:'pais: , interprete:  , cancion:   '
+}
+sounds[1] = {
+  intro:['yalanintro1.mp3','yalanintro2.mp3'],
+  song:'edis - yalan.mp3',
+  text:'pais: Turquía, interprete: Edis, cancion:Yalan'
+}
+sounds[2] = {
+  intro:['puntoparati.mp3','quebien.mp3'],
+  song:'ccc.mp3',
+  text:'el c'
+}
+
+function random(array){
+  let luck = parseInt(Math.random()*array.length)
+  document.body.innerHTML += "<br>" + array[luck].text
+  let introduce = function() {
+    let djspeech = new Audio()
+    djspeech.src = "sonidos mp3/" + array[luck].intro[parseInt(Math.random()*array[luck].intro.length)]
+    djspeech.play()
+    console.log(djspeech)  
+    djspeech.onended = main
+  }
+  introduce()
+  function main(){
+  let mainaudio = new Audio()
+  mainaudio.src = "sonidos mp3/" + array[luck].song 
+  mainaudio.play()
+  
+  mainaudio.onended = function(){
+    random(sounds)
+  }
+  console.log(mainaudio, sounds[luck]) 
+  } 
+}
+
+document.body.onclick = function(){
+  random(sounds)
+}
+
+</script>
+<footer>            <!--              --></footer>
+</body>
+</html> 
