@@ -76,7 +76,8 @@ self.addEventListener('install', (event) => {
       './sonidos mp3/yalanintro2.mp3',
       './sonidos mp3/sotokorintro1.mp3',
       './sonidos mp3/sotokorintro2.mp3',
-      './app.js'
+      './app.js', 
+      './sw.js'
     ])
   );
 });
