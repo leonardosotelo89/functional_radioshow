@@ -46,12 +46,12 @@ let sounds = []
 
 sounds[0] = {
   intro:['rosesareredintro1.mp3','rosesareredintro2.mp3'],
-  song:'https://drive.google.com/file/d/12rY4MaL-My8EgZE6MeLWtCvhFJe7Sqpe/view?usp=sharing',
+  song:'aqua_roses_are_red.mp3',
   text:'pais: dinamarca, interprete: aqua, cancion: roses are red'
 }
 sounds[1] = {
   intro:['yalanintro1.mp3','yalanintro2.mp3'],
-  song:'distodd.mp3',
+  song:'edis_yalan.mp3',
   text:'pais: Turquía, interprete: Edis, cancion: Yalan'
 }
 sounds[2] = {
@@ -75,7 +75,7 @@ function random(array){
   introduce()
   function main(){
   let mainaudio = new Audio()
-  mainaudio.src = array[luck].song 
+  mainaudio.src = "sonidos mp3/" +array[luck].song 
   mainaudio.play()
   document.body.innerHTML += "<br>" +"sonidos mp3/" +array[luck].song 
   mainaudio.onended = function(){
