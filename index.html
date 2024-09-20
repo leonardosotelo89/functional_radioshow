@@ -75,9 +75,9 @@ function random(array){
   introduce()
   function main(){
   let mainaudio = new Audio()
-  mainaudio.src = array[luck].song 
+  mainaudio.src = "sonidos mp3/" +array[luck].song 
   mainaudio.play()
-  document.body.innerHTML += "<br>" + array[luck].song 
+  document.body.innerHTML += "<br>" +"sonidos mp3/" +array[luck].song 
   mainaudio.onended = function(){
     random(sounds)
    }
