@@ -50,7 +50,6 @@ padding:30px;
 let mainaudio = new Audio()
 let sounds = []
 let already = [] 
-let lastplayed = null
 
 sounds[0] = {
   intro:['rosesareredintro1.mp3','rosesareredintro2.mp3'],
@@ -78,23 +77,15 @@ function random(array){
     already = [] 
   } 
   
-  let luck 
-  if(lastplayed == null){
-  luck = parseInt(Math.random()*array.length) 
-  } 
-  
-  if(lastplayed) {
-    do{
-      do{
+  let luck   
+  do{
       luck = parseInt(Math.random()*array.length)
-       } while(already.includes(luck)) 
-     } while(luck == lastplayed) 
-  } 
-
+  } while(already.includes(luck)) 
+  
   already.push(luck) 
-  lastplayed = luck
-  div1.innerHTML = already.join(',')
-  div2.innerHTML = lastplayed
+  
+ // div1.innerHTML = already.join('/')
+
   displaydata.innerHTML = array[luck].text
   
   let introduce = function() {    
