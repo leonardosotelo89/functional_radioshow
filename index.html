@@ -85,8 +85,10 @@ function random(array){
   
   if(lastplayed) {
     do{
+      do{
       luck = parseInt(Math.random()*array.length)
-     } while(already.includes(luck) && lastplayed == luck) 
+       } while(luck == lastplayed) 
+     } while(already.includes(luck)) 
   } 
 
   already.push(luck) 
