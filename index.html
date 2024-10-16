@@ -41,7 +41,7 @@ h2{
 <script type="module" src="app.js"></script>
 
 <script>
-
+let mainaudio = new Audio()
 let sounds = []
 
 sounds[0] = {
@@ -61,14 +61,16 @@ sounds[2] = {
 }
 
 function random(array){
+  mainaudio.pause()
+  mainaudio.currentTime = 0
   let luck = parseInt(Math.random()*array.length)
   document.body.innerHTML += "<br>" + array[luck].text
   let introduce = function() {
-    let djspeech = new Audio()
-    djspeech.src = "sonidos mp3/" + array[luck].intro[parseInt(Math.random()*array[luck].intro.length)]
-    djspeech.play()
-    console.log(djspeech)  
-    djspeech.onended = function() {
+    
+    mainaudio.src = "sonidos mp3/" + array[luck].intro[parseInt(Math.random()*array[luck].intro.length)]
+    mainaudio.play()
+    
+    mainaudio.onended = function() {
       main() 
      } 
   }
