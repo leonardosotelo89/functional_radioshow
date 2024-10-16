@@ -35,7 +35,7 @@ h2{
 <div id="div2"></div>
 <div id="div3"></div>
 
-
+<marquee id="displaydata" ></marquee>
 
 
 <script type="module" src="app.js"></script>
@@ -64,7 +64,7 @@ function random(array){
   mainaudio.currentTime = 0
   mainaudio.pause()
   let luck = parseInt(Math.random()*array.length)
-  document.body.innerHTML += "<br>" + array[luck].text
+  displaydata.innerHTML = array[luck].text
   let introduce = function() {
     
     mainaudio.src = "sonidos mp3/" + array[luck].intro[parseInt(Math.random()*array[luck].intro.length)]
@@ -77,8 +77,7 @@ function random(array){
   introduce()
   function main(){
   mainaudio.src = "sonidos mp3/" +array[luck].song 
-  mainaudio.play()
-  document.body.innerHTML += "<br>" +"sonidos mp3/" +array[luck].song 
+  mainaudio.play() 
   mainaudio.onended = function(){
     random(sounds)
    }
