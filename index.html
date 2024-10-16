@@ -48,6 +48,7 @@ background-color:blue ;
 <script>
 let mainaudio = new Audio()
 let sounds = []
+let already = [] 
 
 sounds[0] = {
   intro:['rosesareredintro1.mp3','rosesareredintro2.mp3'],
@@ -68,10 +69,15 @@ sounds[2] = {
 function random(array){
   mainaudio.currentTime = 0
   mainaudio.pause()
-  let luck = parseInt(Math.random()*array.length)
+  
+  let luck 
+    do{
+      luck = parseInt(Math.random()*array.length)
+     } while(already.includes(luck)) 
+  already.push(luck) 
   displaydata.innerHTML = array[luck].text
-  let introduce = function() {
-    
+  
+  let introduce = function() {    
     mainaudio.src = "sonidos mp3/" + array[luck].intro[parseInt(Math.random()*array[luck].intro.length)]
     mainaudio.play()
     
@@ -83,8 +89,11 @@ function random(array){
   function main(){
   mainaudio.src = "sonidos mp3/" +array[luck].song 
   mainaudio.play() 
+    
   mainaudio.onended = function(){
     random(sounds)
+    displaydata.innerHTML = "" 
+    if(already.length === sounds.length) already = [] 
    }
   } 
 }
