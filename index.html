@@ -76,7 +76,7 @@ function random(array){
   if(lastplayed) {
     do{
       luck = parseInt(Math.random()*array.length)
-     } while(already.includes(luck) && lastplayed == luck)   
+     } while(already.includes(luck) && lastplayed !== luck)   
   if(already.length === sounds.length){
     already = [] 
   } 
