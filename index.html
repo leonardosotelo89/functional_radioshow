@@ -70,12 +70,13 @@ sounds[2] = {
 function random(array){
   mainaudio.currentTime = 0
   mainaudio.pause()
-  
+  displaydata.innerHTML = '' 
   let luck 
     do{
       luck = parseInt(Math.random()*array.length)
      } while(already.includes(luck)) 
   already.push(luck) 
+  if(already.length === sounds.length) already = [] 
   displaydata.innerHTML = array[luck].text
   
   let introduce = function() {    
@@ -93,8 +94,6 @@ function random(array){
     
   mainaudio.onended = function(){
     random(sounds)
-    displaydata.innerHTML = "" 
-    if(already.length === sounds.length) already = [] 
    }
   } 
 }
