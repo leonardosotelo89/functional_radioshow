@@ -91,7 +91,7 @@ function random(array){
   let introduce = function() {    
     mainaudio.src = "sonidos mp3/" + array[luck].intro[parseInt(Math.random()*array[luck].intro.length)]
     mainaudio.play()
-    
+    lastplayed = luck
     mainaudio.onended = function() {
       main() 
      } 
