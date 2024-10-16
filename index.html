@@ -76,7 +76,9 @@ function random(array){
       luck = parseInt(Math.random()*array.length)
      } while(already.includes(luck)) 
   already.push(luck) 
-  if(already.length === sounds.length) already = [] 
+  if(already.length === sounds.length){
+    already = [] 
+  } 
   displaydata.innerHTML = array[luck].text
   
   let introduce = function() {    
