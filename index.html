@@ -74,11 +74,13 @@ function random(array){
   let luck 
     do{
       luck = parseInt(Math.random()*array.length)
-     } while(already.includes(luck)) 
-  already.push(luck) 
+     } while(already.includes(luck))   
   if(already.length === sounds.length){
     already = [] 
   } 
+  already.push(luck) 
+
+  
   displaydata.innerHTML = array[luck].text
   
   let introduce = function() {    
