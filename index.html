@@ -61,8 +61,8 @@ sounds[2] = {
 }
 
 function random(array){
-  mainaudio.pause()
   mainaudio.currentTime = 0
+  mainaudio.pause()
   let luck = parseInt(Math.random()*array.length)
   document.body.innerHTML += "<br>" + array[luck].text
   let introduce = function() {
@@ -76,7 +76,6 @@ function random(array){
   }
   introduce()
   function main(){
-  let mainaudio = new Audio()
   mainaudio.src = "sonidos mp3/" +array[luck].song 
   mainaudio.play()
   document.body.innerHTML += "<br>" +"sonidos mp3/" +array[luck].song 
