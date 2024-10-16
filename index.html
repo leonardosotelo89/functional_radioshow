@@ -72,27 +72,31 @@ function random(array){
   mainaudio.currentTime = 0
   mainaudio.pause()
   displaydata.innerHTML = '' 
-  let luck 
-  if(lastplayed) {
-    do{
-      luck = parseInt(Math.random()*array.length)
-     } while(already.includes(luck) && lastplayed !== luck)   
+  
   if(already.length === sounds.length){
     already = [] 
   } 
-  already.push(luck) 
-  }
+  
+  let luck 
   if(!lastplayed){
   luck = parseInt(Math.random()*array.length) 
-  already.push(luck) 
   } 
+  
+  if(lastplayed) {
+    do{
+      luck = parseInt(Math.random()*array.length)
+     } while(lastplayed == luck || already.includes(luck)   
+  } 
+
+  already.push(luck) 
+  lastplayed = luck
   
   displaydata.innerHTML = array[luck].text
   
   let introduce = function() {    
     mainaudio.src = "sonidos mp3/" + array[luck].intro[parseInt(Math.random()*array[luck].intro.length)]
     mainaudio.play()
-    lastplayed = luck
+    
     mainaudio.onended = function() {
       main() 
      } 
