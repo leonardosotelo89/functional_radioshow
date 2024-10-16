@@ -81,7 +81,8 @@ function random(array){
     already = [] 
   } 
   already.push(luck) 
-  }else{
+  }
+  if(!lastplayed){
   luck = parseInt(Math.random()*array.length) 
   already.push(luck) 
   } 
