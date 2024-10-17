@@ -86,7 +86,8 @@ function random(array){
   
  // div1.innerHTML = already.join('/')
 
-  displaydata.innerHTML = array[luck].text
+  //displaydata.innerHTML = array[luck].text
+  updateMarqueeText(array[luck].text) 
   
   let introduce = function() {    
     mainaudio.src = "sonidos mp3/" + array[luck].intro[parseInt(Math.random()*array[luck].intro.length)]
@@ -111,6 +112,16 @@ document.body.onclick = function(){
   random(sounds)
 }
 
+function updateMarqueeText(newText) {
+  const marquee = document.getElementById('displaydata');
+  
+  // Clone the marquee and update the content
+  const newMarquee = marquee.cloneNode(true);
+  newMarquee.innerHTML = newText;
+  
+  // Replace the old marquee with the new one
+  marquee.parentNode.replaceChild(newMarquee, marquee);
+}
 </script>
 <footer>            <!--              --></footer>
 </body>
