@@ -67,9 +67,9 @@ self.addEventListener('install', (event) => {
     addResourcesToCache([
       './',
       './index.html',
-      './sonidos mp3/aqua_roses_are_red.mp3',
-      './sonidos mp3/edis_yalan.mp3',
-      './sonidos mp3/fardin_saadat_soto_kor.mp3',
+      './sonidos mp3/aquarosesarered.mp3',
+      './sonidos mp3/edisyalan.mp3',
+      './sonidos mp3/fardinsaadatsotokor.mp3',
       './sonidos mp3/rosesareredintro1.mp3',
       './sonidos mp3/rosesareredintro2.mp3',
       './sonidos mp3/yalanintro1.mp3',
