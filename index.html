@@ -128,10 +128,10 @@ function updateMarqueeText(newText) {
 
 //all cache keys
 caches.keys().then(cacheNames => {
-document.body.innerHTML += cacheNames + "<br>" 
+document.body.innerHTML += 'caches versions' +cacheNames + "<br>" 
 });
 
-
+/*
 setInterval(()=>{
 
  // get number of assets in the cache
@@ -147,6 +147,7 @@ caches.open('v1').then(cache => {
 });
 
 }, 30000) 
+*/
 
 </script>
 <footer>         <!--              --> </footer>
