@@ -86,3 +86,5 @@ self.addEventListener('install', (event) => {
 
 
 //caches.delete('v1')
+
+//end
