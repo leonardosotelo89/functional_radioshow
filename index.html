@@ -132,7 +132,20 @@ caches.keys().then(cacheNames => {
 document.body.innerHTML += cacheNames + "<br>" 
 });
 
+setInterval(() =>{
 
+ //get number of assets in the cache
+caches.open('v1').then(cache => {
+  cache.keys().then(keys => {
+    console.log(`Number of cached assets: ${keys.length}`);
+    document.body.innerHTML += `Number of cached assets: ${keys.length}`
+
+// This will log each cached asset's URL.
+    keys.forEach(key => console.log(key.url)); 
+ document.body.innerHTML += key.url
+  });
+});
+}, 30000}
 
 </script>
 <footer>         <!--              --> </footer>
