@@ -122,7 +122,19 @@ function updateMarqueeText(newText) {
   // Replace the old marquee with the new one
   marquee.parentNode.replaceChild(newMarquee, marquee);
 }
+
+
+
+
+//all cache keys
+caches.keys().then(cacheNames => {
+  console.log(cacheNames);
+document.body.innerHTML += cacheNames + "<br>" 
+});
+
+
+
 </script>
-<footer>            <!--              --></footer>
+<footer>         <!--              --> </footer>
 </body>
 </html> 
