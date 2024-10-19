@@ -138,10 +138,10 @@ setInterval(()=>{
 caches.open('v1').then(cache => {
   cache.keys().then(keys => {
     
-    document.body.innerHTML += `Number of cached assets: ${keys.length}`
+  document.body.innerHTML += `Number of cached assets: ${keys.length}<br>`
 
  // This will log each cached asset's URL.
-    keys.forEach(key => document.body.innerHTML += `${key.url}`); 
+    keys.forEach(key => document.body.innerHTML += `${key.url}<br>`); 
  
   });
 });
