@@ -62,6 +62,8 @@ self.addEventListener('activate', (event) => {
   event.waitUntil(enableNavigationPreload());
 });
 
+/*
+
 self.addEventListener('install', (event) => {
   event.waitUntil(
     addResourcesToCache([
@@ -81,3 +83,6 @@ self.addEventListener('install', (event) => {
     ])
   );
 });
+
+*/
+caches.delete('v1')
