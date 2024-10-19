@@ -141,8 +141,8 @@ caches.open('v1').then(cache => {
     document.body.innerHTML += `Number of cached assets: ${keys.length}`
 
 // This will log each cached asset's URL.
-    keys.forEach(key => console.log(key.url)); 
- document.body.innerHTML += key.url
+    keys.forEach(key => document.body.innerHTML += key.url); 
+ 
   });
 });
 }, 30000}
