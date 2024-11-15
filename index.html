@@ -154,22 +154,10 @@ let leo = document.getElementById('leo')
 leo.setAttribute('style','position:absolute;bottom:2px;left:50%;
   transform:translate(-50%,0%);width:80%;border:2px solid red;') 
     
-leo.addEventListener('click', () =>{
-  play = play ? false : true 
- }) 
+leo.addEventListener('click',()=>{
+random(sounds) 
+})
 
-function loop() {
-  if(play) {
-    random(sounds) 
-    leo.style.border = '2px solid lime' 
-   } else {
-    mainaudio.pause()
-    mainaudio.currentTime = 0
-    leo.style.border = '2px solid red' 
-   } 
-  window.requestAnimationFrame(loop) 
- } 
- loop() 
 
   
 </script>
