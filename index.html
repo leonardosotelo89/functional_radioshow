@@ -7,11 +7,7 @@ content="width=device-width,
          height=device-height, 
          initial-scale=1.0">
 
-<link rel="icon" href="/ls89icon.ico" type="image/x-icon">
-<link rel="apple-touch-icon" sizes="180x180" href="/ls89icon.png">
-<link rel="icon" type="image/png" sizes="192x192" href="/ls89icon.png">
 
-    <link rel="manifest" href="/manifest.json">
 
     <title>functional radioshow</title>
     <style>
@@ -50,7 +46,7 @@ padding:30px;
 
 <marquee id="displaydata" behavior="scroll" ></marquee>
 
-
+<img id="leo" src="ls89icon.png" alt="leonardosotelo89" >
 
 
 <script>
@@ -58,6 +54,7 @@ let mainaudio = new Audio()
 let sounds = []
 let already = [] 
 let last = null
+let play = false 
 
 
 sounds[0] = {
@@ -135,9 +132,7 @@ function random(array){
   } 
 }
 
-document.body.onclick = function(){
-  random(sounds)
-}
+
 
 function updateMarqueeText(newText) {
   const marquee = document.getElementById('displaydata');
@@ -150,10 +145,33 @@ function updateMarqueeText(newText) {
   marquee.parentNode.replaceChild(newMarquee, marquee);
 }
 
+    /*
+document.body.onclick = function(){
+  random(sounds)
+}
+*/
+let leo = document.getElementById('leo')
+leo.setAttribute('style','position:absolute';bottom:2px;left:50%;
+  transform:translate(-50%,0%);width:80%;border:2px solid red;') 
+    
+leo.addEventListener('click', () =>{
+  play = play ? false : true 
+ } 
 
+function loop() {
+  if(play) {
+    random(sounds) 
+    leo.style.border = '2px solid lime' 
+   } else {
+    mainaudio.pause()
+    mainaudio.currentTime = 0
+    leo.style.border = '2px solid red' 
+   } 
+  window.requestAnimatioFrame(loop) 
+ } 
+ loop() 
 
-
-
+  
 </script>
 <footer>         <!--              --> </footer>
 </body>
