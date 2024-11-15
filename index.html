@@ -145,7 +145,10 @@ function updateMarqueeText(newText) {
 }
 
 
-
+//all cache keys
+caches.keys().then(cacheNames => {
+document.body.innerHTML += 'caches versions: ' +cacheNames + "<br>" 
+});
 
 
 </script>
