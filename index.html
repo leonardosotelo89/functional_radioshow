@@ -45,7 +45,7 @@ padding:30px;
 <marquee id="displaydata" behavior="scroll" ></marquee>
 
 
-<script type="module" src="app.js"></script>
+
 
 <script>
 let mainaudio = new Audio()
@@ -55,38 +55,32 @@ let last = null
 
 
 sounds[0] = {
-  intro:['rosesareredintro1.mp3','rosesareredintro2.mp3',
-         'rosesareredintro3.mp3', 'rosesareredintro4.mp3'],
+  intro:['rosesareredintro1.mp3','rosesareredintro2.mp3'],
   song:'aquarosesarered.mp3',
   text:'pais: dinamarca / interprete: aqua / cancion: roses are red'
 }
 sounds[1] = {
-  intro:['yalanintro1.mp3','yalanintro2.mp3',
-        'yalanintro3.mp3','yalanintro4.mp3'],
+  intro:['yalanintro1.mp3','yalanintro2.mp3'],
   song:'edisyalan.mp3',
   text:'pais: Turquía / interprete: Edis / cancion: Yalan'
 }
 sounds[2] = {
-  intro:['sotokorintro1.mp3','sotokorintro2.mp3',
-        'sotokorintro3.mp3','sotokorintro4.mp3'],
+  intro:['sotokorintro1.mp3','sotokorintro2.mp3'],
   song:'fardinsaadatsotokor.mp3',
   text:'pais: iran / interprete: Fardin Saadat / cancion: Soto Kor'
 }
 sounds[3] = {
-  intro:['tymenyazabudintro1.mp3','tymenyazabudintro2.mp3',
-        'tymenyazabudintro3.mp3','tymenyazabudintro4.mp3'], 
+  intro:['tymenyazabudintro1.mp3','tymenyazabudintro2.mp3'], 
   song:'djpiligrimtymenyazabud.mp3',
   text:'pais: Uzbekistan / interprete: dj piligrim / cancion: ty menya zabud' 
 } 
 sounds[4] = {
-  intro:['oynasunintro1.mp3','oynasunintro2.mp3',
-        'oynasunintro3.mp3','oynasunintro4.mp3'], 
+  intro:['oynasunintro1.mp3','oynasunintro2.mp3'], 
   song:'shahrizodaoynasun.mp3',
   text:'pais: Uzbekistan / interprete: Shahrizoda / cancion: oynasun' 
 } 
 sounds[5] = {
-  intro:['boroborointro1.mp3','boroborointro2.mp3', 
-         'boroborointro3.mp3','boroborointro4.mp3'], 
+  intro:['boroborointro1.mp3','boroborointro2.mp3'], 
   song:'arashboroboro.mp3',
   text:'pais: iran / interprete: arash / cancion: boro boro' 
 } 
@@ -153,28 +147,6 @@ function updateMarqueeText(newText) {
 
 
 
-//all cache keys
-caches.keys().then(cacheNames => {
-document.body.innerHTML += 'caches versions: ' +cacheNames + "<br>" 
-});
-
-/*
-setInterval(()=>{
-
- // get number of assets in the cache
-caches.open('v1').then(cache => {
-  cache.keys().then(keys => {
-    
-  document.body.innerHTML += `Number of cached assets: ${keys.length}<br>`
-
- // This will log each cached asset's URL.
-    keys.forEach(key => document.body.innerHTML += `${key.url}<br>`); 
- 
-  });
-});
-
-}, 30000) 
-*/
 
 </script>
 <footer>         <!--              --> </footer>
