@@ -64,7 +64,7 @@ self.addEventListener('activate', (event) => {
 });
 
 
-
+/*
 self.addEventListener('install', (event) => {
   event.waitUntil(
     addResourcesToCache([
@@ -84,8 +84,8 @@ self.addEventListener('install', (event) => {
     ])
   );
 });
+*/
 
-
-//caches.delete('v1')
+caches.delete('v1')
 
 //end
