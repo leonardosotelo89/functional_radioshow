@@ -213,10 +213,10 @@ function random(array){
  // div1.innerHTML = already.join('/')
 
   //displaydata.innerHTML = array[luck].text
-  updateMarqueeText(array[chosen].text) 
+  updateMarqueeText(array[luck].text) 
   
   let introduce = function() {    
-    mainaudio.src = "sonidos mp3/" + array[chosen].intro[parseInt(Math.random()*array[chosen].intro.length)]
+    mainaudio.src = "sonidos mp3/" + array[luck].intro[parseInt(Math.random()*array[luck].intro.length)]
     mainaudio.play()
     
     mainaudio.onended = function() {
@@ -225,7 +225,7 @@ function random(array){
   }
   introduce()
   function main(){
-  mainaudio.src = "sonidos mp3/" +array[chosen].song 
+  mainaudio.src = "sonidos mp3/" +array[luck].song 
   mainaudio.play() 
     
   mainaudio.onended = function(){
