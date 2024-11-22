@@ -194,13 +194,14 @@ function random(array){
     already.push(last)
   } 
   
-  let luck   
+  let luck = parseInt(Math.random()*array.length)
+  let chosen = null
   do{
-      luck = parseInt(Math.random()*array.length)
-  } while(already.includes(luck)) 
+      chosen = array[luck] 
+  } while(already.includes(chosen)) 
   
-  already.push(luck) 
-  last = luck
+  already.push(chosen) 
+  last = chosen
   
  // div1.innerHTML = already.join('/')
 
