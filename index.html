@@ -199,10 +199,11 @@ function random(array){
     already.push(last)
   } 
   
-  let luck = parseInt(Math.random()*array.length)
+  let luck 
   let chosen 
 
   do{
+      luck = parseInt(Math.random() *array.length)
       chosen = array[luck] 
   } while(already.includes(chosen)) 
   
