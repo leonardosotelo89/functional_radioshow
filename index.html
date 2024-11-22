@@ -196,7 +196,7 @@ function random(array){
   
   if(already.length === sounds.length){
     already = [] 
-    already.push(last)
+    already.push(last.song)
   } 
   
   let luck 
@@ -205,9 +205,9 @@ function random(array){
   do{
       luck = parseInt(Math.random() * array.length)
       chosen = array[luck] 
-  } while(already.includes(chosen)) 
+  } while(already.includes(chosen.song)) 
   
-  already.push(chosen) 
+  already.push(chosen.song) 
   last = chosen
   
  // div1.innerHTML = already.join('/')
