@@ -1,0 +1,8 @@
+mp3 name:
+mp3 file name must be lowercase and without spaces 
+
+be careful: 
+if you need to rename the song 
+is better to do it locally and then 
+after delete the old one 
+upload the new re-named file
