@@ -563,7 +563,7 @@ sounds[47] = {
 
 
 function random(array){
-  
+  displaydata.direction = 'left' 
   mainaudio.pause()
   mainaudio.currentTime = 0
   displaydata.innerHTML = '' 
@@ -609,6 +609,7 @@ function random(array){
    } 
    function telltime(){
 
+      displaydata.direction = 'bottom' 
       updateMarqueeText('')
 
     timeinterval--
