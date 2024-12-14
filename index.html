@@ -54,6 +54,7 @@ let mainaudio = new Audio()
 let sounds = []
 let already = [] 
 let last = null
+let timeinterval = 1
 
 /*
 for marquee to work properly and don't see unwanted jumps we must 
@@ -598,35 +599,77 @@ function random(array){
      } 
   }
   introduce()
-  function main(){
-  mainaudio.src = "sonidos mp3/" +array[luck].song 
-  mainaudio.play() 
-    
-  mainaudio.onended = function(){
-    random(sounds)
+  function main(){ 
+   mainaudio.src = "sonidos mp3/" +array[luck].song  
+   mainaudio.play()  
+   mainaudio.onended = function(){
+     telltime()
    }
-  } 
-}
+   } 
+   function telltime(){
 
-
-
-function updateMarqueeText(newText) {
-  const marquee = document.getElementById('displaydata');
-  
-  // Clone the marquee and update the content
-  const newMarquee = marquee.cloneNode(true);
-  newMarquee.innerHTML = newText;
-  
-  // Replace the old marquee with the new one
-  marquee.parentNode.replaceChild(newMarquee, marquee);
-}
-
+    timeinterval--
     
-document.body.onclick = function(){
-  random(sounds)
+    if(timeinterval > 0)random(sounds)
+    
+    if(timeinterval == 0){
+    time()
+    timeinterval = parseInt(Math.random()*4+3) 
+    }
+
+   } 
+ } 
+ 
+  
+ document.body.onclick = function(){ 
+   random(sounds) 
+ } 
+  
+
+  
+  
+  
+ function updateMarqueeText(newText) { 
+   const marquee = document.getElementById('displaydata'); 
+  
+   // Clone the marquee and update the content 
+   const newMarquee = marquee.cloneNode(true); 
+   newMarquee.innerHTML = newText; 
+  
+   // Replace the old marquee with the new one 
+   marquee.parentNode.replaceChild(newMarquee, marquee); 
+ } 
+  
+  
+  function time() {
+  let date = new Date();
+  let hour = date.getHours();
+  let minute = date.getMinutes();
+
+  tospeak = [
+    timeintros[parseInt(Math.random()*itstime.length)], 
+    allhours[hour], 
+    allminutes[minute], 
+    repeat[parseInt(Math.random()*repeat.length)],
+    allhours[hour], 
+    allminutes[minute], 
+    backtoshow[parseInt(Math.random()*backtoshow.length)]
+    ];
+
+  playAudioSequence();
 }
 
+function playAudioSequence() {
+ // if (tospeak.length === 0) return;//original statement
+if (tospeak.length === 0) {
+  random(sounds);
+  return
+} 
 
+  mainaudio.src = "time sounds/" + tospeak.shift();
+  mainaudio.play();
+  mainaudio.onended = playAudioSequence;
+}
 
   
 </script>
