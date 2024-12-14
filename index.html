@@ -665,7 +665,7 @@ function playAudioSequence() {
   random(sounds);
   return
 } 
-
+  document.body.innerHTML += mainaudio.src 
   mainaudio.src = "time sounds/" + tospeak.shift();
   mainaudio.play();
   mainaudio.onended = playAudioSequence;
