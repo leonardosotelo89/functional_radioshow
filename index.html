@@ -608,7 +608,9 @@ function random(array){
    }
    } 
    function telltime(){
-document.body.innerHTML += 'telltime' 
+
+    displaydata.innerHTML = "" 
+
     timeinterval--
     
     if(timeinterval > 0)random(sounds)
@@ -646,8 +648,8 @@ document.body.innerHTML += 'telltime'
   let date = new Date();
   let hour = date.getHours();
   let minute = date.getMinutes();
-document.body.innerHTML += 'time' 
 
+  displaydata.innerHTML = allhours[hour] + ":" + allminutes[minute] 
   tospeak = [
     timeintros[parseInt(Math.random()*timeintros.length)], 
     allhours[hour], 
