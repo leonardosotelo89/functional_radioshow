@@ -1,4 +1,4 @@
-//const mainaudio = new Audio();
+
 let tospeak = [];
 
 const allhours = {
@@ -90,53 +90,19 @@ const allminutes = {
   58: 'cincuentaiocho.mp3',
   59: 'cincuentainueve.mp3',
 };
-const itstime = [
-  'itstimeattentionplease.mp3',
-  'itstimeIneedyourattention.mp3'
+const timeintros = [
+  'timeintroesmomentodesaberlahora.mp3',
+  'timeintroahorasabremoslahora.mp3', 
+  'timeintroaquivienelahora.mp3'
   ];
 const repeat = [
-  'repeatIgonnarepeat.mp3', 'repeatonceagain.mp3'
+  'repeatrepito.mp3', 'repeatdenuevo.mp3', 'repeatotravez.mp3' 
   ];
 const backtoshow = [
-  'backtoshowwemustcontinue.mp3',
-  'backtoshowletscontinue.mp3'
+  'backtoshowseguimos.mp3',
+  'backtoshowsigamos.mp3',
+  'backtoshowcontinuamos.mp3', 
+  'backtoshowcontinuemos.mp3
   ];
 
 
-
-/*
-function time() {
-  let date = new Date();
-  let hour = date.getHours();
-  let minute = date.getMinutes();
-
-  tospeak = [allhours[hour], allminutes[minute]];
-
-  playAudioSequence();
-}
-
-function playAudioSequence() {
- if (tospeak.length === 0) return;//original statement
- 
-  mainaudio.src = "time sounds/" + tospeak.shift();
-  mainaudio.play();
-  mainaudio.onended = playAudioSequence;
-}
-
-*/
-/*
-// Example: Bind time() to a click event
-document.body.onclick = time;
-*/
-
-/*
-Key Improvements
-Dynamic Mapping:
-direct key access (allhours[hour] and allminutes[minute]).
-tospeak Handling:
-
-tospeak is cleared automatically after playback due to the shift-based logic in playAudioSequence().
-Audio Playback:
-
-Created a recursive playAudioSequence function to handle any number of audios in tospeak.
-*/
