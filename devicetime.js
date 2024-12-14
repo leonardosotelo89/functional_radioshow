@@ -104,7 +104,7 @@ const backtoshow = [
   'backtoshowseguimos.mp3',
   'backtoshowsigamos.mp3',
   'backtoshowcontinuamos.mp3', 
-  'backtoshowcontinuemos.mp3
+  'backtoshowcontinuemos.mp3' 
   ];
 
 
