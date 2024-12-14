@@ -609,7 +609,7 @@ function random(array){
    } 
    function telltime(){
 
-    displaydata.innerHTML = "" 
+      updateMarqueeText('')
 
     timeinterval--
     
@@ -649,7 +649,8 @@ function random(array){
   let hour = date.getHours();
   let minute = date.getMinutes();
 
-  displaydata.innerHTML = hour + ":" + minute
+    updateMarqueeText(`hour + ":" + minute`)
+
   tospeak = [
     timeintros[parseInt(Math.random()*timeintros.length)], 
     allhours[hour], 
