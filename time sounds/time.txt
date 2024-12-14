@@ -1,0 +1,6 @@
+
+allhours
+allminutes
+timeintros
+repeat
+backtoshow
