@@ -650,7 +650,10 @@ function random(array){
   let hour = date.getHours();
   let minute = date.getMinutes();
 
-    updateMarqueeText(`${hour} : ${minute}`)
+    updateMarqueeText(
+`&nbsp&nbsp&nbsp&#160&#160&#160 
+${hour} : ${minute} 
+&nbsp&nbsp&nbsp&#160&#160&#160`)
 
   tospeak = [
     timeintros[parseInt(Math.random()*timeintros.length)], 
