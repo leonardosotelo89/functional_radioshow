@@ -96,7 +96,9 @@ const timeintros = [
   'timeintroaquivienelahora.mp3'
   ];
 const repeat = [
-  'repeatrepito.mp3', 'repeatdenuevo.mp3', 'repeatotravez.mp3' 
+  'repeatrepito.mp3', 
+  'repeatdenuevo.mp3', 
+  'repeatotravez.mp3' 
   ];
 const backtoshow = [
   'backtoshowseguimos.mp3',
