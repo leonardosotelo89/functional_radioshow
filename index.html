@@ -662,9 +662,10 @@ function random(array){
    } 
  } 
  
- let single = [sounds[13]]
+ 
  document.body.onclick = function(){ 
-   random(single) 
+   //random(sounds) 
+     checkintros()
  } 
   
 
@@ -717,8 +718,19 @@ function playAudioSequence() {
   mainaudio.onended = playAudioSequence;
 }
 
-  
+let current = 0
+let checking = [...sounds[13].intro] 
 
+function checkintros() {
+if (checking.length === 0) {
+  return document.body.innerHTML += "intros check complete" 
+} 
+  document.body.innerHTML += current 
+  current++
+  mainaudio.src = "sonidos mp3/" + checking.shift();
+  mainaudio.play();
+  mainaudio.onended = checkintros;
+} 
 
 </script>
 <footer>         <!--              --> </footer>
