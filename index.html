@@ -584,11 +584,11 @@ sounds[50] = {
 } 
 sounds[51] = {
   intro:['taubataubaintro1.mp3','taubataubaintro2.mp3',
-         'taubataubaintro1.mp3','taubataubaintro2.mp3', 
-         'taubataubaintro1.mp3','taubataubaintro2.mp3', 
-         'taubataubaintro1.mp3','taubataubaintro2.mp3', 
-         'taubataubaintro1.mp3','taubataubaintro2.mp3', 
-         'taubataubaintro1.mp3'], 
+         'taubataubaintro3.mp3','taubataubaintro4.mp3', 
+         'taubataubaintro5.mp3','taubataubaintro6.mp3', 
+         'taubataubaintro7.mp3','taubataubaintro8.mp3', 
+         'taubataubaintro9.mp3','taubataubaintro10.mp3', 
+         'taubataubaintro11.mp3'], 
   song:'karanaujlataubatauba.mp3',
   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: india / interprete: karan aujla / cancion: tauba tauba   &nbsp&nbsp&nbsp&#160&#160&#160" 
 } 
@@ -664,8 +664,8 @@ function random(array){
  
  
  document.body.onclick = function(){ 
-   //random(sounds) 
-     checkintros()
+   random(sounds) 
+    // checkintros()
  } 
   
 
@@ -718,8 +718,11 @@ function playAudioSequence() {
   mainaudio.onended = playAudioSequence;
 }
 
+
+
+//debug zone
 let current = 0
-let checking = [...sounds[13].intro] 
+let checking = [...sounds[51].intro] 
 
 function checkintros() {
 if (checking.length === 0) {
