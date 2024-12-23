@@ -641,6 +641,14 @@ sounds[51] = {
 
 function random(array){
 
+let randomcolor1 = `rgb(${parseInt(Math.random()*256)},${parseInt(Math.random()*256)},${parseInt(Math.random()*256)})`
+
+let randomcolor2 = `rgb(${parseInt(Math.random()*256)},${parseInt(Math.random()*256)},${parseInt(Math.random()*256)})`
+
+let randomradial = `radial-gradient(circle at 50% 50%,${randomcolor2}, ${randomcolor2}) `
+
+playnext.style.background = randomradial
+
   mainaudio.pause()
   mainaudio.currentTime = 0
   displaydata.innerHTML = '' 
