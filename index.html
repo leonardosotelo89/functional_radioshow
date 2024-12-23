@@ -47,11 +47,11 @@ padding:30px;
 }
 #playnext{
   background-color:lime;
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
 }
-#end{
+#stop{
   position: absolute ;
   left: 0px ;
   bottom: 0px;
@@ -61,7 +61,7 @@ padding:30px;
   place-items: center ;
   border: none ;
 }
-#closer{
+#stopper{
   background-color:red;
   width: 100px;
   height: 100px ;
@@ -82,8 +82,8 @@ padding:30px;
   <div id="start">
     <div id="playnext"></div>
   </div>
-  <div id="end">
-    <div id="closer"></div>
+  <div id="stop">
+    <div id="stopper"></div>
   </div>
 
  <script src="devicetime.js"></script>
@@ -711,8 +711,10 @@ playnext.onclick = function(){
    random(sounds) 
    this.style.background = 'blue'
  } 
- closer.onclick = ()=>{
-   window.close()
+ stopper.onclick = ()=>{
+   //window.close()
+   mainaudio.pause() 
+   mainaudio.currentTime = 0
  }
 
   
