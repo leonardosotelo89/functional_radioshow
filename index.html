@@ -640,10 +640,13 @@ sounds[51] = {
 
 
 function random(array){
-
+/*
 let randomcolor1 = `rgb(${parseInt(Math.random()*256)},${parseInt(Math.random()*256)},${parseInt(Math.random()*256)})`
 
 let randomcolor2 = `rgb(${parseInt(Math.random()*256)},${parseInt(Math.random()*256)},${parseInt(Math.random()*256)})`
+*/
+let randomcolor1 = `hsl(${(Math.random()*360)}deg,100%,50%)`
+let randomcolor2 = `hsl(${(Math.random()*360)}deg,100%,50%)`
 
 let randomradial = `radial-gradient(circle at 50% 50%,${randomcolor1}, ${randomcolor2}) `
 
