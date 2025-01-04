@@ -6,3 +6,9 @@ if you need to rename the song
 is better to do it locally and then 
 after delete the old one 
 upload the new re-named file
+
+to add a new song:
+once all needed audios are uploaded then
+you can change your index so when the code
+call the audios they will be there 
+
