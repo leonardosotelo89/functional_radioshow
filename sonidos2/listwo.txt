@@ -1,1 +1,306 @@
 lista de audios
+sounds[50] = {
+  intro:['nobodylikeyouintro1.mp3','nobodylikeyouintro2.mp3', 
+         'nobodylikeyouintro3.mp3','nobodylikeyouintro4.mp3', 
+         'nobodylikeyouintro5.mp3','nobodylikeyouintro6.mp3', 
+         'nobodylikeyouintro7.mp3','nobodylikeyouintro8.mp3', 
+         'nobodylikeyouintro9.mp3','nobodylikeyouintro10.mp3', 
+         'nobodylikeyouintro11.mp3'], 
+  song:'francoelgorilayoneillnobodylikeyou.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: puerto rico (🇵🇷) / interprete: franco el gorila y o'neill / cancion: nobody like you   &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[51] = {
+  intro:['taubataubaintro1.mp3','taubataubaintro2.mp3',
+         'taubataubaintro3.mp3','taubataubaintro4.mp3', 
+         'taubataubaintro5.mp3','taubataubaintro6.mp3', 
+         'taubataubaintro7.mp3','taubataubaintro8.mp3', 
+         'taubataubaintro9.mp3','taubataubaintro10.mp3', 
+         'taubataubaintro11.mp3'], 
+  song:'karanaujlataubatauba.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: india (🇮🇳) / interprete: karan aujla / cancion: tauba tauba   &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[52] = {
+  intro:['laultimatentacionintro1.mp3','laultimatentacionintro2.mp3',
+         'laultimatentacionintro3.mp3','laultimatentacionintro4.mp3', 
+         'laultimatentacionintro5.mp3','laultimatentacionintro6.mp3', 
+         'laultimatentacionintro7.mp3','laultimatentacionintro8.mp3', 
+         'laultimatentacionintro9.mp3','laultimatentacionintro10.mp3', 
+         'laultimatentacionintro11.mp3'], 
+  song:'mariajosequintanillaluisjarafrancoelgorilalaultimatentacion.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: chile (🇨🇱) - puerto rico (🇵🇷) / interprete: maria jose quintanilla - luis jara - franco el gorila / cancion: la ultima tentacion  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[53] = {
+  intro:['meresapnokiraniintro1.mp3','meresapnokiraniintro2.mp3', 
+         'meresapnokiraniintro3.mp3','meresapnokiraniintro4.mp3', 
+         'meresapnokiraniintro5.mp3','meresapnokiraniintro6.mp3', 
+         'meresapnokiraniintro7.mp3','meresapnokiraniintro8.mp3', 
+         'meresapnokiraniintro9.mp3','meresapnokiraniintro10.mp3', 
+         'meresapnokiraniintro11.mp3'], 
+  song:'tamanabatiadiviakumarmeresapnokirani.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: india (🇮🇳) / interprete: Tamanna Bhatia y Divya Kumar / cancion: mere sapno ki rani  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[54] = {
+  intro:['istoriyaintro1.mp3','istoriyaintro2.mp3',
+         'istoriyaintro3.mp3','istoriyaintro4.mp3', 
+         'istoriyaintro5.mp3','istoriyaintro6.mp3', 
+         'istoriyaintro7.mp3','istoriyaintro8.mp3', 
+         'istoriyaintro9.mp3','istoriyaintro10.mp3', 
+         'istoriyaintro11.mp3'], 
+  song:'myroistoriya.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rusia (🇷🇺) / interprete: MY-RO / cancion: istoriya  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[55] = {
+  intro:['jiumengintro1.mp3','jiumengintro2.mp3',
+         'jiumengintro3.mp3','jiumengintro4.mp3', 
+         'jiumengintro5.mp3','jiumengintro6.mp3', 
+         'jiumengintro7.mp3','jiumengintro8.mp3', 
+         'jiumengintro9.mp3','jiumengintro10.mp3', 
+         'jiumengintro11.mp3'], 
+  song:'tongxinjiumeng.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: china (🇨🇳) / interprete: tong xin / cancion: jiu meng (dj version)  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[56] = {
+  intro:['avishnyakrasnayaintro1.mp3','avishnyakrasnayaintro2.mp3',
+         'avishnyakrasnayaintro3.mp3','avishnyakrasnayaintro4.mp3', 
+         'avishnyakrasnayaintro5.mp3','avishnyakrasnayaintro6.mp3', 
+         'avishnyakrasnayaintro7.mp3','avishnyakrasnayaintro8.mp3', 
+         'avishnyakrasnayaintro9.mp3','avishnyakrasnayaintro10.mp3', 
+         'avishnyakrasnayaintro11.mp3'], 
+  song:'kristinasokolovaavishnyakrasnaya.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rusia (🇷🇺) / interprete: kristina sokolova / cancion: a vishnya krasnaya  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[57] = {
+  intro:['nabelompokryvaleyanvaryaintro1.mp3','nabelompokryvaleyanvaryaintro2.mp3', 'nabelompokryvaleyanvaryaintro3.mp3','nabelompokryvaleyanvaryaintro4.mp3', 'nabelompokryvaleyanvaryaintro5.mp3','nabelompokryvaleyanvaryaintro6.mp3', 'nabelompokryvaleyanvaryaintro7.mp3','nabelompokryvaleyanvaryaintro8.mp3', 'nabelompokryvaleyanvaryaintro9.mp3','nabelompokryvaleyanvaryaintro10.mp3', 'nabelompokryvaleyanvaryaintro11.mp3'], 
+  song:'kamazznabelompokryvaleyanvarya.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rusia (🇷🇺) / interprete: kamazz / cancion: na belom pokryvale yanvarya  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[58] = {
+  intro:['nidedaanintro1.mp3','nidedaanintro2.mp3',
+         'nidedaanintro3.mp3','nidedaanintro4.mp3', 
+         'nidedaanintro5.mp3','nidedaanintro6.mp3', 
+         'nidedaanintro7.mp3','nidedaanintro8.mp3', 
+         'nidedaanintro9.mp3','nidedaanintro10.mp3', 
+         'nidedaanintro11.mp3'], 
+  song:'ziyaonidedaan.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: china (🇨🇳) / interprete: zǐ yáo / cancion: Nǐ de dá'àn  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[59] = {
+  intro:['oistamamintro1.mp3','oistamamintro2.mp3',
+         'oistamamintro3.mp3','oistamamintro4.mp3', 
+         'oistamamintro5.mp3','oistamamintro6.mp3', 
+         'oistamamintro7.mp3','oistamamintro8.mp3', 
+         'oistamamintro9.mp3','oistamamintro10.mp3', 
+         'oistamamintro11.mp3'], 
+  song:'mumtazatesoistamam.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: turquia (🇹🇷) / interprete: mümtaz ateş / cancion: o iş tamam &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[60] = {
+  intro:['keerintro1.mp3','keerintro2.mp3',
+         'keerintro3.mp3','keerintro4.mp3', 
+         'keerintro5.mp3','keerintro6.mp3', 
+         'keerintro7.mp3','keerintro8.mp3', 
+         'keerintro9.mp3','keerintro10.mp3', 
+         'keerintro11.mp3'], 
+  song:'chinchiuchekeer.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: china (🇨🇳) / interprete: jīnjiǔ zhé / cancion: Kē er  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[61] = {
+  intro:['echamelaculpaintro1.mp3','echamelaculpaintro2.mp3', 
+         'echamelaculpaintro3.mp3','echamelaculpaintro4.mp3', 
+         'echamelaculpaintro5.mp3','echamelaculpaintro6.mp3', 
+         'echamelaculpaintro7.mp3','echamelaculpaintro8.mp3', 
+         'echamelaculpaintro9.mp3','echamelaculpaintro10.mp3', 
+         'echamelaculpaintro11.mp3'], 
+  song:'luisfonsiydemilovatoechamelaculpa.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: puerto rico (🇵🇷) - estados unidos (🇺🇸) / interprete: luis fonsi y demi lovato / cancion: echame la culpa  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[62] = {
+  intro:['glowenosdogoryintro1.mp3', 'glowenosdogoryintro2.mp3',
+         'glowenosdogoryintro3.mp3', 'glowenosdogoryintro4.mp3', 
+         'glowenosdogoryintro5.mp3', 'glowenosdogoryintro6.mp3', 
+         'glowenosdogoryintro7.mp3', 'glowenosdogoryintro8.mp3', 
+         'glowenosdogoryintro9.mp3', 'glowenosdogoryintro10.mp3', 
+         'glowenosdogoryintro11.mp3'], 
+  song:'pectuskasiacerekwickaglowenosdogory.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: polonia (🇵🇱) / interprete: pectus & Kasia Cerekwicka / cancion: Głowę noś do góry   &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[63] = {
+  intro:['ritmototalintro1.mp3', 'ritmototalintro2.mp3',
+         'ritmototalintro3.mp3', 'ritmototalintro4.mp3', 
+         'ritmototalintro5.mp3', 'ritmototalintro6.mp3', 
+         'ritmototalintro7.mp3', 'ritmototalintro8.mp3', 
+         'ritmototalintro9.mp3', 'ritmototalintro10.mp3', 
+         'ritmototalintro11.mp3'], 
+  song:'enriqueiglesiasritmototal.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: españa (🇪🇸) / interprete: enrique iglesias / cancion: ritmo total   &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[64] = {
+  intro:['chtochtylyetaintro1.mp3', 'chtochtylyetaintro2.mp3',
+         'chtochtylyetaintro3.mp3', 'chtochtylyetaintro4.mp3', 
+         'chtochtylyetaintro5.mp3', 'chtochtylyetaintro6.mp3', 
+         'chtochtylyetaintro7.mp3', 'chtochtylyetaintro8.mp3', 
+         'chtochtylyetaintro9.mp3', 'chtochtylyetaintro10.mp3', 
+         'chtochtylyetaintro11.mp3'], 
+  song:'yekaterinadenisovachtochtylyeta.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rusia (🇷🇺) / interprete: Yekaterina Denisova / cancion: Chto zh ty lyeta   &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[65] = {
+  intro:['tejocicuminteameaintro1.mp3', 'tejocicuminteameaintro2.mp3', 
+         'tejocicuminteameaintro3.mp3', 'tejocicuminteameaintro4.mp3', 
+         'tejocicuminteameaintro5.mp3', 'tejocicuminteameaintro6.mp3', 
+         'tejocicuminteameaintro7.mp3', 'tejocicuminteameaintro8.mp3', 
+         'tejocicuminteameaintro9.mp3', 'tejocicuminteameaintro10.mp3', 
+         'tejocicuminteameaintro11.mp3'], 
+  song:'sandranmariusnedelcutejocicuminteamea.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rumania (🇷🇴) / interprete: Sandra N. feat. Marius Nedelcu / cancion: Te joci cu mintea mea   &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[66] = {
+  intro:['introziintro1.mp3', 'introziintro2.mp3',
+         'introziintro3.mp3', 'introziintro4.mp3', 
+         'introziintro5.mp3', 'introziintro6.mp3', 
+         'introziintro7.mp3', 'introziintro8.mp3', 
+         'introziintro9.mp3', 'introziintro10.mp3', 
+         'introziintro11.mp3'], 
+  song:'valentindinuanyaintrozi.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rumania (🇷🇴) / interprete: valentin dinu y anya / cancion: intr-o zi   &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[67] = {
+  intro:['doarpentrutineintro1.mp3', 'doarpentrutineintro2.mp3',
+         'doarpentrutineintro3.mp3', 'doarpentrutineintro4.mp3', 
+         'doarpentrutineintro5.mp3', 'doarpentrutineintro6.mp3', 
+         'doarpentrutineintro7.mp3', 'doarpentrutineintro8.mp3', 
+         'doarpentrutineintro9.mp3', 'doarpentrutineintro10.mp3', 
+         'doarpentrutineintro11.mp3'], 
+  song:'iulianpetcodoarpentrutine.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: moldavia (🇲🇩) / interprete: iulian petco / cancion: doar pentru tine   &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[68] = {
+  intro:['pananzoriintro1.mp3', 'pananzoriintro2.mp3',
+         'pananzoriintro3.mp3', 'pananzoriintro4.mp3', 
+         'pananzoriintro5.mp3', 'pananzoriintro6.mp3', 
+         'pananzoriintro7.mp3', 'pananzoriintro8.mp3', 
+         'pananzoriintro9.mp3', 'pananzoriintro10.mp3', 
+         'pananzoriintro11.mp3'], 
+  song:'vasilemacoveipananzori.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: moldavia (🇲🇩) / interprete: vasile macovei / cancion: Până-n zori   &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[69] = {
+  intro:['amanamanintro1.mp3', 'amanamanintro2.mp3',
+         'amanamanintro3.mp3', 'amanamanintro4.mp3', 
+         'amanamanintro5.mp3', 'amanamanintro6.mp3', 
+         'amanamanintro7.mp3', 'amanamanintro8.mp3', 
+         'amanamanintro9.mp3', 'amanamanintro10.mp3', 
+         'amanamanintro11.mp3'], 
+  song:'eldaramanaman.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Azerbaijan (🇦🇿) / interprete: eldar / cancion: Aman-Aman  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[70] = {
+  intro:['guelmeneintro1.mp3', 'guelmeneintro2.mp3',
+         'guelmeneintro3.mp3', 'guelmeneintro4.mp3', 
+         'guelmeneintro5.mp3', 'guelmeneintro6.mp3', 
+         'guelmeneintro7.mp3', 'guelmeneintro8.mp3', 
+         'guelmeneintro9.mp3', 'guelmeneintro10.mp3', 
+         'guelmeneintro11.mp3'], 
+  song:'sevdayahyayevagelmene.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Azerbaijan (🇦🇿) / interprete: Sevda Yahyayeva / cancion: Gəl Mənə  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[71] = {
+  intro:['seviramintro1.mp3', 'seviramintro2.mp3',
+         'seviramintro3.mp3', 'seviramintro4.mp3', 
+         'seviramintro5.mp3', 'seviramintro6.mp3', 
+         'seviramintro7.mp3', 'seviramintro8.mp3', 
+         'seviramintro9.mp3', 'seviramintro10.mp3', 
+         'seviramintro11.mp3'], 
+  song:'miriyusifseviram.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Azerbaijan (🇦🇿) / interprete: miri yusif / cancion: Sevirəm  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[72] = {
+  intro:['kameliaintro1.mp3', 'kameliaintro2.mp3',
+         'kameliaintro3.mp3', 'kameliaintro4.mp3', 
+         'kameliaintro5.mp3', 'kameliaintro6.mp3', 
+         'kameliaintro7.mp3', 'kameliaintro8.mp3', 
+         'kameliaintro9.mp3', 'kameliaintro10.mp3', 
+         'kameliaintro11.mp3'], 
+  song:'akcentlidiabubleddynuneskamelia.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) - Brasil (🇧🇷) / interprete: akcent con lidia buble y ddy nunes / cancion: Kamelia  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[73] = {
+  intro:['miloyavointro1.mp3', 'miloyavointro2.mp3', 
+         'miloyavointro3.mp3', 'miloyavointro4.mp3', 
+         'miloyavointro5.mp3', 'miloyavointro6.mp3', 
+         'miloyavointro7.mp3', 'miloyavointro8.mp3', 
+         'miloyavointro9.mp3', 'miloyavointro10.mp3', 
+         'miloyavointro11.mp3'], 
+  song:'avrahamtalbenaiabarabimiloyavo.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Israel (🇮🇱) / interprete: Avraham Tal y Benaia Barabi / cancion: mi lo yavo  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[74] = {
+  intro:['bonadliktaeshintro1.mp3', 'bonadliktaeshintro2.mp3', 
+         'bonadliktaeshintro3.mp3', 'bonadliktaeshintro4.mp3', 
+         'bonadliktaeshintro5.mp3', 'bonadliktaeshintro6.mp3', 
+         'bonadliktaeshintro7.mp3', 'bonadliktaeshintro8.mp3', 
+         'bonadliktaeshintro9.mp3', 'bonadliktaeshintro10.mp3', 
+         'bonadliktaeshintro11.mp3'], 
+  song:'itzikorlevbonadliktaesh.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Israel (🇮🇱) / interprete: itzik orlev / cancion: bo nadlik t'esh  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[75] = {
+  intro:['majshavottovotintro1.mp3', 'majshavottovotintro2.mp3', 
+         'majshavottovotintro3.mp3', 'majshavottovotintro4.mp3', 
+         'majshavottovotintro5.mp3', 'majshavottovotintro6.mp3', 
+         'majshavottovotintro7.mp3', 'majshavottovotintro8.mp3', 
+         'majshavottovotintro9.mp3', 'majshavottovotintro10.mp3', 
+         'majshavottovotintro11.mp3'], 
+  song:'motiweissmachshavottovot.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Israel (🇮🇱) / interprete: motty weiss / cancion: Machshavot Tovot  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[76] = {
+  intro:['yamaintro1.mp3', 'yamaintro2.mp3', 
+         'yamaintro3.mp3', 'yamaintro4.mp3', 
+         'yamaintro5.mp3', 'yamaintro6.mp3', 
+         'yamaintro7.mp3', 'yamaintro8.mp3', 
+         'yamaintro9.mp3', 'yamaintro10.mp3', 
+         'yamaintro11.mp3'], 
+  song:'bennyfriedmanyama.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: estados unidos (🇺🇸) / interprete: benny friedman / cancion: YAMA  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[77] = {
+  intro:['sanavaguiintro1.mp3', 'sanavaguiintro2.mp3',
+         'sanavaguiintro3.mp3', 'sanavaguiintro4.mp3', 
+         'sanavaguiintro5.mp3', 'sanavaguiintro6.mp3', 
+         'sanavaguiintro7.mp3', 'sanavaguiintro8.mp3', 
+         'sanavaguiintro9.mp3', 'sanavaguiintro10.mp3', 
+         'sanavaguiintro11.mp3'], 
+  song:'ninosanavagui.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Grecia (🇬🇷) / interprete: nino / cancion: sa navagi  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[78] = {
+  intro:['theosintro1.mp3', 'theosintro2.mp3',
+         'theosintro3.mp3', 'theosintro4.mp3', 
+         'theosintro5.mp3', 'theosintro6.mp3', 
+         'theosintro7.mp3', 'theosintro8.mp3', 
+         'theosintro9.mp3', 'theosintro10.mp3', 
+         'theosintro11.mp3'], 
+  song:'ninotheos.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Grecia (🇬🇷) / interprete: nino / cancion: theos  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[79] = {
+  intro:['dodnaintro1.mp3', 'dodnaintro2.mp3',
+         'dodnaintro3.mp3', 'dodnaintro4.mp3', 
+         'dodnaintro5.mp3', 'dodnaintro6.mp3', 
+         'dodnaintro7.mp3', 'dodnaintro8.mp3', 
+         'dodnaintro9.mp3', 'dodnaintro10.mp3', 
+         'dodnaintro11.mp3'], 
+  song:'oksananasanovichdodna.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bielorrusia (🇧🇾) / interprete: oksana nasanovich / cancion: do dna  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[80] = {
+  intro:['paointro1.mp3', 'paointro2.mp3',
+         'paointro3.mp3', 'paointro4.mp3', 
+         'paointro5.mp3', 'paointro6.mp3', 
+         'paointro7.mp3', 'paointro8.mp3',
+         'paointro9.mp3', 'paointro10.mp3', 
+         'paointro11.mp3'], 
+  song:'iviadamoukonniemetaxapao.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Grecia (🇬🇷) / interprete: ívi adámou y konnie metaxa / cancion: páo  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
