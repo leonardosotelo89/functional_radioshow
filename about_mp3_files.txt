@@ -12,3 +12,5 @@ once all needed audios are uploaded then
 you can change your index so when the code
 call the audios they will be there 
 
+each directory should be below 1000 files length 
+
