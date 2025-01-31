@@ -1470,7 +1470,8 @@ playnext.style.background = randomradial
       updateMarqueeText('')
 
     timeinterval--
-    
+    document.body.innerHTML += timeinterval 
+
     if(timeinterval > 0)random(sounds)
     
     if(timeinterval == 0){
