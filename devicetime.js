@@ -93,18 +93,37 @@ const allminutes = {
 const timeintros = [
   'timeintroesmomentodesaberlahora.mp3',
   'timeintroahorasabremoslahora.mp3', 
-  'timeintroaquivienelahora.mp3'
+  'timeintroaquivienelahora.mp3', 
+  'timeintroelrelojindicaque.mp3', 
+  'timeintroleechounamiraditaalrelojysegunlosnumeros.mp3', 
+  'timeintromiroelrelojylesdigoque.mp3', 
+  'timeintrosegunelreloj.mp3', 
+  'timeintroveamosquehoraes.mp3' 
   ];
 const repeat = [
   'repeatrepito.mp3', 
   'repeatdenuevo.mp3', 
-  'repeatotravez.mp3' 
+  'repeatotravez.mp3', 
+  'repeatnuevamente.mp3', 
+  'repeatunavezmas.mp3' 
   ];
 const backtoshow = [
   'backtoshowseguimos.mp3',
   'backtoshowsigamos.mp3',
   'backtoshowcontinuamos.mp3', 
-  'backtoshowcontinuemos.mp3' 
+  'backtoshowcontinuemos.mp3', 
+  'backtoshowahoracontinualamusica.mp3', 
+  'backtoshowahoracontinuanlascanciones.mp3', 
+  'backtoshowahorasiguelamusica.mp3', 
+  'backtoshowahorasiguenlascanciones.mp3', 
+  'backtoshowaquicontinualamusica.mp3', 
+  'backtoshowaquicontinuanlascanciones.mp3', 
+  'backtoshowaquisiguelamusica.mp3', 
+  'backtoshowaquisiguenlascanciones.mp3', 
+  'backtoshowyacontinualamusica.mp3', 
+  'backtoshowyacontinuanlascanciones.mp3', 
+  'backtoshowyasiguelamusica.mp3', 
+  'backtoshowyasiguenlascanciones.mp3' 
   ];
 
 
