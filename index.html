@@ -441,7 +441,6 @@ sounds[20] = {
   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: turquia (🇹🇷) / interprete: sözer sepetçi / cancion: vêna vêna &nbsp&nbsp&nbsp&#160&#160&#160" 
 } 
 sounds[21] = {
-  level:1.2,
   intro:['introsone/amenointro1.mp3',
          'introsone/amenointro2.mp3', 
          'introsone/amenointro3.mp3',
@@ -1426,7 +1425,6 @@ sounds[85] = {
   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bulgaria (🇧🇬) / interprete: vanesa / cancion: oshte  &nbsp&nbsp&nbsp&#160&#160&#160" 
 } 
 sounds[86] = {
-  level:1.1,
   intro:['introstwo/nainatintro1.mp3', 
          'introstwo/nainatintro2.mp3',
          'introstwo/nainatintro3.mp3', 
@@ -1703,13 +1701,12 @@ playnext.style.background = randomradial
      } 
   }
   introduce()
-  function main(){ 
-   
+  function main(){  
    mainaudio.src = array[luck].song  
    mainaudio.play()  
+
    mainaudio.onended = function(){
      telltime()
-     mainaudio.volume = 1
    }
    } 
    function telltime(){
@@ -1804,13 +1801,6 @@ function playAudioSequence() {
 }
 
 
-function volumelevel() {
-    if(array[luck].level) {
-    mainaudio.volume = array[luck].level
-    } else{
-      mainaudio.volume = 1
-    } 
-} 
 
 
 //debug zone
