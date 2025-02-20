@@ -441,6 +441,7 @@ sounds[20] = {
   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: turquia (🇹🇷) / interprete: sözer sepetçi / cancion: vêna vêna &nbsp&nbsp&nbsp&#160&#160&#160" 
 } 
 sounds[21] = {
+  level:1.2,
   intro:['introsone/amenointro1.mp3',
          'introsone/amenointro2.mp3', 
          'introsone/amenointro3.mp3',
@@ -1425,6 +1426,7 @@ sounds[85] = {
   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bulgaria (🇧🇬) / interprete: vanesa / cancion: oshte  &nbsp&nbsp&nbsp&#160&#160&#160" 
 } 
 sounds[86] = {
+  level:1.1,
   intro:['introstwo/nainatintro1.mp3', 
          'introstwo/nainatintro2.mp3',
          'introstwo/nainatintro3.mp3', 
@@ -1590,12 +1592,60 @@ sounds[95] = {
   song:'sonidos2/dweennikolajspuzikovstuesikarsta.mp3',
   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Letonia (🇱🇻) / interprete: Dween un Nikolajs Puzikovs / cancion: Tu esi karsta &nbsp&nbsp&nbsp&#160&#160&#160" 
 } 
-
-
-
-
-
-
+sounds[96] = {
+  intro:['introstwo/netilistigaintro1.mp3', 
+         'introstwo/netilistigaintro2.mp3',
+         'introstwo/netilistigaintro3.mp3', 
+         'introstwo/netilistigaintro4.mp3', 
+         'introstwo/netilistigaintro5.mp3', 
+         'introstwo/netilistigaintro6.mp3', 
+         'introstwo/netilistigaintro7.mp3', 
+         'introstwo/netilistigaintro8.mp3',
+         'introstwo/netilistigaintro9.mp3', 
+         'introstwo/netilistigaintro10.mp3', 
+         'introstwo/netilistigaintro11.mp3', 
+         'introstwo/netilistigaintro12.mp3', 
+         'introstwo/netilistigaintro13.mp3', 
+         'introstwo/netilistigaintro14.mp3' ], 
+  song:'sonidos2/mihaelamarinovanetilistiga.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bulgaria (🇧🇬) / interprete: Mihaela Marinova / cancion: ne ti li stiga  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[97] = {
+  intro:['introstwo/napasintro1.mp3', 
+         'introstwo/napasintro2.mp3',
+         'introstwo/napasintro3.mp3', 
+         'introstwo/napasintro4.mp3', 
+         'introstwo/napasintro5.mp3', 
+         'introstwo/napasintro6.mp3', 
+         'introstwo/napasintro7.mp3', 
+         'introstwo/napasintro8.mp3',
+         'introstwo/napasintro9.mp3', 
+         'introstwo/napasintro10.mp3', 
+         'introstwo/napasintro11.mp3', 
+         'introstwo/napasintro12.mp3', 
+         'introstwo/napasintro13.mp3', 
+         'introstwo/napasintro14.mp3' ], 
+  song:'sonidos2/konstatinosgalanosnapas.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Grecia (🇬🇷) / interprete: Konstantinos Galanos / cancion: na pas  &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+sounds[98] = {
+  intro:['introstwo/vradiaaksimerotaintro1.mp3', 
+         'introstwo/vradiaaksimerotaintro2.mp3',
+         'introstwo/vradiaaksimerotaintro3.mp3', 
+         'introstwo/vradiaaksimerotaintro4.mp3', 
+         'introstwo/vradiaaksimerotaintro5.mp3', 
+         'introstwo/vradiaaksimerotaintro6.mp3', 
+         'introstwo/vradiaaksimerotaintro7.mp3', 
+         'introstwo/vradiaaksimerotaintro8.mp3',
+         'introstwo/vradiaaksimerotaintro9.mp3', 
+         'introstwo/vradiaaksimerotaintro10.mp3', 
+         'introstwo/vradiaaksimerotaintro11.mp3', 
+         'introstwo/vradiaaksimerotaintro12.mp3', 
+         'introstwo/vradiaaksimerotaintro13.mp3', 
+         'introstwo/vradiaaksimerotaintro14.mp3' ], 
+  song:'sonidos2/petrosiakovidisvradiaaksimerota.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Grecia (🇬🇷) / interprete: petros iakovidis / cancion: Vrádia Aksimérota   &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
 
 
 
@@ -1654,10 +1704,12 @@ playnext.style.background = randomradial
   }
   introduce()
   function main(){ 
+   volumelevel() 
    mainaudio.src = array[luck].song  
    mainaudio.play()  
    mainaudio.onended = function(){
      telltime()
+     mainaudio.volume = 1
    }
    } 
    function telltime(){
@@ -1751,6 +1803,14 @@ function playAudioSequence() {
   mainaudio.onended = playAudioSequence;
 }
 
+
+function volumelevel() {
+    if(array[luck].level) {
+    mainaudio.volume = array[luck].level
+    } else{
+      mainaudio.volume = 1
+    } 
+} 
 
 
 //debug zone
