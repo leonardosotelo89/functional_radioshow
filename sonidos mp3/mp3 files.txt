@@ -1,6 +1,0 @@
-mp3 files:
-
-spanish intro
-global music
-
-files names must be lowercase and without spaces 
