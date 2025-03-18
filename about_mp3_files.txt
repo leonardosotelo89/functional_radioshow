@@ -16,7 +16,7 @@ each directory should be below 1000 files length
 
 to change an mp3 for one with different playbackrate or 
 volume boosted just name it as the old one and upload the file 
-with the same filename as the old one in the sane directory 
+with the same filename as the old one in the same directory 
 the old one must be replaced by the altered
 
 
