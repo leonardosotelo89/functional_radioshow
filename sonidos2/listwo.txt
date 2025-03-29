@@ -1,4 +1,5 @@
-lista de audios
+list two
+
 sounds[50] = {
   intro:['nobodylikeyouintro1.mp3','nobodylikeyouintro2.mp3', 
          'nobodylikeyouintro3.mp3','nobodylikeyouintro4.mp3', 
