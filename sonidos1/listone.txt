@@ -1,4 +1,5 @@
-lista de audios
+list one
+
 sounds[0] = {
   intro:['rosesareredintro1.mp3','rosesareredintro2.mp3', 
          'rosesareredintro3.mp3','rosesareredintro4.mp3', 
