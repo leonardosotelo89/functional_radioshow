@@ -2562,6 +2562,27 @@ sounds[148] = {
   song:'doddyfeatloradjrashikremixdorsateador.mp3',
   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) / interprete: Doddy feat. Lora (DJ RASHIK REMIX 2022) / cancion: Dor Sa Te Ador  &nbsp&nbsp&nbsp&#160&#160&#160" 
 } 
+sounds[149] = {
+  intro:['pozadealbumintro1.mp3', 
+         'pozadealbumintro2.mp3',
+         'pozadealbumintro3.mp3',
+         'pozadealbumintro4.mp3', 
+         'pozadealbumintro5.mp3', 
+         'pozadealbumintro6.mp3', 
+         'pozadealbumintro7.mp3', 
+         'pozadealbumintro8.mp3',
+         'pozadealbumintro9.mp3', 
+         'pozadealbumintro10.mp3', 
+         'pozadealbumintro11.mp3', 
+         'pozadealbumintro12.mp3', 
+         'pozadealbumintro13.mp3', 
+         'pozadealbumintro14.mp3', 
+         'pozadealbumintro15.mp3'], 
+  song:'mellinafeatvescanpozadealbum.mp3',
+  text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) / interprete: Mellina feat. Vescan / cancion: Poza de album   &nbsp&nbsp&nbsp&#160&#160&#160" 
+} 
+
+
 
 
 
@@ -2649,9 +2670,15 @@ playnext.style.background = randomradial
   updateMarqueeText(array[luck].text) 
   
   let introduce = function() {    
+
     mainaudio.src =  array[luck].intro[parseInt(Math.random()*array[luck].intro.length)]
-if(luck >= 100 && luck < 200){
+
+if(luck >= 100 && luck < 150){
 mainaudio.src = "https://leonardosotelo89.github.io/functional_radioshow_archive1/intros100to149/" + array[luck].intro[parseInt(Math.random()*array[luck].intro.length)]
+} 
+
+if(luck >= 150 && luck < 200){
+mainaudio.src = "https://leonardosotelo89.github.io/functional_radioshow_archive1/intros150to199/" + array[luck].intro[parseInt(Math.random()*array[luck].intro.length)]
 } 
     mainaudio.play()
     
@@ -2661,7 +2688,9 @@ mainaudio.src = "https://leonardosotelo89.github.io/functional_radioshow_archive
   }
   introduce()
   function main(){  
+
    mainaudio.src = array[luck].song  
+
 if(luck >= 100 && luck < 200){
 mainaudio.src = "https://leonardosotelo89.github.io/functional_radioshow_archive1/songs100to199/" + array[luck].song  
 }
