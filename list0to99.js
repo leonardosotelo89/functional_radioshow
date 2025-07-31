@@ -1,3 +1,5 @@
+let sounds = [] 
+
 sounds[0] = {
   intro:['introsone/rosesareredintro1.mp3',
          'introsone/rosesareredintro2.mp3', 
@@ -1557,3 +1559,6 @@ sounds[99] = {
   song:'sonidos2/sandranpecarareamuntilor.mp3',
   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) / interprete: Sandra N / cancion: pe cararea muntilor   &nbsp&nbsp&nbsp&#160&#160&#160" 
 } 
+
+
+const lista = sounds
