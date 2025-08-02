@@ -254,7 +254,7 @@ list2[100] = {
    song:'popnablearabicfouq.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: arabia (🇸🇦) / interprete: Popnable arabic / cancion: fouq  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
- list2114] = { 
+ list2[114] = { 
    intro:['diteenateintro1.mp3',  
           'diteenateintro2.mp3', 
           'diteenateintro3.mp3',  
