@@ -1066,7 +1066,7 @@ const list1 = []
    song:'sonidos2/vasilemacoveipananzori.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: moldavia (🇲🇩) / interprete: vasile macovei / cancion: Până-n zori   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
- list169] = { 
+ list1[69] = { 
    intro:['introstwo/amanamanintro1.mp3',  
           'introstwo/amanamanintro2.mp3', 
           'introstwo/amanamanintro3.mp3',  
