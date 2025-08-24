@@ -1395,4 +1395,100 @@ list2[0] = {
    song:'burbusoldubeklenen.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Turquía (🇹🇷) / interprete: Burbus / cancion: Oldu Beklenen  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
- 
+ list2[75] = { 
+   intro:['shapeofyouintro1.mp3',  
+          'shapeofyouintro2.mp3', 
+          'shapeofyouintro3.mp3', 
+          'shapeofyouintro4.mp3',  
+          'shapeofyouintro5.mp3',  
+          'shapeofyouintro6.mp3',  
+          'shapeofyouintro7.mp3',  
+          'shapeofyouintro8.mp3', 
+          'shapeofyouintro9.mp3',  
+          'shapeofyouintro10.mp3',  
+          'shapeofyouintro11.mp3',  
+          'shapeofyouintro12.mp3',  
+          'shapeofyouintro13.mp3',  
+          'shapeofyouintro14.mp3',  
+          'shapeofyouintro15.mp3'],  
+   song:'edsheeranshapeofyou.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Gran Bretaña (🇬🇧) / interprete: Ed Sheeran / cancion: shape of you  &nbsp&nbsp&nbsp&#160&#160&#160"  
+ }  
+ list2[76] = { 
+   intro:['theconcertintro1.mp3',  
+          'theconcertintro2.mp3', 
+          'theconcertintro3.mp3', 
+          'theconcertintro4.mp3',  
+          'theconcertintro5.mp3',  
+          'theconcertintro6.mp3',  
+          'theconcertintro7.mp3',  
+          'theconcertintro8.mp3', 
+          'theconcertintro9.mp3',  
+          'theconcertintro10.mp3',  
+          'theconcertintro11.mp3',  
+          'theconcertintro12.mp3',  
+          'theconcertintro13.mp3',  
+          'theconcertintro14.mp3',  
+          'theconcertintro15.mp3'],  
+   song:'madtheconcert.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Italia (🇮🇹) / interprete: M@D / cancion: the concert  &nbsp&nbsp&nbsp&#160&#160&#160"  
+ }  
+ list2[77] = { 
+   intro:['yaneboyusintro1.mp3',  
+          'yaneboyusintro2.mp3', 
+          'yaneboyusintro3.mp3', 
+          'yaneboyusintro4.mp3',  
+          'yaneboyusintro5.mp3',  
+          'yaneboyusintro6.mp3',  
+          'yaneboyusintro7.mp3',  
+          'yaneboyusintro8.mp3', 
+          'yaneboyusintro9.mp3',  
+          'yaneboyusintro10.mp3',  
+          'yaneboyusintro11.mp3',  
+          'yaneboyusintro12.mp3',  
+          'yaneboyusintro13.mp3',  
+          'yaneboyusintro14.mp3',  
+          'yaneboyusintro15.mp3'],  
+   song:'sergeylazarevyaneboyus.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rusia (🇷🇺) / interprete: Sergey Lazarev / cancion: ya ne boyus  &nbsp&nbsp&nbsp&#160&#160&#160"  
+ }      
+ list2[78] = { 
+   intro:['likeiloveyouintro1.mp3',  
+          'likeiloveyouintro2.mp3', 
+          'likeiloveyouintro3.mp3', 
+          'likeiloveyouintro4.mp3',  
+          'likeiloveyouintro5.mp3',  
+          'likeiloveyouintro6.mp3',  
+          'likeiloveyouintro7.mp3',  
+          'likeiloveyouintro8.mp3', 
+          'likeiloveyouintro9.mp3',  
+          'likeiloveyouintro10.mp3',  
+          'likeiloveyouintro11.mp3',  
+          'likeiloveyouintro12.mp3',  
+          'likeiloveyouintro13.mp3',  
+          'likeiloveyouintro14.mp3',  
+          'likeiloveyouintro15.mp3'],  
+   song:'riotonytlikeiloveyou.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Alemania (🇩🇪) / interprete: R.I.O. (Tony T.) / cancion: Like I Love You  &nbsp&nbsp&nbsp&#160&#160&#160"  
+ }  
+ list2[79] = { 
+   intro:['partyshakerintro1.mp3',  
+          'partyshakerintro2.mp3', 
+          'partyshakerintro3.mp3', 
+          'partyshakerintro4.mp3',  
+          'partyshakerintro5.mp3',  
+          'partyshakerintro6.mp3',  
+          'partyshakerintro7.mp3',  
+          'partyshakerintro8.mp3', 
+          'partyshakerintro9.mp3',  
+          'partyshakerintro10.mp3',  
+          'partyshakerintro11.mp3',  
+          'partyshakerintro12.mp3',  
+          'partyshakerintro13.mp3',  
+          'partyshakerintro14.mp3',  
+          'partyshakerintro15.mp3'],  
+   song:'rioniccopartyshaker.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Alemania (🇩🇪) / interprete: R.I.O. (Nicco) / cancion: Party Shaker  &nbsp&nbsp&nbsp&#160&#160&#160"  
+ }  
+
+
