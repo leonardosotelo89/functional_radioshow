@@ -15,6 +15,7 @@ const list1 = []
    song:'sonidos1/aquarosesarered.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: dinamarca (🇩🇰) / interprete: aqua / cancion: roses are red &nbsp&nbsp&nbsp&#160&#160&#160"  
  } 
+
  list1[1] = { 
    intro:['introsone/yalanintro1.mp3', 
           'introsone/yalanintro2.mp3',  
@@ -31,6 +32,7 @@ const list1 = []
    song:'sonidos1/edisyalan.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Turquía (🇹🇷) / interprete: Edis / cancion: Yalan &nbsp&nbsp&nbsp&#160&#160&#160"  
  } 
+
  list1[2] = { 
    intro:['introsone/sotokorintro1.mp3', 
           'introsone/sotokorintro2.mp3',  
@@ -47,6 +49,7 @@ const list1 = []
    song:'sonidos1/fardinsaadatsotokor.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: iran (🇮🇷) / interprete: Fardin Saadat / cancion: Soto Kor &nbsp&nbsp&nbsp&#160&#160&#160"  
  } 
+
  list1[3] = { 
    intro:['introsone/tymenyazabudintro1.mp3', 
           'introsone/tymenyazabudintro2.mp3',  
@@ -63,6 +66,7 @@ const list1 = []
    song:'sonidos1/djpiligrimtymenyazabud.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Uzbekistan (🇺🇿) / interprete: dj piligrim / cancion: ty menya zabud &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[4] = { 
    intro:['introsone/oynasunintro1.mp3', 
           'introsone/oynasunintro2.mp3',  
@@ -80,6 +84,7 @@ const list1 = []
    song:'sonidos1/shahrizodaoynasun.mp3', 
    text:"&nbsp&nbsp&nbsp&#160&#160&#160 pais: Uzbekistan (🇺🇿) / interprete: Shahrizoda / cancion: oynasun &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[5] = { 
    intro:['introsone/boroborointro1.mp3', 
           'introsone/boroborointro2.mp3',  
@@ -96,6 +101,7 @@ const list1 = []
    song:'sonidos1/arashboroboro.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: iran (🇮🇷) / interprete: arash / cancion: boro boro &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[6] = { 
    intro:['introsone/krasotadushiintro1.mp3', 
           'introsone/krasotadushiintro2.mp3',  
@@ -113,6 +119,7 @@ const list1 = []
    song:'sonidos1/fatimaypieraijokrasotadushi.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rusia (🇷🇺) / interprete: fatima y pier aijo / cancion: krasota dushi &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[7] = { 
    intro:['introsone/ageberiintro1.mp3', 
           'introsone/ageberiintro2.mp3',  
@@ -128,6 +135,7 @@ const list1 = []
    song:'sonidos1/maziarsammeageberi.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: iran (🇮🇷) / interprete: maziar samme / cancion: age beri &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[8] = { 
    intro:['introsone/manobavarkonintro1.mp3', 
           'introsone/manobavarkonintro2.mp3',  
@@ -144,6 +152,7 @@ const list1 = []
    song:'sonidos1/pouyabayatimanobavarkon.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: iran (🇮🇷) / interprete: pouya bayati / cancion: mano bavar kon &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[9] = { 
    intro:['introsone/bimarefatintro1.mp3', 
           'introsone/bimarefatintro2.mp3',  
@@ -161,6 +170,7 @@ const list1 = []
    song:'sonidos1/aliabdolmalekibimarefat.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: iran (🇮🇷) / interprete: ali abdolmaleki / cancion: bi marefat &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[10] = { 
    intro:['introsone/macalinaintro1.mp3', 
           'introsone/macalinaintro2.mp3',  
@@ -176,6 +186,7 @@ const list1 = []
    song:'sonidos1/kendjigiracmacalina.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: francia (🇫🇷) / interprete: kendji girac / cancion: ma calina &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[11] = { 
    intro:['introsone/andalouseintro1.mp3', 
           'introsone/andalouseintro2.mp3',  
@@ -193,6 +204,7 @@ const list1 = []
    song:'sonidos1/kendjigiracandalouse.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: francia (🇫🇷) / interprete: kendji girac / cancion: andalouse &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[12] = { 
    intro:['introsone/yasoshlasumaintro1.mp3', 
           'introsone/yasoshlasumaintro2.mp3',  
@@ -211,6 +223,7 @@ const list1 = []
    song:'sonidos1/tatuyasoshlasuma.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rusia (🇷🇺) / interprete: tatu / cancion: ya soshla s uma &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[13] = { 
    intro:['introsone/allaboutusintro1.mp3', 
           'introsone/allaboutusintro2.mp3',  
@@ -226,6 +239,7 @@ const list1 = []
    song:'sonidos1/tatuallaboutus.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rusia (🇷🇺) / interprete: tatu / cancion: all about us &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[14] = { 
    intro:['introsone/allthethingsshesaidintro1.mp3', 
           'introsone/allthethingsshesaidintro2.mp3',  
@@ -241,6 +255,7 @@ const list1 = []
    song:'sonidos1/tatuallthethingsshesaid.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rusia (🇷🇺) / interprete: tatu / cancion: all the things she said &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[15] = { 
    intro:['introsone/pahaltapiilossaintro1.mp3', 
           'introsone/pahaltapiilossaintro2.mp3',  
@@ -257,6 +272,7 @@ const list1 = []
    song:'sonidos1/suviterasniskapahaltapiilossa.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: finlandia (🇫🇮) / interprete: suvi terasniska / cancion: pahalta piilossa &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[16] = { 
    intro:['introsone/tirnanogintro1.mp3', 
           'introsone/tirnanogintro2.mp3',  
@@ -273,6 +289,7 @@ const list1 = []
    song:'sonidos1/celticwomantirnanog.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: irlanda (🇮🇪) / interprete: celtic woman / cancion: tir na nog &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[17] = { 
    intro:['introsone/naachmeriraniintro1.mp3', 
           'introsone/naachmeriraniintro2.mp3',  
@@ -289,6 +306,7 @@ const list1 = []
    song:'sonidos1/gururandhawaynorafatehinaachmerirani.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: india (🇮🇳) - canada (🇨🇦) / interprete: guru randhawa y nora fatehi / cancion: naach meri rani &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[18] = { 
    intro:['introsone/tandangintro1.mp3', 
           'introsone/tandangintro2.mp3',  
@@ -306,6 +324,7 @@ const list1 = []
    song:'sonidos1/djk8remixcaojintandang.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: china (🇨🇳) / interprete: djk8 remix cao jin / cancion: tandang &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[19] = { 
    intro:['introsone/boshretkheirintro1.mp3', 
           'introsone/boshretkheirintro2.mp3',  
@@ -322,6 +341,7 @@ const list1 = []
    song:'sonidos1/djmusaliboshretkheir.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: emiratos arabes unidos (🇦🇪) / interprete: dj musali (black arabia) / cancion: boshret kheir &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[20] = { 
    intro:['introsone/venavenaintro1.mp3', 
           'introsone/venavenaintro2.mp3',  
@@ -337,6 +357,7 @@ const list1 = []
    song:'sonidos1/sozersepetcivenavena.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: turquia (🇹🇷) / interprete: sözer sepetçi / cancion: vêna vêna &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[21] = { 
    intro:['introsone/amenointro1.mp3', 
           'introsone/amenointro2.mp3',  
@@ -352,6 +373,7 @@ const list1 = []
    song:'sonidos1/eraameno.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: francia (🇫🇷) / interprete: era / cancion: ameno &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[22] = { 
    intro:['introsone/xanaduintro1.mp3', 
           'introsone/xanaduintro2.mp3',  
@@ -369,6 +391,7 @@ const list1 = []
    song:'sonidos1/ummetozcanxanadu.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: holanda (🇳🇱) / interprete: ummet ozcan / cancion: xanadu &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[23] = { 
    intro:['introsone/ayimointro1.mp3', 
           'introsone/ayimointro2.mp3', 
@@ -385,6 +408,7 @@ const list1 = []
    song:'sonidos1/grupoajitaiayimo.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: china (🇨🇳) / interprete: grupo ajitai / cancion: ayimo &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[24] = { 
    intro:['introsone/daritezhenshchinamtsvetyintro1.mp3', 
           'introsone/daritezhenshchinamtsvetyintro2.mp3',  
@@ -400,6 +424,7 @@ const list1 = []
    song:'sonidos1/jazzdaurendaritezhenshchinamtsvety.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Kazajistán (🇰🇿) / interprete: jazzdauren / cancion: darite zhenshchinam tsvety &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[25] = { 
    intro:['introsone/gulyanananeyintro1.mp3', 
           'introsone/gulyanananeyintro2.mp3',  
@@ -415,6 +440,7 @@ const list1 = []
    song:'sonidos1/gulyanananey.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rusia (🇷🇺) / interprete: gulya / cancion: na na ney &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[26] = { 
    intro:['introsone/yallaintro1.mp3', 
           'introsone/yallaintro2.mp3',  
@@ -432,6 +458,7 @@ const list1 = []
    song:'sonidos1/innayalla.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rumania (🇷🇴) / interprete: inna / cancion: yalla &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[27] = { 
    intro:['introsone/uyghurdancemixintro1.mp3', 
           'introsone/uyghurdancemixintro2.mp3',  
@@ -449,6 +476,7 @@ const list1 = []
    song:'sonidos1/ablimitjanmemetuyghurdancemix.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: china (🇨🇳) / interprete: ablimitjan memet / cancion: uyghur dance &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[28] = { 
    intro:['introsone/derindarbeintro1.mp3', 
           'introsone/derindarbeintro2.mp3',  
@@ -466,6 +494,7 @@ const list1 = []
    song:'sonidos1/tugbaozerkderindarbe.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: turquia (🇹🇷) / interprete: Tuğba Özerk / cancion: derin darbe &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[29] = { 
    intro:['introsone/gamsizintro1.mp3', 
           'introsone/gamsizintro2.mp3',  
@@ -481,6 +510,7 @@ const list1 = []
    song:'sonidos1/hilalcebeciydogusgamsiz.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: turquia (🇹🇷) / interprete: Hilal Cebeci y Doğuş / cancion: gamsiz &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[30] = { 
    intro:['introsone/madinabuibuiintro1.mp3', 
           'introsone/madinabuibuiintro2.mp3',  
@@ -496,6 +526,7 @@ const list1 = []
    song:'sonidos1/madinaibragimovabuibui.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rusia (🇷🇺) / interprete: madina ibragimova / cancion: bui-bui &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[31] = { 
    intro:['introsone/tristarbuibuiintro1.mp3', 
           'introsone/tristarbuibuiintro2.mp3',  
@@ -511,6 +542,7 @@ const list1 = []
    song:'sonidos1/grupotristarbuibui.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: kirguistan (🇰🇬) / interprete: grupo tristar / cancion: bui-bui &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[32] = { 
    intro:['introsone/mechtyotebeintro1.mp3', 
           'introsone/mechtyotebeintro2.mp3',  
@@ -526,6 +558,7 @@ const list1 = []
    song:'sonidos1/fatimarabadanovaypieraijomechtyotebe.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rusia (🇷🇺) / interprete: fatima rabadanova y pier aijo / cancion: mechty o tebe &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[33] = { 
    intro:['introsone/izdaxmayliaginadoslaintro1.mp3', 
           'introsone/izdaxmayliaginadoslaintro2.mp3',  
@@ -541,6 +574,7 @@ const list1 = []
    song:'sonidos1/yusupaliroziizdaxmayliaginadosla.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: china (🇨🇳) / interprete: yusup ali rozi / cancion: izdaxmayli agina dosla &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[34] = { 
    intro:['introsone/oynaintro1.mp3', 
           'introsone/oynaintro2.mp3',  
@@ -556,6 +590,7 @@ const list1 = []
    song:'sonidos1/maratsautovoyna.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: china (🇨🇳) / interprete: marat sautov / cancion: oyna &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[35] = { 
    intro:['introsone/dujtarakifarjoriintro1.mp3', 
           'introsone/dujtarakifarjoriintro2.mp3',  
@@ -571,6 +606,7 @@ const list1 = []
    song:'sonidos1/zulaykhomahmadshoevadukhtarakifarkhori.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Tayikistán (🇹🇯) / interprete: Zulaykho Mahmadshoeva / cancion: Dukhtaraki Farkhori  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[36] = { 
    intro:['introsone/lovemeintro1.mp3', 
           'introsone/lovemeintro2.mp3',  
@@ -586,6 +622,7 @@ const list1 = []
    song:'sonidos1/fatimarabadanovaykurbangusaykhanovloveme.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rusia (🇷🇺) / interprete: fatima rabadanova y kurban gusaykhanov / cancion: love me  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[37] = { 
    intro:['introsone/tepegoepaintro1.mp3', 
           'introsone/tepegoepaintro2.mp3', 
@@ -601,6 +638,7 @@ const list1 = []
    song:'sonidos1/alexferraritepegoepa.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: brasil (🇧🇷) / interprete: alex ferrari / cancion: te pego e pa  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[38] = { 
    intro:['introsone/kisskissintro1.mp3', 
           'introsone/kisskissintro2.mp3', 
@@ -616,6 +654,7 @@ const list1 = []
    song:'sonidos1/tarkankisskiss.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: turquia (🇹🇷) / interprete: tarkan / cancion: kiss kiss (şimarik)  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }    
+
  list1[39] = { 
    intro:['introsone/schustermeenamoreintro1.mp3', 
           'introsone/schustermeenamoreintro2.mp3',  
@@ -631,6 +670,7 @@ const list1 = []
    song:'sonidos1/augustoschustermeenamore.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: chile (🇨🇱) / interprete: augusto schuster / cancion: me enamore  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[40] = { 
    intro:['introsone/dancingondangerousintro1.mp3', 
           'introsone/dancingondangerousintro2.mp3', 
@@ -646,6 +686,7 @@ const list1 = []
    song:'sonidos1/imanbekseanpaulsofiareyesdancingondangerous.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: kazajistan (🇰🇿) - jamaica (🇯🇲) - mexico (🇲🇽) / interprete: imanbek - sean paul - sofia reyes / cancion: dancing on dangerous  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[41] = { 
    intro:['introsone/schusterhastaelamanecerintro1.mp3', 
           'introsone/schusterhastaelamanecerintro2.mp3', 
@@ -661,6 +702,7 @@ const list1 = []
    song:'sonidos1/augustoschusterhastaelamanecer.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: chile (🇨🇱) / interprete: augusto schuster / cancion: hasta el amanecer  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[42] = { 
    intro:['introsone/bailamosintro1.mp3', 
           'introsone/bailamosintro2.mp3', 
@@ -676,6 +718,7 @@ const list1 = []
    song:'sonidos1/enriqueiglesiasbailamos.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: españa (🇪🇸) / interprete: enrique iglesias / cancion: bailamos  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[43] = { 
    intro:['introsone/unanochemasintro1.mp3', 
           'introsone/unanochemasintro2.mp3', 
@@ -691,6 +734,7 @@ const list1 = []
    song:'sonidos1/jenniferlopezunanochemas.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: estados unidos (🇺🇸) / interprete: jennifer lopez ( j-lo ) / cancion: una noche mas  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[44] = { 
    intro:['introsone/unañosinlluviaintro1.mp3', 
           'introsone/unañosinlluviaintro2.mp3',  
@@ -706,6 +750,7 @@ const list1 = []
    song:'sonidos1/selenagomezunañosinlluvia.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: estados unidos (🇺🇸) / interprete: selena gomez / cancion: un año sin lluvia  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[45] = { 
    intro:['introsone/genioatrapadointro1.mp3', 
           'introsone/genioatrapadointro2.mp3', 
@@ -721,6 +766,7 @@ const list1 = []
    song:'sonidos1/christinaaguileragenioatrapado.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: estados unidos (🇺🇸) / interprete: christina aguilera / cancion: genio atrapado  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[46] = { 
    intro:['introsone/mienteintro1.mp3', 
           'introsone/mienteintro2.mp3', 
@@ -736,6 +782,7 @@ const list1 = []
    song:'sonidos1/enriqueiglesiasmiente.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: españa (🇪🇸) / interprete: enrique iglesias / cancion: miente  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[47] = { 
    intro:['introsone/danceagainintro1.mp3', 
           'introsone/danceagainintro2.mp3', 
@@ -751,6 +798,7 @@ const list1 = []
    song:'sonidos1/jenniferlopezypitbulldanceagain.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: estados unidos (🇺🇸) / interprete: jennifer lopez y pitbull / cancion: dance again  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[48] = { 
    intro:['introsone/dimeintro1.mp3', 
           'introsone/dimeintro2.mp3', 
@@ -766,6 +814,7 @@ const list1 = []
    song:'sonidos1/karenpaoladime.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: chile (🇨🇱) / interprete: karen paola / cancion: dime  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[49] = { 
    intro:['introsone/summerloveintro1.mp3', 
           'introsone/summerloveintro2.mp3', 
@@ -781,6 +830,7 @@ const list1 = []
    song:'sonidos1/karenoliviersummerlove.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: chile (🇨🇱) / interprete: karen olivier / cancion: summer love  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[50] = { 
    intro:['introstwo/nobodylikeyouintro1.mp3', 
           'introstwo/nobodylikeyouintro2.mp3',  
@@ -796,6 +846,7 @@ const list1 = []
    song:'sonidos2/francoelgorilayoneillnobodylikeyou.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: puerto rico (🇵🇷) / interprete: franco el gorila y o'neill / cancion: nobody like you   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[51] = { 
    intro:['introstwo/taubataubaintro1.mp3', 
           'introstwo/taubataubaintro2.mp3', 
@@ -811,6 +862,7 @@ const list1 = []
    song:'sonidos2/karanaujlataubatauba.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: india (🇮🇳) / interprete: karan aujla / cancion: tauba tauba   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[52] = { 
    intro:['introstwo/laultimatentacionintro1.mp3', 
           'introstwo/laultimatentacionintro2.mp3', 
@@ -826,6 +878,7 @@ const list1 = []
    song:'sonidos2/mariajosequintanillaluisjarafrancoelgorilalaultimatentacion.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: chile (🇨🇱) - puerto rico (🇵🇷) / interprete: maria jose quintanilla - luis jara - franco el gorila / cancion: la ultima tentacion  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[53] = { 
    intro:['introstwo/meresapnokiraniintro1.mp3', 
           'introstwo/meresapnokiraniintro2.mp3',  
@@ -841,6 +894,7 @@ const list1 = []
    song:'sonidos2/tamanabatiadiviakumarmeresapnokirani.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: india (🇮🇳) / interprete: Tamanna Bhatia y Divya Kumar / cancion: mere sapno ki rani  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[54] = { 
    intro:['introstwo/istoriyaintro1.mp3', 
           'introstwo/istoriyaintro2.mp3', 
@@ -856,6 +910,7 @@ const list1 = []
    song:'sonidos2/myroistoriya.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rusia (🇷🇺) / interprete: MY-RO / cancion: istoriya  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[55] = { 
    intro:['introstwo/jiumengintro1.mp3', 
           'introstwo/jiumengintro2.mp3', 
@@ -871,6 +926,7 @@ const list1 = []
    song:'sonidos2/tongxinjiumeng.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: china (🇨🇳) / interprete: tong xin / cancion: jiu meng (dj version)  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[56] = { 
    intro:['introstwo/avishnyakrasnayaintro1.mp3', 
           'introstwo/avishnyakrasnayaintro2.mp3', 
@@ -886,6 +942,7 @@ const list1 = []
    song:'sonidos2/kristinasokolovaavishnyakrasnaya.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rusia (🇷🇺) / interprete: kristina sokolova / cancion: a vishnya krasnaya  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[57] = { 
    intro:['introstwo/nabelompokryvaleyanvaryaintro1.mp3', 
           'introstwo/nabelompokryvaleyanvaryaintro2.mp3',  
@@ -901,6 +958,7 @@ const list1 = []
    song:'sonidos2/kamazznabelompokryvaleyanvarya.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rusia (🇷🇺) / interprete: kamazz / cancion: na belom pokryvale yanvarya  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[58] = { 
    intro:['introstwo/nidedaanintro1.mp3', 
           'introstwo/nidedaanintro2.mp3', 
@@ -916,6 +974,7 @@ const list1 = []
    song:'sonidos2/ziyaonidedaan.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: china (🇨🇳) / interprete: zǐ yáo / cancion: Nǐ de dá'àn  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[59] = { 
    intro:['introstwo/oistamamintro1.mp3', 
           'introstwo/oistamamintro2.mp3', 
@@ -931,6 +990,7 @@ const list1 = []
    song:'sonidos2/mumtazatesoistamam.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: turquia (🇹🇷) / interprete: mümtaz ateş / cancion: o iş tamam &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[60] = { 
    intro:['introstwo/keerintro1.mp3', 
           'introstwo/keerintro2.mp3', 
@@ -946,6 +1006,7 @@ const list1 = []
    song:'sonidos2/chinchiuchekeer.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: china (🇨🇳) / interprete: jīnjiǔ zhé / cancion: Kē er  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[61] = { 
    intro:['introstwo/echamelaculpaintro1.mp3', 
           'introstwo/echamelaculpaintro2.mp3',  
@@ -961,6 +1022,7 @@ const list1 = []
    song:'sonidos2/luisfonsiydemilovatoechamelaculpa.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: puerto rico (🇵🇷) - estados unidos (🇺🇸) / interprete: luis fonsi y demi lovato / cancion: echame la culpa  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[62] = { 
    intro:['introstwo/glowenosdogoryintro1.mp3',  
           'introstwo/glowenosdogoryintro2.mp3', 
@@ -976,6 +1038,7 @@ const list1 = []
    song:'sonidos2/pectuskasiacerekwickaglowenosdogory.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: polonia (🇵🇱) / interprete: pectus & Kasia Cerekwicka / cancion: Głowę noś do góry   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[63] = { 
    intro:['introstwo/ritmototalintro1.mp3',  
           'introstwo/ritmototalintro2.mp3', 
@@ -991,6 +1054,7 @@ const list1 = []
    song:'sonidos2/enriqueiglesiasritmototal.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: españa (🇪🇸) / interprete: enrique iglesias / cancion: ritmo total   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[64] = { 
    intro:['introstwo/chtochtylyetaintro1.mp3',  
           'introstwo/chtochtylyetaintro2.mp3', 
@@ -1006,6 +1070,7 @@ const list1 = []
    song:'sonidos2/yekaterinadenisovachtochtylyeta.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rusia (🇷🇺) / interprete: Yekaterina Denisova / cancion: Chto zh ty lyeta   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[65] = { 
    intro:['introstwo/tejocicuminteameaintro1.mp3',  
           'introstwo/tejocicuminteameaintro2.mp3',  
@@ -1021,6 +1086,7 @@ const list1 = []
    song:'sonidos2/sandranmariusnedelcutejocicuminteamea.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rumania (🇷🇴) / interprete: Sandra N. feat. Marius Nedelcu / cancion: Te joci cu mintea mea   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[66] = { 
    intro:['introstwo/introziintro1.mp3',  
           'introstwo/introziintro2.mp3', 
@@ -1036,6 +1102,7 @@ const list1 = []
    song:'sonidos2/valentindinuanyaintrozi.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rumania (🇷🇴) / interprete: valentin dinu y anya / cancion: intr-o zi   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[67] = { 
    intro:['introstwo/doarpentrutineintro1.mp3',  
           'introstwo/doarpentrutineintro2.mp3', 
@@ -1051,6 +1118,7 @@ const list1 = []
    song:'sonidos2/iulianpetcodoarpentrutine.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: moldavia (🇲🇩) / interprete: iulian petco / cancion: doar pentru tine   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[68] = { 
    intro:['introstwo/pananzoriintro1.mp3',  
           'introstwo/pananzoriintro2.mp3', 
@@ -1066,6 +1134,7 @@ const list1 = []
    song:'sonidos2/vasilemacoveipananzori.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: moldavia (🇲🇩) / interprete: vasile macovei / cancion: Până-n zori   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[69] = { 
    intro:['introstwo/amanamanintro1.mp3',  
           'introstwo/amanamanintro2.mp3', 
@@ -1081,6 +1150,7 @@ const list1 = []
    song:'sonidos2/eldaramanaman.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Azerbaijan (🇦🇿) / interprete: eldar / cancion: Aman-Aman  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[70] = { 
    intro:['introstwo/guelmeneintro1.mp3',  
           'introstwo/guelmeneintro2.mp3', 
@@ -1096,6 +1166,7 @@ const list1 = []
    song:'sonidos2/sevdayahyayevagelmene.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Azerbaijan (🇦🇿) / interprete: Sevda Yahyayeva / cancion: Gəl Mənə  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[71] = { 
    intro:['introstwo/seviramintro1.mp3',  
           'introstwo/seviramintro2.mp3', 
@@ -1111,6 +1182,7 @@ const list1 = []
    song:'sonidos2/miriyusifseviram.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Azerbaijan (🇦🇿) / interprete: miri yusif / cancion: Sevirəm  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[72] = { 
    intro:['introstwo/kameliaintro1.mp3',  
           'introstwo/kameliaintro2.mp3', 
@@ -1126,6 +1198,7 @@ const list1 = []
    song:'sonidos2/akcentlidiabubleddynuneskamelia.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) - Brasil (🇧🇷) / interprete: akcent con lidia buble y ddy nunes / cancion: Kamelia  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[73] = { 
    intro:['introstwo/miloyavointro1.mp3',  
           'introstwo/miloyavointro2.mp3',  
@@ -1141,6 +1214,7 @@ const list1 = []
    song:'sonidos2/avrahamtalbenaiabarabimiloyavo.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Israel (🇮🇱) / interprete: Avraham Tal y Benaia Barabi / cancion: mi lo yavo  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[74] = { 
    intro:['introstwo/bonadliktaeshintro1.mp3',  
           'introstwo/bonadliktaeshintro2.mp3',  
@@ -1156,6 +1230,7 @@ const list1 = []
    song:'sonidos2/itzikorlevbonadliktaesh.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Israel (🇮🇱) / interprete: itzik orlev / cancion: bo nadlik t'esh  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[75] = { 
    intro:['introstwo/majshavottovotintro1.mp3',  
           'introstwo/majshavottovotintro2.mp3',  
@@ -1171,6 +1246,7 @@ const list1 = []
    song:'sonidos2/motiweissmachshavottovot.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Israel (🇮🇱) / interprete: motty weiss / cancion: Machshavot Tovot  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[76] = { 
    intro:['introstwo/yamaintro1.mp3',  
           'introstwo/yamaintro2.mp3',  
@@ -1186,6 +1262,7 @@ const list1 = []
    song:'sonidos2/bennyfriedmanyama.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: estados unidos (🇺🇸) / interprete: benny friedman / cancion: YAMA  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[77] = { 
    intro:['introstwo/sanavaguiintro1.mp3',  
           'introstwo/sanavaguiintro2.mp3', 
@@ -1201,6 +1278,7 @@ const list1 = []
    song:'sonidos2/ninosanavagui.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Grecia (🇬🇷) / interprete: nino / cancion: sa navagi  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[78] = { 
    intro:['introstwo/theosintro1.mp3',  
           'introstwo/theosintro2.mp3', 
@@ -1216,6 +1294,7 @@ const list1 = []
    song:'sonidos2/ninotheos.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Grecia (🇬🇷) / interprete: nino / cancion: theos  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[79] = { 
    intro:['introstwo/dodnaintro1.mp3',  
           'introstwo/dodnaintro2.mp3', 
@@ -1231,6 +1310,7 @@ const list1 = []
    song:'sonidos2/oksananasanovichdodna.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bielorrusia (🇧🇾) / interprete: oksana nasanovich / cancion: do dna  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[80] = { 
    intro:['introstwo/paointro1.mp3',  
           'introstwo/paointro2.mp3', 
@@ -1246,6 +1326,7 @@ const list1 = []
    song:'sonidos2/iviadamoukonniemetaxapao.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Grecia (🇬🇷) / interprete: ívi adámou y konnie metaxa / cancion: páo  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[81] = { 
    intro:['introstwo/opoumepasintro1.mp3',  
           'introstwo/opoumepasintro2.mp3', 
@@ -1261,6 +1342,7 @@ const list1 = []
    song:'sonidos2/kingsantonellaopoumepas.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Grecia (🇬🇷) / interprete: kings y antonella / cancion: opou me pas  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[82] = { 
    intro:['introstwo/dyozoesintro1.mp3',  
           'introstwo/dyozoesintro2.mp3', 
@@ -1276,6 +1358,7 @@ const list1 = []
    song:'sonidos2/kingsantonelladyozoes.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Grecia (🇬🇷) / interprete: kings y Antonella / cancion: dyo zoes  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[83] = { 
    intro:['introstwo/giatimetyrannasintro1.mp3',  
           'introstwo/giatimetyrannasintro2.mp3', 
@@ -1291,6 +1374,7 @@ const list1 = []
    song:'sonidos2/dimitriskokotasgiatimetyrannas.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Grecia (🇬🇷) / interprete: Dimítris Kókotas / cancion: Giatí Me Tyrannás  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[84] = { 
    intro:['introstwo/byagayintro1.mp3',  
           'introstwo/byagayintro2.mp3', 
@@ -1306,6 +1390,7 @@ const list1 = []
    song:'sonidos2/slavigumzatakukubandbyagay.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bulgaria (🇧🇬) / interprete: Slavi, Gumzata & Ku-Ku Band / cancion: Byagay  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[85] = { 
    intro:['introstwo/oshteintro1.mp3',  
           'introstwo/oshteintro2.mp3', 
@@ -1321,6 +1406,7 @@ const list1 = []
    song:'sonidos2/vanesaoshte.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bulgaria (🇧🇬) / interprete: vanesa / cancion: oshte  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[86] = { 
    intro:['introstwo/nainatintro1.mp3',  
           'introstwo/nainatintro2.mp3', 
@@ -1337,6 +1423,7 @@ const list1 = []
    song:'sonidos2/poligenovanainat.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bulgaria (🇧🇬) / interprete: Poli Genova / cancion: Na Inat  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[87] = { 
    intro:['introstwo/samotiintro1.mp3',  
           'introstwo/samotiintro2.mp3', 
@@ -1353,6 +1440,7 @@ const list1 = []
    song:'sonidos2/lazarsamoti.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bulgaria (🇧🇬) / interprete: Lazar / cancion: Samo Ti  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[88] = { 
    intro:['introstwo/dokraiintro1.mp3',  
           'introstwo/dokraiintro2.mp3', 
@@ -1369,6 +1457,7 @@ const list1 = []
    song:'sonidos2/andreadokrai.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bulgaria (🇧🇬) / interprete: ANDREA / cancion: Dokrai &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[89] = { 
    intro:['introstwo/noshttagarmiintro1.mp3',  
           'introstwo/noshttagarmiintro2.mp3', 
@@ -1385,6 +1474,7 @@ const list1 = []
    song:'sonidos2/galinlorenanoshttagarmi.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bulgaria (🇧🇬) / interprete: Galin & Lorena / cancion: NOSHTTA GARMI   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[90] = { 
    intro:['introstwo/pecsaulesrietaintro1.mp3',  
           'introstwo/pecsaulesrietaintro2.mp3', 
@@ -1401,6 +1491,7 @@ const list1 = []
    song:'sonidos2/denijsgriezenikolajspuzikovspecsaulesrieta.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Letonia (🇱🇻) / interprete: Denijs Grieze y Nikolajs Puzikovs / cancion: Pēc saules rieta  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[91] = { 
    intro:['introstwo/garigaisariintro1.mp3',  
           'introstwo/garigaisariintro2.mp3', 
@@ -1417,6 +1508,7 @@ const list1 = []
    song:'sonidos2/musiqqgarigaisari.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Letonia (🇱🇻) / interprete: musiqq (Marats Ogļezņevs y Emīls Balceris) / cancion: Garīgais arī   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[92] = { 
    intro:['introstwo/muzikaplustpavenamintro1.mp3',  
           'introstwo/muzikaplustpavenamintro2.mp3', 
@@ -1433,6 +1525,7 @@ const list1 = []
    song:'sonidos2/musiqqmuzikaplustpavenam.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Letonia (🇱🇻) / interprete: musiqq (Marats Ogļezņevs y Emīls Balceris) / cancion: Mūzika Plūst Pa Vēnām   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[93] = { 
    intro:['introstwo/mannesanakintro1.mp3',  
           'introstwo/mannesanakintro2.mp3', 
@@ -1451,6 +1544,7 @@ const list1 = []
    song:'sonidos2/markusrivasamantatinamannesanak.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Letonia (🇱🇻) / interprete: MARKUS RIVA y SAMANTA TĪNA / cancion: MAN NESANĀK &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[94] = { 
    intro:['introstwo/vinasvaraintro1.mp3',  
           'introstwo/vinasvaraintro2.mp3', 
@@ -1469,6 +1563,7 @@ const list1 = []
    song:'sonidos2/dweennikolajspuzikovsmixtypervinasvara.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Letonia (🇱🇻) / interprete: Dween & Nikolajs Puzikovs pied. Mixtyper / cancion: Viņas varā &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[95] = { 
    intro:['introstwo/tuesikarstaintro1.mp3',  
           'introstwo/tuesikarstaintro2.mp3', 
@@ -1487,6 +1582,7 @@ const list1 = []
    song:'sonidos2/dweennikolajspuzikovstuesikarsta.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Letonia (🇱🇻) / interprete: Dween un Nikolajs Puzikovs / cancion: Tu esi karsta &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[96] = { 
    intro:['introstwo/netilistigaintro1.mp3',  
           'introstwo/netilistigaintro2.mp3', 
@@ -1505,6 +1601,7 @@ const list1 = []
    song:'sonidos2/mihaelamarinovanetilistiga.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bulgaria (🇧🇬) / interprete: Mihaela Marinova / cancion: ne ti li stiga  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[97] = { 
    intro:['introstwo/napasintro1.mp3',  
           'introstwo/napasintro2.mp3', 
@@ -1523,6 +1620,7 @@ const list1 = []
    song:'sonidos2/konstatinosgalanosnapas.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Grecia (🇬🇷) / interprete: Konstantinos Galanos / cancion: na pas  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[98] = { 
    intro:['introstwo/vradiaaksimerotaintro1.mp3',  
           'introstwo/vradiaaksimerotaintro2.mp3', 
@@ -1541,6 +1639,7 @@ const list1 = []
    song:'sonidos2/petrosiakovidisvradiaaksimerota.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Grecia (🇬🇷) / interprete: petros iakovidis / cancion: Vrádia Aksimérota   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list1[99] = { 
    intro:['introstwo/pecarareamuntilorintro1.mp3',  
           'introstwo/pecarareamuntilorintro2.mp3', 
