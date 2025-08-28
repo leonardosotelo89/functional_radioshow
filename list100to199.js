@@ -19,6 +19,7 @@ list2[0] = {
    song:'jessicashydeltaves.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Lituania (🇱🇹) / interprete: Jessica shy / cancion: Dėl Tavęs  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[1] = { 
    intro:['nezaiskintro1.mp3',  
           'nezaiskintro2.mp3', 
@@ -38,6 +39,7 @@ list2[0] = {
    song:'martynaskavaliauskasnezaisk.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Lituania (🇱🇹) / interprete: Martynas Kavaliauskas / cancion: Nežaisk  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[2] = { 
    intro:['soksiuvienaintro1.mp3',  
           'soksiuvienaintro2.mp3', 
@@ -56,6 +58,7 @@ list2[0] = {
    song:'vysniossoksiuviena.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Lituania (🇱🇹) / interprete: VYŠNIOS / cancion: Šoksiu viena  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[3] = { 
    intro:['tevagyintro1.mp3',  
           'tevagyintro2.mp3', 
@@ -74,6 +77,7 @@ list2[0] = {
    song:'popnablehungariantevagy.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Hungría (🇭🇺) / interprete: popnable Hungarian (magyar zene) / cancion: Te Vagy  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[4] = { 
    intro:['maskedsingerintro1.mp3',  
           'maskedsingerintro2.mp3', 
@@ -92,6 +96,7 @@ list2[0] = {
    song:'popnableukmaskedsinger.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Reino Unido (🇬🇧) / interprete: popnable edm / cancion: masked singer  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[5] = { 
    intro:['chamintro1.mp3',  
           'chamintro2.mp3', 
@@ -110,6 +115,7 @@ list2[0] = {
    song:'popnablehebrewcham.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Israel (🇮🇱) / interprete: popnable Hebrew / cancion: cham  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[6] = { 
    intro:['kokjiguliintro1.mp3',  
           'kokjiguliintro2.mp3', 
@@ -128,6 +134,7 @@ list2[0] = {
    song:'popnableuzbekkokjiguli.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Uzbekistan (🇺🇿) / interprete: Popnable UZ (uzbek) / cancion: Ko'k Jiguli  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[7] = { 
    intro:['dedodedointro1.mp3',  
           'dedodedointro2.mp3', 
@@ -146,6 +153,7 @@ list2[0] = {
    song:'popnableportuguesededodedo.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Portugal (🇵🇹) / interprete: Popnable PT (Portuguese) / cancion: dedo dedo  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[8] = { 
    intro:['pocsolyabaleptemintro1.mp3',  
           'pocsolyabaleptemintro2.mp3', 
@@ -164,6 +172,7 @@ list2[0] = {
    song:'popnablehungarianpocsolyabaleptem.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Hungría (🇭🇺) / interprete: Popnable HU (Hungarian) / cancion: Pocsolyába Léptem &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[9] = { 
    intro:['hozzamintro1.mp3',  
           'hozzamintro2.mp3', 
@@ -182,6 +191,7 @@ list2[0] = {
    song:'popnablehungarianhozzam.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Hungría (🇭🇺) / interprete: Popnable HU (Hungarian) / cancion: Hozzám &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[10] = { 
    intro:['veshtitsataintro1.mp3',  
           'veshtitsataintro2.mp3', 
@@ -200,6 +210,7 @@ list2[0] = {
    song:'preslavaveshtitsata.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bulgaria (🇧🇬) / interprete: Preslava / cancion: Veshtica Veshtitsa Veshtitsata &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[11] = { 
    intro:['gofelgofintro1.mp3',  
           'gofelgofintro2.mp3', 
@@ -218,6 +229,7 @@ list2[0] = {
    song:'popnablehebrewgofelgof.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Israel (🇮🇱) / interprete: Popnable IL (Hebrew) / cancion: gof el gof  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[12] = { 
    intro:['agapimouintro1.mp3',  
           'agapimouintro2.mp3', 
@@ -236,6 +248,7 @@ list2[0] = {
    song:'popnablegreekagapimou.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Grecia (🇬🇷) / interprete: Popnable (greek) / cancion: Agapi mou &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[13] = { 
    intro:['fouqintro1.mp3',  
           'fouqintro2.mp3', 
@@ -254,6 +267,7 @@ list2[0] = {
    song:'popnablearabicfouq.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: arabia (🇸🇦) / interprete: Popnable arabic / cancion: fouq  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[14] = { 
    intro:['diteenateintro1.mp3',  
           'diteenateintro2.mp3', 
@@ -272,6 +286,7 @@ list2[0] = {
    song:'popnablealbanianditeenate.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Albania (🇦🇱) / interprete: Popnable AL (Albanian) / cancion: Ditë E Natë &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[15] = { 
    intro:['jemagjiaintro1.mp3',  
           'jemagjiaintro2.mp3', 
@@ -290,6 +305,7 @@ list2[0] = {
    song:'popnablealbanianjemagjia.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Albania (🇦🇱) / interprete: Popnable AL (Albanian) / cancion: Je Magjia &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[16] = { 
    intro:['sitevazhdojintro1.mp3',  
           'sitevazhdojintro2.mp3', 
@@ -308,6 +324,7 @@ list2[0] = {
    song:'popnablealbaniansitevazhdoj.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Albania (🇦🇱) / interprete: Popnable AL (Albanian) / cancion: Si Të Vazhdoj &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[17] = { 
    intro:['kozoynakintro1.mp3',  
           'kozoynakintro2.mp3', 
@@ -326,6 +343,7 @@ list2[0] = {
    song:'popnableuzbekkozoynak.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Uzbekistan (🇺🇿) / interprete: Popnable UZ (uzbek) / cancion: Ko’zoynak  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[18] = { 
    intro:['baxtlimisanintro1.mp3',  
           'baxtlimisanintro2.mp3', 
@@ -344,6 +362,7 @@ list2[0] = {
    song:'popnableuzbekbaxtlimisan.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Uzbekistan (🇺🇿) / interprete: Popnable UZ (uzbek) / cancion: Baxtlimisan  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[19] = { 
    intro:['tasterimouintro1.mp3',  
           'tasterimouintro2.mp3', 
@@ -362,6 +381,7 @@ list2[0] = {
    song:'despinavanditasterimou.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Grecia (🇬🇷) / interprete: Despina Vandi / cancion: T'asteri mou  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[20] = { 
    intro:['katipigelathosintro1.mp3',  
           'katipigelathosintro2.mp3', 
@@ -380,6 +400,7 @@ list2[0] = {
    song:'despinavandikatipigelathos.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Grecia (🇬🇷) / interprete: Despina Vandi / cancion: Kati Pige Lathos   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[21] = { 
    intro:['galerijaintro1.mp3',  
           'galerijaintro2.mp3', 
@@ -398,6 +419,7 @@ list2[0] = {
    song:'laurisreiniksgalerija.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Letonia (🇱🇻) / interprete: Lauris Reiniks / cancion: Galerijā  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[22] = { 
    intro:['myletintro1.mp3',  
           'myletintro2.mp3', 
@@ -416,6 +438,7 @@ list2[0] = {
    song:'livetamylet.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Lituania (🇱🇹) / interprete: Liv@ / cancion: Mylet  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[23] = { 
    intro:['panelevertamilijonointro1.mp3',  
           'panelevertamilijonointro2.mp3', 
@@ -434,6 +457,7 @@ list2[0] = {
    song:'yvapanelevertamilijono.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Lituania (🇱🇹) / interprete: Yva / cancion: Panelė Verta Milijono  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[24] = { 
    intro:['mylekmanekolvasaraintro1.mp3',  
           'mylekmanekolvasaraintro2.mp3', 
@@ -452,6 +476,7 @@ list2[0] = {
    song:'minomylekmanekolvasara.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Lituania (🇱🇹) / interprete: Mino / cancion: Mylėk mane (kol vasara)  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[25] = { 
    intro:['temperaturaintro1.mp3',  
           'temperaturaintro2.mp3', 
@@ -470,6 +495,7 @@ list2[0] = {
    song:'sasakovacevictemperatura.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Serbia (🇷🇸) / interprete: Saša Kovačević / cancion: Temperatura &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[26] = { 
    intro:['tanaooselintro1.mp3',  
           'tanaooselintro2.mp3', 
@@ -489,6 +515,7 @@ list2[0] = {
    song:'shanontanaoosel.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estonia (🇪🇪) / interprete: SHANON / cancion: Täna öösel &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[27] = { 
    intro:['lopmatusesintro1.mp3',  
           'lopmatusesintro2.mp3', 
@@ -507,6 +534,7 @@ list2[0] = {
    song:'ottleplandlopmatuses.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estonia (🇪🇪) / interprete: Ott Lepland / cancion: Lõpmatuses &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[28] = { 
    intro:['lootusesintro1.mp3',  
           'lootusesintro2.mp3', 
@@ -525,6 +553,7 @@ list2[0] = {
    song:'ottleplandlootuses.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estonia (🇪🇪) / interprete: Ott Lepland / cancion: Lootuses &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[29] = { 
    intro:['halbvoiheaintro1.mp3',  
           'halbvoiheaintro2.mp3', 
@@ -543,6 +572,7 @@ list2[0] = {
    song:'liislemsaluhalbvoihea.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estonia (🇪🇪) / interprete: Liis Lemsalu / cancion: Halb või hea &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[30] = { 
    intro:['kolmkordaintro1.mp3',  
           'kolmkordaintro2.mp3', 
@@ -561,6 +591,7 @@ list2[0] = {
    song:'lennakolmkorda.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estonia (🇪🇪) / interprete: Lenna / cancion: Kolm korda &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[31] = { 
    intro:['discocoverintro1.mp3',  
           'discocoverintro2.mp3', 
@@ -579,6 +610,7 @@ list2[0] = {
    song:'kurjadplaaniddiscocover.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estonia (🇪🇪) / interprete: Kurjad Plaanid / cancion: DISCO |COVER| &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[32] = { 
    intro:['needreadintro1.mp3',  
           'needreadintro2.mp3', 
@@ -597,6 +629,7 @@ list2[0] = {
    song:'karleriktaukarneedread.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estonia (🇪🇪) / interprete: Karl-Erik Taukar / cancion: Need Read  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[33] = { 
    intro:['ovunquesaraiintro1.mp3',  
           'ovunquesaraiintro2.mp3', 
@@ -616,6 +649,7 @@ list2[0] = {
    song:'popnableitalianovunquesarai.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Italia (🇮🇹) / interprete: Popnable IT (italian) / cancion: Ovunque Sarai &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[34] = { 
    intro:['tiamointro1.mp3',  
           'tiamointro2.mp3', 
@@ -635,6 +669,7 @@ list2[0] = {
    song:'popnableitaliantiamo.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Italia (🇮🇹) / interprete: Popnable IT (italian) / cancion: Ti Amo  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[35] = { 
    intro:['danmebraintro1.mp3',  
           'danmebraintro2.mp3', 
@@ -654,6 +689,7 @@ list2[0] = {
    song:'kendjigiracenduoavecdadjudansmesbras.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Francia (🇫🇷) / interprete: Kendji Girac en duo avec Dadju / cancion: Dans mes bras  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[36] = { 
    intro:['einunddenselbenintro1.mp3',  
           'einunddenselbenintro2.mp3', 
@@ -673,6 +709,7 @@ list2[0] = {
    song:'chiaradeczeinunddenselben.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Alemania (🇩🇪) / interprete: CHIARA DECZ / cancion: EIN UND DEN SELBEN  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[37] = { 
    intro:['pragarasrojujerojuspragareintro1.mp3',  
           'pragarasrojujerojuspragareintro2.mp3', 
@@ -692,6 +729,7 @@ list2[0] = {
    song:'joliepragarasrojujerojuspragare.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Lituania (🇱🇹) / interprete: Jolie / cancion: Pragaras Rojuje, Rojus Pragare &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[38] = { 
    intro:['minustmoodaeisaaintro1.mp3',  
           'minustmoodaeisaaintro2.mp3', 
@@ -711,6 +749,7 @@ list2[0] = {
    song:'topeltmangminustmoodaeisaa.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estonia (🇪🇪) / interprete: Topeltmäng / cancion: Minust mööda ei saa  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[39] = { 
    intro:['misootabeesintro1.mp3',  
           'misootabeesintro2.mp3', 
@@ -730,6 +769,7 @@ list2[0] = {
    song:'topeltmangmisootabees.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estonia (🇪🇪) / interprete: Topeltmäng / cancion: Mis ootab ees  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[40] = { 
    intro:['negaliuintro1.mp3',  
           'negaliuintro2.mp3', 
@@ -749,6 +789,7 @@ list2[0] = {
    song:'muskatonegaliu.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Lituania (🇱🇹) / interprete: MUSKATO / cancion: Negaliu  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[41] = { 
    intro:['nuintro1.mp3',  
           'nuintro2.mp3', 
@@ -768,6 +809,7 @@ list2[0] = {
    song:'djprojectgiulianu.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) / interprete: DJ Project y Giulia / cancion: Nu  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[42] = { 
    intro:['tavesnetenkuintro1.mp3',  
           'tavesnetenkuintro2.mp3', 
@@ -787,6 +829,7 @@ list2[0] = {
    song:'norbertastavesnetenku.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Lituania (🇱🇹) / interprete: Norbertas / cancion: Tavęs netenku  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[43] = { 
    intro:['vitabellaintro1.mp3',  
           'vitabellaintro2.mp3', 
@@ -806,6 +849,7 @@ list2[0] = {
    song:'havanavitabella.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) Moldavia (🇲🇩) Libia (🇱🇾) / interprete: Havana / cancion: Vita Bella  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[44] = { 
    intro:['cheiainimiimeleintro1.mp3',  
           'cheiainimiimeleintro2.mp3', 
@@ -825,6 +869,7 @@ list2[0] = {
    song:'djprojectmiracheiainimiimele.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) / interprete: DJ Project y Mira / cancion: Cheia Inimii Mele  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[45] = { 
    intro:['tuintro1.mp3',  
           'tuintro2.mp3', 
@@ -844,6 +889,7 @@ list2[0] = {
    song:'oanaraduydrmakofeatelitu.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) / interprete: Oana Radu & Dr Mako feat. Eli / cancion: Tu  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[46] = { 
    intro:['vorbecaredorintro1.mp3',  
           'vorbecaredorintro2.mp3', 
@@ -863,6 +909,7 @@ list2[0] = {
    song:'3reisudestvorbecaredor.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) / interprete: 3rei Sud Est / cancion: Vorbe care dor  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[47] = { 
    intro:['liberiintro1.mp3',  
           'liberiintro2.mp3', 
@@ -882,6 +929,7 @@ list2[0] = {
    song:'3sudestliberi.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) / interprete: 3 sud est / cancion: Liberi   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[48] = { 
    intro:['dorsateadorintro1.mp3',  
           'dorsateadorintro2.mp3', 
@@ -901,6 +949,7 @@ list2[0] = {
    song:'doddyfeatloradjrashikremixdorsateador.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) / interprete: Doddy feat. Lora (DJ RASHIK REMIX 2022) / cancion: Dor Sa Te Ador  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[49] = { 
    intro:['pozadealbumintro1.mp3',  
           'pozadealbumintro2.mp3', 
@@ -920,6 +969,7 @@ list2[0] = {
    song:'mellinafeatvescanpozadealbum.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) / interprete: Mellina feat. Vescan / cancion: Poza de album   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[50] = { 
    intro:['indreaptataintro1.mp3',  
           'indreaptataintro2.mp3', 
@@ -939,6 +989,7 @@ list2[0] = {
    song:'vescancualinaeremiaindreaptata.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) / interprete: Vescan cu Alina Eremia / cancion: In Dreapta Ta   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[51] = { 
    intro:['dacatunuaifiintro1.mp3',  
           'dacatunuaifiintro2.mp3', 
@@ -958,6 +1009,7 @@ list2[0] = {
    song:'ioanaignatyedwardsandadacatunuaifi.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) / interprete: Ioana Ignat & Edward Sanda / cancion: Daca tu nu ai fi   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[52] = { 
    intro:['faratineintro1.mp3',  
           'faratineintro2.mp3', 
@@ -977,6 +1029,7 @@ list2[0] = {
    song:'djprojectfeatadelafaratine.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) / interprete: Dj Project feat. Adela / cancion: Fara tine   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[53] = { 
    intro:['luminaascunsaintro1.mp3',  
           'luminaascunsaintro2.mp3', 
@@ -996,6 +1049,7 @@ list2[0] = {
    song:'popnableromanianluminaascunsa.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) / interprete: Popnable RO (romanian) / cancion: Lumina Ascunsă    &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[54] = { 
    intro:['haisaneiubimcanemtiiintro1.mp3',  
           'haisaneiubimcanemtiiintro2.mp3', 
@@ -1015,6 +1069,7 @@ list2[0] = {
    song:'popnableromanianhaisaneiubimcanemtii.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) / interprete: Popnable RO (romanian) / cancion: Hai Sa Ne Iubim Ca Nemții   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[55] = { 
    intro:['sokeresintro1.mp3',  
           'sokeresintro2.mp3', 
@@ -1034,6 +1089,7 @@ list2[0] = {
    song:'popnableromaniansokeres.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) / interprete: Popnable RO (romanian) / cancion: Sokeres   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[56] = { 
    intro:['birdenemintro1.mp3',  
           'birdenemintro2.mp3', 
@@ -1053,6 +1109,7 @@ list2[0] = {
    song:'talibtalebirdenem.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Azerbaijan (🇦🇿) / interprete: Talıb Tale / cancion: Bir dənəm   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[57] = { 
    intro:['addimaddimintro1.mp3',  
           'addimaddimintro2.mp3', 
@@ -1072,6 +1129,7 @@ list2[0] = {
    song:'talibtaleaddimaddim.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Azerbaijan (🇦🇿) / interprete: Talıb Tale / cancion: Addım-Addım   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[58] = { 
    intro:['tamzarekoiobnimaltebyavposlediyrazintro1.mp3',  
           'tamzarekoiobnimaltebyavposlediyrazintro2.mp3', 
@@ -1091,6 +1149,7 @@ list2[0] = {
    song:'isaiyatamzarekoiobnimaltebyavposledniyraz.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bielorrusia (🇧🇾) / interprete: Isaiya / cancion: Tam Za Rekoy Obnimal Tebya V Posledniy Raz   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[59] = { 
    intro:['chuyuchuyubachubachuintro1.mp3',  
           'chuyuchuyubachubachuintro2.mp3', 
@@ -1110,6 +1169,7 @@ list2[0] = {
    song:'tayunechuyuchuyubachubachu.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Ucrania (🇺🇦) / interprete: Tayune / cancion: Chuyu Chuyu, Bachu Bachu  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[60] = { 
    intro:['doorooghboodintro1.mp3',  
           'doorooghboodintro2.mp3', 
@@ -1129,6 +1189,7 @@ list2[0] = {
    song:'fardinsaadatdoorooghbood.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Irán (🇮🇷) / interprete: Fardin Saadat / cancion: Dooroogh Bood  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[61] = { 
    intro:['tegulsugriuvadangusintro1.mp3',  
           'tegulsugriuvadangusintro2.mp3', 
@@ -1148,6 +1209,7 @@ list2[0] = {
    song:'lietuvaitestegulsugriuvadangus.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Lituania (🇱🇹) / interprete: Lietuvaitės / cancion: Tegul sugriūva dangus  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[62] = { 
    intro:['nuogaintro1.mp3',  
           'nuogaintro2.mp3', 
@@ -1167,6 +1229,7 @@ list2[0] = {
    song:'kristalnuoga.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Lituania (🇱🇹) / interprete: Kristal / cancion: Nuoga  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[63] = { 
    intro:['tyobnimiintro1.mp3',  
           'tyobnimiintro2.mp3', 
@@ -1186,6 +1249,7 @@ list2[0] = {
    song:'goryachiyshokoladtyobnimi.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Ucrania (🇺🇦) / interprete: Goryachiy Shokolad / cancion: Ty Obnimi  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[64] = { 
    intro:['reasontoloveintro1.mp3',  
           'reasontoloveintro2.mp3', 
@@ -1205,6 +1269,7 @@ list2[0] = {
    song:'chadbrownleereasontolove.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Canadá (🇨🇦) / interprete: Chad Brownlee / cancion: Reason to Love  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[65] = { 
    intro:['duweiztesichweizesintro1.mp3',  
           'duweiztesichweizesintro2.mp3', 
@@ -1224,6 +1289,7 @@ list2[0] = {
    song:'biancaholzmannduweiztesichweizes.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Alemania (🇩🇪) / interprete: Bianca Holzmann / cancion: Du weißt es, ich weiß es  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[66] = { 
    intro:['ichbinwieichbinintro1.mp3',  
           'ichbinwieichbinintro2.mp3', 
@@ -1243,6 +1309,7 @@ list2[0] = {
    song:'ginabreseichbinwieichbin.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Alemania (🇩🇪) / interprete: Gina Brese / cancion: Ich bin wie ich bin &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[67] = { 
    intro:['rosensindrotintro1.mp3',  
           'rosensindrotintro2.mp3', 
@@ -1262,6 +1329,7 @@ list2[0] = {
    song:'maitekellyrosensindrot.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Alemania (🇩🇪) / interprete: Maite Kelly / cancion: Rosen sind rot &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[68] = { 
    intro:['eiskaltintro1.mp3',  
           'eiskaltintro2.mp3', 
@@ -1281,6 +1349,7 @@ list2[0] = {
    song:'matthiasreimeiskalt.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Alemania (🇩🇪) / interprete: Matthias Reim / cancion: Eiskalt &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[69] = { 
    intro:['rainintro1.mp3',  
           'rainintro2.mp3', 
@@ -1300,6 +1369,7 @@ list2[0] = {
    song:'reeafeatakcentrain.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) / interprete: Reea feat. Akcent / cancion: Rain (Habibi)  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[70] = { 
    intro:['monamourintro1.mp3',  
           'monamourintro2.mp3', 
@@ -1319,6 +1389,7 @@ list2[0] = {
    song:'reeamonamour.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) / interprete: REEA / cancion: Mon Amour  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[71] = { 
    intro:['homayintro1.mp3',  
           'homayintro2.mp3', 
@@ -1338,6 +1409,7 @@ list2[0] = {
    song:'ayyolahomay.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rusia (🇷🇺) / interprete: AY YOLA / cancion: Homay  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[72] = { 
    intro:['basinabuyrukintro1.mp3',  
           'basinabuyrukintro2.mp3', 
@@ -1357,6 +1429,7 @@ list2[0] = {
    song:'burbusbasinabuyruk.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Turquía (🇹🇷) / interprete: Burbus / cancion: Başına Buyruk  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[73] = { 
    intro:['kacirdimkecileriintro1.mp3',  
           'kacirdimkecileriintro2.mp3', 
@@ -1376,6 +1449,7 @@ list2[0] = {
    song:'burbuskacirdimkecileri.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Turquía (🇹🇷) / interprete: Burbus / cancion: Kaçırdım Keçileri  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[74] = { 
    intro:['oldubeklenenintro1.mp3',  
           'oldubeklenenintro2.mp3', 
@@ -1395,6 +1469,7 @@ list2[0] = {
    song:'burbusoldubeklenen.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Turquía (🇹🇷) / interprete: Burbus / cancion: Oldu Beklenen  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[75] = { 
    intro:['shapeofyouintro1.mp3',  
           'shapeofyouintro2.mp3', 
@@ -1414,6 +1489,7 @@ list2[0] = {
    song:'edsheeranshapeofyou.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Gran Bretaña (🇬🇧) / interprete: Ed Sheeran / cancion: shape of you  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[76] = { 
    intro:['theconcertintro1.mp3',  
           'theconcertintro2.mp3', 
@@ -1433,6 +1509,7 @@ list2[0] = {
    song:'madtheconcert.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Italia (🇮🇹) / interprete: M@D / cancion: the concert  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[77] = { 
    intro:['yaneboyusintro1.mp3',  
           'yaneboyusintro2.mp3', 
@@ -1451,7 +1528,8 @@ list2[0] = {
           'yaneboyusintro15.mp3'],  
    song:'sergeylazarevyaneboyus.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rusia (🇷🇺) / interprete: Sergey Lazarev / cancion: ya ne boyus  &nbsp&nbsp&nbsp&#160&#160&#160"  
- }      
+ } 
+     
  list2[78] = { 
    intro:['likeiloveyouintro1.mp3',  
           'likeiloveyouintro2.mp3', 
@@ -1471,6 +1549,7 @@ list2[0] = {
    song:'riotonytlikeiloveyou.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Alemania (🇩🇪) / interprete: R.I.O. (Tony T.) / cancion: Like I Love You  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
  list2[79] = { 
    intro:['partyshakerintro1.mp3',  
           'partyshakerintro2.mp3', 
@@ -1491,4 +1570,83 @@ list2[0] = {
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Alemania (🇩🇪) / interprete: R.I.O. (Nicco) / cancion: Party Shaker  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
 
+ list2[80] = { 
+   intro:['stereoloveintro1.mp3',  
+          'stereoloveintro2.mp3', 
+          'stereoloveintro3.mp3', 
+          'stereoloveintro4.mp3',  
+          'stereoloveintro5.mp3',  
+          'stereoloveintro6.mp3',  
+          'stereoloveintro7.mp3',  
+          'stereoloveintro8.mp3', 
+          'stereoloveintro9.mp3',  
+          'stereoloveintro10.mp3',  
+          'stereoloveintro11.mp3',  
+          'stereoloveintro12.mp3',  
+          'stereoloveintro13.mp3',  
+          'stereoloveintro14.mp3',  
+          'stereoloveintro15.mp3'],  
+   song:'edwardmayamiamartinastereolove.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumanía (🇷🇴) Canadá (🇨🇦) / interprete: Edward Maya & Mia Martina / cancion: Stereo Love &nbsp&nbsp&nbsp&#160&#160&#160"  
+ }  
+
+ list2[81] = { 
+   intro:['usagainsttheworldintro1.mp3',  
+          'usagainsttheworldintro2.mp3', 
+          'usagainsttheworldintro3.mp3', 
+          'usagainsttheworldintro4.mp3',  
+          'usagainsttheworldintro5.mp3',  
+          'usagainsttheworldintro6.mp3',  
+          'usagainsttheworldintro7.mp3',  
+          'usagainsttheworldintro8.mp3', 
+          'usagainsttheworldintro9.mp3',  
+          'usagainsttheworldintro10.mp3',  
+          'usagainsttheworldintro11.mp3',  
+          'usagainsttheworldintro12.mp3',  
+          'usagainsttheworldintro13.mp3',  
+          'usagainsttheworldintro14.mp3',  
+          'usagainsttheworldintro15.mp3'],  
+   song:'darrenstylesusagainsttheworld.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Gran Bretaña (🇬🇧) / interprete: Darren Styles / cancion: Us Against the World (Protostar Remix)  &nbsp&nbsp&nbsp&#160&#160&#160"  
+ }  
+
+ list2[82] = { 
+   intro:['znaeshintro1.mp3',  
+          'znaeshintro2.mp3', 
+          'znaeshintro3.mp3', 
+          'znaeshintro4.mp3',  
+          'znaeshintro5.mp3',  
+          'znaeshintro6.mp3',  
+          'znaeshintro7.mp3',  
+          'znaeshintro8.mp3', 
+          'znaeshintro9.mp3',  
+          'znaeshintro10.mp3',  
+          'znaeshintro11.mp3',  
+          'znaeshintro12.mp3',  
+          'znaeshintro13.mp3',  
+          'znaeshintro14.mp3',  
+          'znaeshintro15.mp3'],  
+   song:'propagandaznayesh.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rusia (🇷🇺) / interprete: Propaganda / cancion: Znaesh  &nbsp&nbsp&nbsp&#160&#160&#160"  
+ }  
+
+ list2[83] = { 
+   intro:['bodylanguageintro1.mp3',  
+          'bodylanguageintro2.mp3', 
+          'bodylanguageintro3.mp3', 
+          'bodylanguageintro4.mp3',  
+          'bodylanguageintro5.mp3',  
+          'bodylanguageintro6.mp3',  
+          'bodylanguageintro7.mp3',  
+          'bodylanguageintro8.mp3', 
+          'bodylanguageintro9.mp3',  
+          'bodylanguageintro10.mp3',  
+          'bodylanguageintro11.mp3',  
+          'bodylanguageintro12.mp3',  
+          'bodylanguageintro13.mp3',  
+          'bodylanguageintro14.mp3',  
+          'bodylanguageintro15.mp3'],  
+   song:'farolandbodylanguage.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: FaroLand / cancion: Body Language   &nbsp&nbsp&nbsp&#160&#160&#160"  
+ }  
 
