@@ -1650,3 +1650,86 @@ list2[0] = {
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: FaroLand / cancion: Body Language   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
 
+ list2[84] = { 
+   intro:['premikaintro1.mp3',  
+          'premikaintro2.mp3', 
+          'premikaintro3.mp3', 
+          'premikaintro4.mp3',  
+          'premikaintro5.mp3',  
+          'premikaintro6.mp3',  
+          'premikaintro7.mp3',  
+          'premikaintro8.mp3', 
+          'premikaintro9.mp3',  
+          'premikaintro10.mp3',  
+          'premikaintro11.mp3',  
+          'premikaintro12.mp3',  
+          'premikaintro13.mp3',  
+          'premikaintro14.mp3',  
+          'premikaintro15.mp3'],  
+   song:'bennydayalkanikakapoorpremika.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: India (🇮🇳) / interprete: Benny Dayal y Kanika Kapoor / cancion: Premika   &nbsp&nbsp&nbsp&#160&#160&#160"  
+ }  
+
+ list2[85] = { 
+   intro:['enneeneintro1.mp3',  
+          'enneeneintro2.mp3', 
+          'enneeneintro3.mp3', 
+          'enneeneintro4.mp3',  
+          'enneeneintro5.mp3',  
+          'enneeneintro6.mp3',  
+          'enneeneintro7.mp3',  
+          'enneeneintro8.mp3', 
+          'enneeneintro9.mp3',  
+          'enneeneintro10.mp3',  
+          'enneeneintro11.mp3',  
+          'enneeneintro12.mp3',  
+          'enneeneintro13.mp3',  
+          'enneeneintro14.mp3',  
+          'enneeneintro15.mp3'],  
+   song:'djmusalienneene.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Azerbaijan (🇦🇿) / interprete: DJ Musali / cancion: Enne Ene   &nbsp&nbsp&nbsp&#160&#160&#160"  
+ }  
+
+ list2[86] = { 
+   intro:['benintro1.mp3',  
+          'benintro2.mp3', 
+          'benintro3.mp3', 
+          'benintro4.mp3',  
+          'benintro5.mp3',  
+          'benintro6.mp3',  
+          'benintro7.mp3',  
+          'benintro8.mp3', 
+          'benintro9.mp3',  
+          'benintro10.mp3',  
+          'benintro11.mp3',  
+          'benintro12.mp3',  
+          'benintro13.mp3',  
+          'benintro14.mp3',  
+          'benintro15.mp3'],  
+   song:'berksanben.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Turquía (🇹🇷) / interprete: Berksan / cancion: Ben   &nbsp&nbsp&nbsp&#160&#160&#160"  
+ }  
+
+ list2[87] = { 
+   intro:['sirensintro1.mp3',  
+          'sirensintro2.mp3', 
+          'sirensintro3.mp3', 
+          'sirensintro4.mp3',  
+          'sirensintro5.mp3',  
+          'sirensintro6.mp3',  
+          'sirensintro7.mp3',  
+          'sirensintro8.mp3', 
+          'sirensintro9.mp3',  
+          'sirensintro10.mp3',  
+          'sirensintro11.mp3',  
+          'sirensintro12.mp3',  
+          'sirensintro13.mp3',  
+          'sirensintro14.mp3',  
+          'sirensintro15.mp3'],  
+   song:'bodybangerssirens.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Alemania (🇩🇪) / interprete: Bodybangers / cancion: Sirens   &nbsp&nbsp&nbsp&#160&#160&#160"  
+ }  
+
+
+
+
