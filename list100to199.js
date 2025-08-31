@@ -1730,6 +1730,46 @@ list2[0] = {
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Alemania (🇩🇪) / interprete: Bodybangers / cancion: Sirens   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
 
+ list2[88] = { 
+   intro:['tutilitamintro1.mp3',  
+          'tutilitamintro2.mp3', 
+          'tutilitamintro3.mp3', 
+          'tutilitamintro4.mp3',  
+          'tutilitamintro5.mp3',  
+          'tutilitamintro6.mp3',  
+          'tutilitamintro7.mp3',  
+          'tutilitamintro8.mp3', 
+          'tutilitamintro9.mp3',  
+          'tutilitamintro10.mp3',  
+          'tutilitamintro11.mp3',  
+          'tutilitamintro12.mp3',  
+          'tutilitamintro13.mp3',  
+          'tutilitamintro14.mp3',  
+          'tutilitamintro15.mp3'],  
+   song:'sergeylazarevtutilitam.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rusia (🇷🇺) / interprete: Sergey Lazarev / cancion: TUT ILI TAM   &nbsp&nbsp&nbsp&#160&#160&#160"  
+ }  
+
+ list2[89] = { 
+   intro:['kangaroocourtintro1.mp3',  
+          'kangaroocourtintro2.mp3', 
+          'kangaroocourtintro3.mp3', 
+          'kangaroocourtintro4.mp3',  
+          'kangaroocourtintro5.mp3',  
+          'kangaroocourtintro6.mp3',  
+          'kangaroocourtintro7.mp3',  
+          'kangaroocourtintro8.mp3', 
+          'kangaroocourtintro9.mp3',  
+          'kangaroocourtintro10.mp3',  
+          'kangaroocourtintro11.mp3',  
+          'kangaroocourtintro12.mp3',  
+          'kangaroocourtintro13.mp3',  
+          'kangaroocourtintro14.mp3',  
+          'kangaroocourtintro15.mp3'],  
+   song:'capitalcitieskangaroocourt.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: Capital Cities / cancion: Kangaroo Court   &nbsp&nbsp&nbsp&#160&#160&#160"  
+ }  
+
 
 
 
