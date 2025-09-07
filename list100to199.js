@@ -1770,6 +1770,45 @@ list2[0] = {
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: Capital Cities / cancion: Kangaroo Court   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
 
+ list2[90] = { 
+   intro:['alegriaintro1.mp3',  
+          'alegriaintro2.mp3', 
+          'alegriaintro3.mp3', 
+          'alegriaintro4.mp3',  
+          'alegriaintro5.mp3',  
+          'alegriaintro6.mp3',  
+          'alegriaintro7.mp3',  
+          'alegriaintro8.mp3', 
+          'alegriaintro9.mp3',  
+          'alegriaintro10.mp3',  
+          'alegriaintro11.mp3',  
+          'alegriaintro12.mp3',  
+          'alegriaintro13.mp3',  
+          'alegriaintro14.mp3',  
+          'alegriaintro15.mp3'],  
+   song:'francescagagnonalegria.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Canada (🇨🇦) / interprete: Francesca Gagnon / cancion: Alegría (Cirque Du Soleil)   &nbsp&nbsp&nbsp&#160&#160&#160"  
+ }  
+
+ list2[91] = { 
+   intro:['aldiraymanyarintro1.mp3',  
+          'aldiraymanyarintro2.mp3', 
+          'aldiraymanyarintro3.mp3', 
+          'aldiraymanyarintro4.mp3',  
+          'aldiraymanyarintro5.mp3',  
+          'aldiraymanyarintro6.mp3',  
+          'aldiraymanyarintro7.mp3',  
+          'aldiraymanyarintro8.mp3', 
+          'aldiraymanyarintro9.mp3',  
+          'aldiraymanyarintro10.mp3',  
+          'aldiraymanyarintro11.mp3',  
+          'aldiraymanyarintro12.mp3',  
+          'aldiraymanyarintro13.mp3',  
+          'aldiraymanyarintro14.mp3',  
+          'aldiraymanyarintro15.mp3'],  
+   song:'maratsautovaldiraymanyar.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Kazajistán (🇰🇿) / interprete: Marat Sautov / cancion: Aldirayman Yar &nbsp&nbsp&nbsp&#160&#160&#160"  
+ }  
 
 
 
