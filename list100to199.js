@@ -1810,5 +1810,62 @@ list2[0] = {
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Kazajistán (🇰🇿) / interprete: Marat Sautov / cancion: Aldirayman Yar &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
 
+ list2[92] = { 
+   intro:['dismoiouiintro1.mp3',  
+          'dismoiouiintro2.mp3', 
+          'dismoiouiintro3.mp3', 
+          'dismoiouiintro4.mp3',  
+          'dismoiouiintro5.mp3',  
+          'dismoiouiintro6.mp3',  
+          'dismoiouiintro7.mp3',  
+          'dismoiouiintro8.mp3', 
+          'dismoiouiintro9.mp3',  
+          'dismoiouiintro10.mp3',  
+          'dismoiouiintro11.mp3',  
+          'dismoiouiintro12.mp3',  
+          'dismoiouiintro13.mp3',  
+          'dismoiouiintro14.mp3',  
+          'dismoiouiintro15.mp3'],  
+   song:'keenvdismoioui.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Francia (🇫🇷) / interprete: Keen'v / cancion: DIS MOI OUI (MARINA)  &nbsp&nbsp&nbsp&#160&#160&#160"  
+ }  
 
+ list2[93] = { 
+   intro:['menvolerintro1.mp3',  
+          'menvolerintro2.mp3', 
+          'menvolerintro3.mp3', 
+          'menvolerintro4.mp3',  
+          'menvolerintro5.mp3',  
+          'menvolerintro6.mp3',  
+          'menvolerintro7.mp3',  
+          'menvolerintro8.mp3', 
+          'menvolerintro9.mp3',  
+          'menvolerintro10.mp3',  
+          'menvolerintro11.mp3',  
+          'menvolerintro12.mp3',  
+          'menvolerintro13.mp3',  
+          'menvolerintro14.mp3',  
+          'menvolerintro15.mp3'],  
+   song:'jeckycarlalazzarimenvoler.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Francia (🇫🇷) / interprete: Jeck & Carla Lazzari / cancion: M'envoler  &nbsp&nbsp&nbsp&#160&#160&#160"  
+ }  
 
+ list2[94] = { 
+   intro:['heynigarintro1.mp3',  
+          'heynigarintro2.mp3', 
+          'heynigarintro3.mp3', 
+          'heynigarintro4.mp3',  
+          'heynigarintro5.mp3',  
+          'heynigarintro6.mp3',  
+          'heynigarintro7.mp3',  
+          'heynigarintro8.mp3', 
+          'heynigarintro9.mp3',  
+          'heynigarintro10.mp3',  
+          'heynigarintro11.mp3',  
+          'heynigarintro12.mp3',  
+          'heynigarintro13.mp3',  
+          'heynigarintro14.mp3',  
+          'heynigarintro15.mp3'],  
+   song:'maratsautovheynigar.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Kazajistán (🇰🇿) / interprete: Marat Sautov / cancion: Hey Nigar &nbsp&nbsp&nbsp&#160&#160&#160"  
+ }  
