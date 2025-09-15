@@ -586,9 +586,13 @@ const list1 = []
           'introsone/oynaintro8.mp3',  
           'introsone/oynaintro9.mp3', 
           'introsone/oynaintro10.mp3',  
-          'introsone/oynaintro11.mp3'],  
+          'introsone/oynaintro11.mp3', 
+          'introsone/oynaintro12.mp3', 
+          'introsone/oynaintro13.mp3', 
+          'introsone/oynaintro14.mp3', 
+          'introsone/oynaintro15.mp3'],  
    song:'sonidos1/maratsautovoyna.mp3', 
-   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: china (🇨🇳) / interprete: marat sautov / cancion: oyna &nbsp&nbsp&nbsp&#160&#160&#160"  
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Kazajistán (🇰🇿) / interprete: Marat Sautov / cancion: oyna oyna  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
 
  list1[35] = { 
