@@ -1869,3 +1869,103 @@ list2[0] = {
    song:'maratsautovheynigar.mp3', 
    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Kazajistán (🇰🇿) / interprete: Marat Sautov / cancion: Hey Nigar &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
+
+ list2[95] = { 
+   intro:['livemylifeintro1.mp3',  
+          'livemylifeintro2.mp3', 
+          'livemylifeintro3.mp3', 
+          'livemylifeintro4.mp3',  
+          'livemylifeintro5.mp3',  
+          'livemylifeintro6.mp3',  
+          'livemylifeintro7.mp3',  
+          'livemylifeintro8.mp3', 
+          'livemylifeintro9.mp3',  
+          'livemylifeintro10.mp3',  
+          'livemylifeintro11.mp3',  
+          'livemylifeintro12.mp3',  
+          'livemylifeintro13.mp3',  
+          'livemylifeintro14.mp3',  
+          'livemylifeintro15.mp3'],  
+   song:'fareastmovementjustinbieberlivemylife.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) Canadá (🇨🇦) / interprete: Far East Movement y Justin Bieber / cancion: Live My Life &nbsp&nbsp&nbsp&#160&#160&#160"  
+ } 
+
+ list2[96] = { 
+   intro:['higherintro1.mp3',  
+          'higherintro2.mp3', 
+          'higherintro3.mp3', 
+          'higherintro4.mp3',  
+          'higherintro5.mp3',  
+          'higherintro6.mp3',  
+          'higherintro7.mp3',  
+          'higherintro8.mp3', 
+          'higherintro9.mp3',  
+          'higherintro10.mp3',  
+          'higherintro11.mp3',  
+          'higherintro12.mp3',  
+          'higherintro13.mp3',  
+          'higherintro14.mp3',  
+          'higherintro15.mp3'],  
+   song:'taiocruzkylieminoguehigher.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Reino Unido (🇬🇧) Australia (🇦🇺) / interprete: Taio Cruz y Kylie Minogue / cancion: Higher &nbsp&nbsp&nbsp&#160&#160&#160"  
+ } 
+
+list2[97] = { 
+   intro:['macherieintro1.mp3',  
+          'macherieintro2.mp3', 
+          'macherieintro3.mp3', 
+          'macherieintro4.mp3',  
+          'macherieintro5.mp3',  
+          'macherieintro6.mp3',  
+          'macherieintro7.mp3',  
+          'macherieintro8.mp3', 
+          'macherieintro9.mp3',  
+          'macherieintro10.mp3',  
+          'macherieintro11.mp3',  
+          'macherieintro12.mp3',  
+          'macherieintro13.mp3',  
+          'macherieintro14.mp3',  
+          'macherieintro15.mp3'],  
+   song:'djantoinebeatshakersmacherie.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Suiza (🇨🇭) Serbia (🇷🇸) / interprete: DJ Antoine & Beatshakers / cancion: Ma Cherie &nbsp&nbsp&nbsp&#160&#160&#160"  
+ } 
+
+ list2[98] = { 
+   intro:['onlygirlintro1.mp3',  
+          'onlygirlintro2.mp3', 
+          'onlygirlintro3.mp3', 
+          'onlygirlintro4.mp3',  
+          'onlygirlintro5.mp3',  
+          'onlygirlintro6.mp3',  
+          'onlygirlintro7.mp3',  
+          'onlygirlintro8.mp3', 
+          'onlygirlintro9.mp3',  
+          'onlygirlintro10.mp3',  
+          'onlygirlintro11.mp3',  
+          'onlygirlintro12.mp3',  
+          'onlygirlintro13.mp3',  
+          'onlygirlintro14.mp3',  
+          'onlygirlintro15.mp3'],  
+   song:'rihannaonlygirl.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Barbados (🇧🇧) / interprete: Rihanna / cancion: Only Girl (in the world) &nbsp&nbsp&nbsp&#160&#160&#160"  
+ } 
+
+list2[99] = { 
+   intro:['btdintro1.mp3',  
+          'btdintro2.mp3', 
+          'btdintro3.mp3', 
+          'btdintro4.mp3',  
+          'btdintro5.mp3',  
+          'btdintro6.mp3',  
+          'btdintro7.mp3',  
+          'btdintro8.mp3', 
+          'btdintro9.mp3',  
+          'btdintro10.mp3',  
+          'btdintro11.mp3',  
+          'btdintro12.mp3',  
+          'btdintro13.mp3',  
+          'btdintro14.mp3',  
+          'btdintro15.mp3'],  
+   song:'infinitebtd.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Corea del Sur (🇰🇷) / interprete: Infinite / cancion: BTD (before the dawn) &nbsp&nbsp&nbsp&#160&#160&#160"  
+ }  
