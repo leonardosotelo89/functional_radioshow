@@ -93,9 +93,15 @@ padding:30px;
     <div id="stopper" ></div>
   </div>
 
+
+
  <script src="devicetime.js"></script>
  <script src="list0to99.js"></script>
  <script src="list100to199.js"></script>
+ <script src="list200to299.js"></script>
+
+
+
 
 <script>
 let mainaudio = new Audio()
@@ -108,6 +114,8 @@ let timeinterval = 1
 
 //list1 array from list0to99.js 
 //list2 array from list100to199.js
+//list3 array from list200to299.js
+
 //alternative one spread operator 
 sounds = [...list1,...list2] 
   
@@ -115,6 +123,7 @@ sounds = [...list1,...list2]
 //sounds.push(...list1)
 //sounds.push(...list2)
 
+sounds.push(...list3)
 
 
 
