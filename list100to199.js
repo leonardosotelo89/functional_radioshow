@@ -1907,7 +1907,7 @@ list2[0] = {
           'higherintro14.mp3',  
           'higherintro15.mp3'],  
    song:'taiocruzkylieminoguehigher.mp3', 
-   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Reino Unido (🇬🇧) Australia (🇦🇺) / interprete: Taio Cruz y Kylie Minogue / cancion: Higher &nbsp&nbsp&nbsp&#160&#160&#160"  
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Gran Bretaña (🇬🇧) Australia (🇦🇺) / interprete: Taio Cruz y Kylie Minogue / cancion: Higher &nbsp&nbsp&nbsp&#160&#160&#160"  
  } 
 
 list2[97] = { 
