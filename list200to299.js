@@ -37,7 +37,7 @@ const list3 = []
            'got2luvuintro14.mp3',   
            'got2luvuintro15.mp3' ],   
     song:'seanpaulalexisjordangot2luvu.mp3',  
-    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Jamaica (🇯🇲) Estados Unidos (🇺🇸) / interprete: Sean Paul feat. Alexis Jordan / cancion: Got 2Luv U  &nbsp&nbsp&nbsp&#160&#160&#160"   
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Jamaica (🇯🇲) Estados Unidos (🇺🇸) / interprete: Sean Paul feat. Alexis Jordan / cancion: Got 2 Luv U  &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
 
   list3[2] = {  
