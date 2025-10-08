@@ -59,5 +59,43 @@ const list3 = []
     song:'dannydarkovabbeskibidiboppy.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Italia (🇮🇹) / interprete: Danny Darko / cancion: Vabbè Skibidi Boppy  &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
-  
- 
+
+  list3[3] = {  
+    intro:['dibinedibineintro1.mp3',
+           'dibinedibineintro2.mp3',  
+           'dibinedibineintro3.mp3',  
+           'dibinedibineintro4.mp3',   
+           'dibinedibineintro5.mp3',   
+           'dibinedibineintro6.mp3',   
+           'dibinedibineintro7.mp3',   
+           'dibinedibineintro8.mp3',   
+           'dibinedibineintro9.mp3',  
+           'dibinedibineintro10.mp3',   
+           'dibinedibineintro11.mp3',   
+           'dibinedibineintro12.mp3',   
+           'dibinedibineintro13.mp3',   
+           'dibinedibineintro14.mp3',   
+           'dibinedibineintro15.mp3' ],   
+    song:'eceseckindibinedibine.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Turquía (🇹🇷) / interprete: Ece Seçkin / cancion: Dibine Dibine  &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }  
+
+  list3[4] = {  
+    intro:['rudenslasaiintro1.mp3',
+           'rudenslasaiintro2.mp3',  
+           'rudenslasaiintro3.mp3',  
+           'rudenslasaiintro4.mp3',   
+           'rudenslasaiintro5.mp3',   
+           'rudenslasaiintro6.mp3',   
+           'rudenslasaiintro7.mp3',   
+           'rudenslasaiintro8.mp3',   
+           'rudenslasaiintro9.mp3',  
+           'rudenslasaiintro10.mp3',   
+           'rudenslasaiintro11.mp3',   
+           'rudenslasaiintro12.mp3',   
+           'rudenslasaiintro13.mp3',   
+           'rudenslasaiintro14.mp3',   
+           'rudenslasaiintro15.mp3' ],   
+    song:'ricardastomkeviciusrudenslasai.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Lituania (🇱🇹) / interprete: Ricardas Tomkevicius / cancion: Rudens lašai  &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }   
