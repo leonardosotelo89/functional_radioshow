@@ -1926,8 +1926,8 @@ list2[97] = {
           'macherieintro13.mp3',  
           'macherieintro14.mp3',  
           'macherieintro15.mp3'],  
-   song:'djantoinebeatshakersmacherie.mp3', 
-   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Suiza (🇨🇭) Serbia (🇷🇸) / interprete: DJ Antoine & Beatshakers / cancion: Ma Cherie &nbsp&nbsp&nbsp&#160&#160&#160"  
+   song:'djantoinethebeatshakersmacherie.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Suiza (🇨🇭) Serbia (🇷🇸) / interprete: DJ Antoine & The Beat Shakers / cancion: Ma Cherie &nbsp&nbsp&nbsp&#160&#160&#160"  
  } 
 
  list2[98] = { 
