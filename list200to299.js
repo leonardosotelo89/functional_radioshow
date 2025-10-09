@@ -98,4 +98,44 @@ const list3 = []
            'rudenslasaiintro15.mp3' ],   
     song:'ricardastomkeviciusrudenslasai.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Lituania (🇱🇹) / interprete: Ricardas Tomkevicius / cancion: Rudens lašai  &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }  
+
+  list3[5] = {  
+    intro:['ludanocintro1.mp3',
+           'ludanocintro2.mp3',  
+           'ludanocintro3.mp3',  
+           'ludanocintro4.mp3',   
+           'ludanocintro5.mp3',   
+           'ludanocintro6.mp3',   
+           'ludanocintro7.mp3',   
+           'ludanocintro8.mp3',   
+           'ludanocintro9.mp3',  
+           'ludanocintro10.mp3',   
+           'ludanocintro11.mp3',   
+           'ludanocintro12.mp3',   
+           'ludanocintro13.mp3',   
+           'ludanocintro14.mp3',   
+           'ludanocintro15.mp3' ],   
+    song:'nikaludanoc.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Serbia (🇷🇸) / interprete: Nika / cancion: Luda Noć (Crazy Night)  &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }   
+  
+  list3[6] = {  
+    intro:['hokhunchangintro1.mp3',
+           'hokhunchangintro2.mp3',  
+           'hokhunchangintro3.mp3',  
+           'hokhunchangintro4.mp3',   
+           'hokhunchangintro5.mp3',   
+           'hokhunchangintro6.mp3',   
+           'hokhunchangintro7.mp3',   
+           'hokhunchangintro8.mp3',   
+           'hokhunchangintro9.mp3',  
+           'hokhunchangintro10.mp3',   
+           'hokhunchangintro11.mp3',   
+           'hokhunchangintro12.mp3',   
+           'hokhunchangintro13.mp3',   
+           'hokhunchangintro14.mp3',   
+           'hokhunchangintro15.mp3' ],   
+    song:'popnablethaihokhunchang.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Tailandia (🇹🇭) / interprete: Popnable THAI / cancion: ho khun chang   &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
