@@ -138,4 +138,44 @@ const list3 = []
            'hokhunchangintro15.mp3' ],   
     song:'popnablethaihokhunchang.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Tailandia (🇹🇭) / interprete: Popnable THAI / cancion: ho khun chang   &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }  
+ 
+  list3[7] = {  
+    intro:['luekintro1.mp3',
+           'luekintro2.mp3',  
+           'luekintro3.mp3',  
+           'luekintro4.mp3',   
+           'luekintro5.mp3',   
+           'luekintro6.mp3',   
+           'luekintro7.mp3',   
+           'luekintro8.mp3',   
+           'luekintro9.mp3',  
+           'luekintro10.mp3',   
+           'luekintro11.mp3',   
+           'luekintro12.mp3',   
+           'luekintro13.mp3',   
+           'luekintro14.mp3',   
+           'luekintro15.mp3' ],   
+    song:'popnablethailuek.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Tailandia (🇹🇭) / interprete: Popnable THAI / cancion: Luek   &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }   
+
+  list3[8] = {  
+    intro:['khunmaisonjailoeiintro1.mp3',
+           'khunmaisonjailoeiintro2.mp3',  
+           'khunmaisonjailoeiintro3.mp3',  
+           'khunmaisonjailoeiintro4.mp3',   
+           'khunmaisonjailoeiintro5.mp3',   
+           'khunmaisonjailoeiintro6.mp3',   
+           'khunmaisonjailoeiintro7.mp3',   
+           'khunmaisonjailoeiintro8.mp3',   
+           'khunmaisonjailoeiintro9.mp3',  
+           'khunmaisonjailoeiintro10.mp3',   
+           'khunmaisonjailoeiintro11.mp3',   
+           'khunmaisonjailoeiintro12.mp3',   
+           'khunmaisonjailoeiintro13.mp3',   
+           'khunmaisonjailoeiintro14.mp3',   
+           'khunmaisonjailoeiintro15.mp3' ],   
+    song:'popnablethaikhunmaisonjailoei.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Tailandia (🇹🇭) / interprete: Popnable THAI / cancion: Khun Mai Son Jai Loei   &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
