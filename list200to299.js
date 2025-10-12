@@ -178,4 +178,64 @@ const list3 = []
            'khunmaisonjailoeiintro15.mp3' ],   
     song:'popnablethaikhunmaisonjailoei.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Tailandia (🇹🇭) / interprete: Popnable THAI / cancion: Khun Mai Son Jai Loei   &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }  
+
+  list3[9] = {  
+    intro:['lovemelikeyoudointro1.mp3',
+           'lovemelikeyoudointro2.mp3',  
+           'lovemelikeyoudointro3.mp3',  
+           'lovemelikeyoudointro4.mp3',   
+           'lovemelikeyoudointro5.mp3',   
+           'lovemelikeyoudointro6.mp3',   
+           'lovemelikeyoudointro7.mp3',   
+           'lovemelikeyoudointro8.mp3',   
+           'lovemelikeyoudointro9.mp3',  
+           'lovemelikeyoudointro10.mp3',   
+           'lovemelikeyoudointro11.mp3',   
+           'lovemelikeyoudointro12.mp3',   
+           'lovemelikeyoudointro13.mp3',   
+           'lovemelikeyoudointro14.mp3',   
+           'lovemelikeyoudointro15.mp3' ],   
+    song:'elliegouldinglovemelikeyoudo.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Gran Bretaña (🇬🇧) / interprete: Ellie Goulding / cancion: love me like you do  &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }  
+
+  list3[10] = {  
+    intro:['amorenlanocheintro1.mp3',
+           'amorenlanocheintro2.mp3',  
+           'amorenlanocheintro3.mp3',  
+           'amorenlanocheintro4.mp3',   
+           'amorenlanocheintro5.mp3',   
+           'amorenlanocheintro6.mp3',   
+           'amorenlanocheintro7.mp3',   
+           'amorenlanocheintro8.mp3',   
+           'amorenlanocheintro9.mp3',  
+           'amorenlanocheintro10.mp3',   
+           'amorenlanocheintro11.mp3',   
+           'amorenlanocheintro12.mp3',   
+           'amorenlanocheintro13.mp3',   
+           'amorenlanocheintro14.mp3',   
+           'amorenlanocheintro15.mp3' ],   
+    song:'worldhitamorenlanoche.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: WorldHit / cancion: Amor en la Noche   &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }   
+
+  list3[11] = {  
+    intro:['bailaconmigointro1.mp3',
+           'bailaconmigointro2.mp3',  
+           'bailaconmigointro3.mp3',  
+           'bailaconmigointro4.mp3',   
+           'bailaconmigointro5.mp3',   
+           'bailaconmigointro6.mp3',   
+           'bailaconmigointro7.mp3',   
+           'bailaconmigointro8.mp3',   
+           'bailaconmigointro9.mp3',  
+           'bailaconmigointro10.mp3',   
+           'bailaconmigointro11.mp3',   
+           'bailaconmigointro12.mp3',   
+           'bailaconmigointro13.mp3',   
+           'bailaconmigointro14.mp3',   
+           'bailaconmigointro15.mp3' ],   
+    song:'worldhitbailaconmigo.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: WorldHit / cancion: Baila Conmigo   &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
