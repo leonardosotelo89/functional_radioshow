@@ -238,4 +238,44 @@ const list3 = []
            'bailaconmigointro15.mp3' ],   
     song:'worldhitbailaconmigo.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: WorldHit / cancion: Baila Conmigo   &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }  
+
+  list3[12] = {  
+    intro:['unstoppableintro1.mp3',
+           'unstoppableintro2.mp3',  
+           'unstoppableintro3.mp3',  
+           'unstoppableintro4.mp3',   
+           'unstoppableintro5.mp3',   
+           'unstoppableintro6.mp3',   
+           'unstoppableintro7.mp3',   
+           'unstoppableintro8.mp3',   
+           'unstoppableintro9.mp3',  
+           'unstoppableintro10.mp3',   
+           'unstoppableintro11.mp3',   
+           'unstoppableintro12.mp3',   
+           'unstoppableintro13.mp3',   
+           'unstoppableintro14.mp3',   
+           'unstoppableintro15.mp3' ],   
+    song:'siaunstoppable.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Australia (🇦🇺) / interprete: Sia / cancion: Unstoppable  &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }   
+  
+  list3[13] = {  
+    intro:['vibrasdelcaribeintro1.mp3',
+           'vibrasdelcaribeintro2.mp3',  
+           'vibrasdelcaribeintro3.mp3',  
+           'vibrasdelcaribeintro4.mp3',   
+           'vibrasdelcaribeintro5.mp3',   
+           'vibrasdelcaribeintro6.mp3',   
+           'vibrasdelcaribeintro7.mp3',   
+           'vibrasdelcaribeintro8.mp3',   
+           'vibrasdelcaribeintro9.mp3',  
+           'vibrasdelcaribeintro10.mp3',   
+           'vibrasdelcaribeintro11.mp3',   
+           'vibrasdelcaribeintro12.mp3',   
+           'vibrasdelcaribeintro13.mp3',   
+           'vibrasdelcaribeintro14.mp3',   
+           'vibrasdelcaribeintro15.mp3' ],   
+    song:'emozikvibrasdelcaribe.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: Emozik / cancion: Vibras del Caribe  &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
