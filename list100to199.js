@@ -1491,23 +1491,23 @@ list2[0] = {
  }  
 
  list2[76] = { 
-   intro:['theconcertintro1.mp3',  
-          'theconcertintro2.mp3', 
-          'theconcertintro3.mp3', 
-          'theconcertintro4.mp3',  
-          'theconcertintro5.mp3',  
-          'theconcertintro6.mp3',  
-          'theconcertintro7.mp3',  
-          'theconcertintro8.mp3', 
-          'theconcertintro9.mp3',  
-          'theconcertintro10.mp3',  
-          'theconcertintro11.mp3',  
-          'theconcertintro12.mp3',  
-          'theconcertintro13.mp3',  
-          'theconcertintro14.mp3',  
-          'theconcertintro15.mp3'],  
-   song:'madtheconcert.mp3', 
-   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Italia (🇮🇹) / interprete: M@D / cancion: the concert  &nbsp&nbsp&nbsp&#160&#160&#160"  
+   intro:['renxingbushigedecuointro1.mp3',  
+          'renxingbushigedecuointro2.mp3', 
+          'renxingbushigedecuointro3.mp3', 
+          'renxingbushigedecuointro4.mp3',  
+          'renxingbushigedecuointro5.mp3',  
+          'renxingbushigedecuointro6.mp3',  
+          'renxingbushigedecuointro7.mp3',  
+          'renxingbushigedecuointro8.mp3', 
+          'renxingbushigedecuointro9.mp3',  
+          'renxingbushigedecuointro10.mp3',  
+          'renxingbushigedecuointro11.mp3',  
+          'renxingbushigedecuointro12.mp3',  
+          'renxingbushigedecuointro13.mp3',  
+          'renxingbushigedecuointro14.mp3',  
+          'renxingbushigedecuointro15.mp3'],  
+   song:'renjuntairenxingbushigedecuo.mp3', 
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: China (🇨🇳) / interprete: Ren Juntai (rèn jūn tài) / cancion: Rènxìng bùshì gē de cuò  &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
 
  list2[77] = { 
