@@ -299,3 +299,103 @@ const list3 = []
     song:'emoziklanoche.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: Emozik / cancion: La Noche  &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
+
+  list3[15] = {  
+    intro:['whistleintro1.mp3',
+           'whistleintro2.mp3',  
+           'whistleintro3.mp3',  
+           'whistleintro4.mp3',   
+           'whistleintro5.mp3',   
+           'whistleintro6.mp3',   
+           'whistleintro7.mp3',   
+           'whistleintro8.mp3',   
+           'whistleintro9.mp3',  
+           'whistleintro10.mp3',   
+           'whistleintro11.mp3',   
+           'whistleintro12.mp3',   
+           'whistleintro13.mp3',   
+           'whistleintro14.mp3',   
+           'whistleintro15.mp3' ],   
+    song:'floridawhistle.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: Flo Rida / cancion: Whistle  &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }   
+
+  list3[16] = {  
+    intro:['couragetochangeintro1.mp3',
+           'couragetochangeintro2.mp3',  
+           'couragetochangeintro3.mp3',  
+           'couragetochangeintro4.mp3',   
+           'couragetochangeintro5.mp3',   
+           'couragetochangeintro6.mp3',   
+           'couragetochangeintro7.mp3',   
+           'couragetochangeintro8.mp3',   
+           'couragetochangeintro9.mp3',  
+           'couragetochangeintro10.mp3',   
+           'couragetochangeintro11.mp3',   
+           'couragetochangeintro12.mp3',   
+           'couragetochangeintro13.mp3',   
+           'couragetochangeintro14.mp3',   
+           'couragetochangeintro15.mp3' ],   
+    song:'siacouragetochange.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Australia (🇦🇺) / interprete: Sia / cancion: Courage To Change  &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }   
+
+  list3[17] = {  
+    intro:['nevergiveupintro1.mp3',
+           'nevergiveupintro2.mp3',  
+           'nevergiveupintro3.mp3',  
+           'nevergiveupintro4.mp3',   
+           'nevergiveupintro5.mp3',   
+           'nevergiveupintro6.mp3',   
+           'nevergiveupintro7.mp3',   
+           'nevergiveupintro8.mp3',   
+           'nevergiveupintro9.mp3',  
+           'nevergiveupintro10.mp3',   
+           'nevergiveupintro11.mp3',   
+           'nevergiveupintro12.mp3',   
+           'nevergiveupintro13.mp3',   
+           'nevergiveupintro14.mp3',   
+           'nevergiveupintro15.mp3' ],   
+    song:'sianevergiveup.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Australia (🇦🇺) / interprete: Sia / cancion: Never Give Up   &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }  
+
+  list3[18] = {  
+    intro:['standbyyouintro1.mp3',
+           'standbyyouintro2.mp3',  
+           'standbyyouintro3.mp3',  
+           'standbyyouintro4.mp3',   
+           'standbyyouintro5.mp3',   
+           'standbyyouintro6.mp3',   
+           'standbyyouintro7.mp3',   
+           'standbyyouintro8.mp3',   
+           'standbyyouintro9.mp3',  
+           'standbyyouintro10.mp3',   
+           'standbyyouintro11.mp3',   
+           'standbyyouintro12.mp3',   
+           'standbyyouintro13.mp3',   
+           'standbyyouintro14.mp3',   
+           'standbyyouintro15.mp3' ],   
+    song:'rachelplattenstandbyyou.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: Rachel Platten / cancion: Stand By You  &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }   
+
+  list3[19] = {  
+    intro:['fightsongintro1.mp3',
+           'fightsongintro2.mp3',  
+           'fightsongintro3.mp3',  
+           'fightsongintro4.mp3',   
+           'fightsongintro5.mp3',   
+           'fightsongintro6.mp3',   
+           'fightsongintro7.mp3',   
+           'fightsongintro8.mp3',   
+           'fightsongintro9.mp3',  
+           'fightsongintro10.mp3',   
+           'fightsongintro11.mp3',   
+           'fightsongintro12.mp3',   
+           'fightsongintro13.mp3',   
+           'fightsongintro14.mp3',   
+           'fightsongintro15.mp3' ],   
+    song:'rachelplattenfightsong.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: Rachel Platten / cancion: Fight Song  &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }   
