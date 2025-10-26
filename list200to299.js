@@ -399,3 +399,43 @@ const list3 = []
     song:'rachelplattenfightsong.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: Rachel Platten / cancion: Fight Song  &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
+
+  list3[20] = {  
+    intro:['djxoxoyallaintro1.mp3',
+           'djxoxoyallaintro2.mp3',  
+           'djxoxoyallaintro3.mp3',  
+           'djxoxoyallaintro4.mp3',   
+           'djxoxoyallaintro5.mp3',   
+           'djxoxoyallaintro6.mp3',   
+           'djxoxoyallaintro7.mp3',   
+           'djxoxoyallaintro8.mp3',   
+           'djxoxoyallaintro9.mp3',  
+           'djxoxoyallaintro10.mp3',   
+           'djxoxoyallaintro11.mp3',   
+           'djxoxoyallaintro12.mp3',   
+           'djxoxoyallaintro13.mp3',   
+           'djxoxoyallaintro14.mp3',   
+           'djxoxoyallaintro15.mp3' ],   
+    song:'djxoxoyalla.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Italia (🇮🇹) / interprete: DJ XOXO / cancion: Yalla  &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }   
+
+  list3[21] = {  
+    intro:['loversonthesunintro1.mp3',
+           'loversonthesunintro2.mp3',  
+           'loversonthesunintro3.mp3',  
+           'loversonthesunintro4.mp3',   
+           'loversonthesunintro5.mp3',   
+           'loversonthesunintro6.mp3',   
+           'loversonthesunintro7.mp3',   
+           'loversonthesunintro8.mp3',   
+           'loversonthesunintro9.mp3',  
+           'loversonthesunintro10.mp3',   
+           'loversonthesunintro11.mp3',   
+           'loversonthesunintro12.mp3',   
+           'loversonthesunintro13.mp3',   
+           'loversonthesunintro14.mp3',   
+           'loversonthesunintro15.mp3' ],   
+    song:'davidguettasammartinloversonthesun.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Francia (🇫🇷) - Estados Unidos (🇺🇸) / interprete: David Guetta y Sam Martin / cancion: Lovers On The Sun   &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }   
