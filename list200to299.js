@@ -438,4 +438,64 @@ const list3 = []
            'loversonthesunintro15.mp3' ],   
     song:'davidguettasammartinloversonthesun.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Francia (🇫🇷) - Estados Unidos (🇺🇸) / interprete: David Guetta y Sam Martin / cancion: Lovers On The Sun   &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }  
+
+  list3[22] = {  
+    intro:['cheapthrillsintro1.mp3',
+           'cheapthrillsintro2.mp3',  
+           'cheapthrillsintro3.mp3',  
+           'cheapthrillsintro4.mp3',   
+           'cheapthrillsintro5.mp3',   
+           'cheapthrillsintro6.mp3',   
+           'cheapthrillsintro7.mp3',   
+           'cheapthrillsintro8.mp3',   
+           'cheapthrillsintro9.mp3',  
+           'cheapthrillsintro10.mp3',   
+           'cheapthrillsintro11.mp3',   
+           'cheapthrillsintro12.mp3',   
+           'cheapthrillsintro13.mp3',   
+           'cheapthrillsintro14.mp3',   
+           'cheapthrillsintro15.mp3' ],   
+    song:'siacheapthrills.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Australia (🇦🇺) / interprete: Sia / cancion: Cheap Thrills (Performance Edit)  &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }  
+
+  list3[23] = {  
+    intro:['justadreamintro1.mp3',
+           'justadreamintro2.mp3',  
+           'justadreamintro3.mp3',  
+           'justadreamintro4.mp3',   
+           'justadreamintro5.mp3',   
+           'justadreamintro6.mp3',   
+           'justadreamintro7.mp3',   
+           'justadreamintro8.mp3',   
+           'justadreamintro9.mp3',  
+           'justadreamintro10.mp3',   
+           'justadreamintro11.mp3',   
+           'justadreamintro12.mp3',   
+           'justadreamintro13.mp3',   
+           'justadreamintro14.mp3',   
+           'justadreamintro15.mp3' ],   
+    song:'nellyjustadream.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: Nelly / cancion: Just A Dream  &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }   
+
+  list3[24] = {  
+    intro:['upalimoljubavintro1.mp3',
+           'upalimoljubavintro2.mp3',  
+           'upalimoljubavintro3.mp3',  
+           'upalimoljubavintro4.mp3',   
+           'upalimoljubavintro5.mp3',   
+           'upalimoljubavintro6.mp3',   
+           'upalimoljubavintro7.mp3',   
+           'upalimoljubavintro8.mp3',   
+           'upalimoljubavintro9.mp3',  
+           'upalimoljubavintro10.mp3',   
+           'upalimoljubavintro11.mp3',   
+           'upalimoljubavintro12.mp3',   
+           'upalimoljubavintro13.mp3',   
+           'upalimoljubavintro14.mp3',   
+           'upalimoljubavintro15.mp3' ],   
+    song:'lanajurceviclukabasiupalimoljubav.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Croacia (🇭🇷) Eslovenia (🇸🇮) / interprete: LANA JURČEVIĆ & LUKA BASI / cancion: UPALIMO LJUBAV  &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
