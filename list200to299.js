@@ -277,7 +277,7 @@ const list3 = []
            'vibrasdelcaribeintro14.mp3',   
            'vibrasdelcaribeintro15.mp3' ],   
     song:'emozikvibrasdelcaribe.mp3',  
-    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: Emozik / cancion: Vibras del Caribe  &nbsp&nbsp&nbsp&#160&#160&#160"   
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bangladesh (🇧🇩) / interprete: Emozik / cancion: Vibras del Caribe  &nbsp&nbsp&nbsp&#160&#160&#160"   
   }  
 
   list3[14] = {  
@@ -297,7 +297,7 @@ const list3 = []
            'lanocheintro14.mp3',   
            'lanocheintro15.mp3' ],   
     song:'emoziklanoche.mp3',  
-    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: Emozik / cancion: La Noche  &nbsp&nbsp&nbsp&#160&#160&#160"   
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bangladesh (🇧🇩) / interprete: Emozik / cancion: La Noche  &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
 
   list3[15] = {  
