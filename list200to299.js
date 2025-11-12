@@ -498,4 +498,44 @@ const list3 = []
            'upalimoljubavintro15.mp3' ],   
     song:'lanajurceviclukabasiupalimoljubav.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Croacia (🇭🇷) Eslovenia (🇸🇮) / interprete: LANA JURČEVIĆ & LUKA BASI / cancion: UPALIMO LJUBAV  &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }  
+
+  list3[25] = {  
+    intro:['papatyaintro1.mp3',
+           'papatyaintro2.mp3',  
+           'papatyaintro3.mp3',  
+           'papatyaintro4.mp3',   
+           'papatyaintro5.mp3',   
+           'papatyaintro6.mp3',   
+           'papatyaintro7.mp3',   
+           'papatyaintro8.mp3',   
+           'papatyaintro9.mp3',  
+           'papatyaintro10.mp3',   
+           'papatyaintro11.mp3',   
+           'papatyaintro12.mp3',   
+           'papatyaintro13.mp3',   
+           'papatyaintro14.mp3',   
+           'papatyaintro15.mp3' ],   
+    song:'edasakiziremdericipapatya.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Turquía (🇹🇷) / interprete: Eda Sakız & İrem Derici / cancion: Papatya  &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }   
+
+  list3[26] = {  
+    intro:['sabordelfuegointro1.mp3',
+           'sabordelfuegointro2.mp3',  
+           'sabordelfuegointro3.mp3',  
+           'sabordelfuegointro4.mp3',   
+           'sabordelfuegointro5.mp3',   
+           'sabordelfuegointro6.mp3',   
+           'sabordelfuegointro7.mp3',   
+           'sabordelfuegointro8.mp3',   
+           'sabordelfuegointro9.mp3',  
+           'sabordelfuegointro10.mp3',   
+           'sabordelfuegointro11.mp3',   
+           'sabordelfuegointro12.mp3',   
+           'sabordelfuegointro13.mp3',   
+           'sabordelfuegointro14.mp3',   
+           'sabordelfuegointro15.mp3' ],   
+    song:'emoziksabordelfuego.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bangladesh (🇧🇩) / interprete: Emozik / cancion: Sabor Del Fuego   &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
