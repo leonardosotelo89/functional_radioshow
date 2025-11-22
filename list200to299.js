@@ -538,4 +538,24 @@ const list3 = []
            'sabordelfuegointro15.mp3' ],   
     song:'emoziksabordelfuego.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bangladesh (🇧🇩) / interprete: Emozik / cancion: Sabor Del Fuego   &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }  
+
+  list3[27] = {  
+    intro:['svisuludiokomeneintro1.mp3',
+           'svisuludiokomeneintro2.mp3',  
+           'svisuludiokomeneintro3.mp3',  
+           'svisuludiokomeneintro4.mp3',   
+           'svisuludiokomeneintro5.mp3',   
+           'svisuludiokomeneintro6.mp3',   
+           'svisuludiokomeneintro7.mp3',   
+           'svisuludiokomeneintro8.mp3',   
+           'svisuludiokomeneintro9.mp3',  
+           'svisuludiokomeneintro10.mp3',   
+           'svisuludiokomeneintro11.mp3',   
+           'svisuludiokomeneintro12.mp3',   
+           'svisuludiokomeneintro13.mp3',   
+           'svisuludiokomeneintro14.mp3',   
+           'svisuludiokomeneintro15.mp3' ],   
+    song:'lanajurcevicsvisuludiokomene.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Croacia (🇭🇷) / interprete: Lana Jurčević / cancion: SVI SU LUDI OKO MENE   &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
