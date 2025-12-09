@@ -1108,23 +1108,23 @@ const list1 = []
  }  
 
  list1[67] = { 
-       intro:['ludanocintro1.mp3', 
-            'ludanocintro2.mp3',   
-            'ludanocintro3.mp3',   
-            'ludanocintro4.mp3',    
-            'ludanocintro5.mp3',    
-            'ludanocintro6.mp3',    
-            'ludanocintro7.mp3',    
-            'ludanocintro8.mp3',    
-            'ludanocintro9.mp3',   
-            'ludanocintro10.mp3',    
-            'ludanocintro11.mp3',    
-            'ludanocintro12.mp3',    
-            'ludanocintro13.mp3',    
-            'ludanocintro14.mp3',    
-            'ludanocintro15.mp3' ],    
-     song:'nikaludanoc.mp3',   
-     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Serbia (🇷🇸) / interprete: Nika / cancion: Luda Noć (Crazy Night)  &nbsp&nbsp&nbsp&#160&#160&#160"   
+   intro:['ludanocintro1.mp3', 
+          'ludanocintro2.mp3',   
+          'ludanocintro3.mp3',   
+          'ludanocintro4.mp3',    
+          'ludanocintro5.mp3',    
+          'ludanocintro6.mp3',    
+          'ludanocintro7.mp3',    
+          'ludanocintro8.mp3',    
+          'ludanocintro9.mp3',   
+          'ludanocintro10.mp3',    
+          'ludanocintro11.mp3',    
+          'ludanocintro12.mp3',    
+          'ludanocintro13.mp3',    
+          'ludanocintro14.mp3',    
+          'ludanocintro15.mp3' ],    
+   song:'nikaludanoc.mp3',   
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Serbia (🇷🇸) / interprete: Nika / cancion: Luda Noć (Crazy Night)  &nbsp&nbsp&nbsp&#160&#160&#160"   
  }  
 
  list1[68] = { 
