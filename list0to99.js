@@ -1108,19 +1108,23 @@ const list1 = []
  }  
 
  list1[67] = { 
-   intro:['introstwo/doarpentrutineintro1.mp3',  
-          'introstwo/doarpentrutineintro2.mp3', 
-          'introstwo/doarpentrutineintro3.mp3',  
-          'introstwo/doarpentrutineintro4.mp3',  
-          'introstwo/doarpentrutineintro5.mp3',  
-          'introstwo/doarpentrutineintro6.mp3',  
-          'introstwo/doarpentrutineintro7.mp3',  
-          'introstwo/doarpentrutineintro8.mp3',  
-          'introstwo/doarpentrutineintro9.mp3',  
-          'introstwo/doarpentrutineintro10.mp3',  
-          'introstwo/doarpentrutineintro11.mp3'],  
-   song:'sonidos2/iulianpetcodoarpentrutine.mp3', 
-   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: moldavia (🇲🇩) / interprete: iulian petco / cancion: doar pentru tine   &nbsp&nbsp&nbsp&#160&#160&#160"  
+       intro:['ludanocintro1.mp3', 
+            'ludanocintro2.mp3',   
+            'ludanocintro3.mp3',   
+            'ludanocintro4.mp3',    
+            'ludanocintro5.mp3',    
+            'ludanocintro6.mp3',    
+            'ludanocintro7.mp3',    
+            'ludanocintro8.mp3',    
+            'ludanocintro9.mp3',   
+            'ludanocintro10.mp3',    
+            'ludanocintro11.mp3',    
+            'ludanocintro12.mp3',    
+            'ludanocintro13.mp3',    
+            'ludanocintro14.mp3',    
+            'ludanocintro15.mp3' ],    
+     song:'nikaludanoc.mp3',   
+     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Serbia (🇷🇸) / interprete: Nika / cancion: Luda Noć (Crazy Night)  &nbsp&nbsp&nbsp&#160&#160&#160"   
  }  
 
  list1[68] = { 
