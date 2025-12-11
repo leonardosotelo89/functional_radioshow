@@ -206,22 +206,23 @@ const list1 = []
  }  
 
  list1[12] = { 
-   intro:['introsone/yasoshlasumaintro1.mp3', 
-          'introsone/yasoshlasumaintro2.mp3',  
-          'introsone/yasoshlasumaintro3.mp3', 
-          'introsone/yasoshlasumaintro4.mp3',  
-          'introsone/yasoshlasumaintro5.mp3', 
-          'introsone/yasoshlasumaintro6.mp3',  
-          'introsone/yasoshlasumaintro7.mp3', 
-          'introsone/yasoshlasumaintro8.mp3',  
-          'introsone/yasoshlasumaintro9.mp3', 
-          'introsone/yasoshlasumaintro10.mp3',  
-          'introsone/yasoshlasumaintro11.mp3', 
-          'introsone/yasoshlasumaintro12.mp3',  
-          'introsone/yasoshlasumaintro13.mp3', 
-          'introsone/yasoshlasumaintro14.mp3'],  
-   song:'sonidos1/tatuyasoshlasuma.mp3', 
-   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: rusia (🇷🇺) / interprete: tatu / cancion: ya soshla s uma &nbsp&nbsp&nbsp&#160&#160&#160"  
+   intro:['introsone/vibrasdelcaribeintro1.mp3', 
+          'introsone/vibrasdelcaribeintro2.mp3',   
+          'introsone/vibrasdelcaribeintro3.mp3',   
+          'introsone/vibrasdelcaribeintro4.mp3',    
+          'introsone/vibrasdelcaribeintro5.mp3',    
+          'introsone/vibrasdelcaribeintro6.mp3',    
+          'introsone/vibrasdelcaribeintro7.mp3',    
+          'introsone/vibrasdelcaribeintro8.mp3',    
+          'introsone/vibrasdelcaribeintro9.mp3',   
+          'introsone/vibrasdelcaribeintro10.mp3',    
+          'introsone/vibrasdelcaribeintro11.mp3',    
+          'introsone/vibrasdelcaribeintro12.mp3',    
+          'introsone/vibrasdelcaribeintro13.mp3',    
+          'introsone/vibrasdelcaribeintro14.mp3',    
+          'introsone/vibrasdelcaribeintro15.mp3' ],    
+   song:'sonidos1/emozikvibrasdelcaribe.mp3',   
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bangladesh (🇧🇩) / interprete: Emozik / cancion: Vibras del Caribe  &nbsp&nbsp&nbsp&#160&#160&#160"   
  }  
 
  list1[13] = { 
