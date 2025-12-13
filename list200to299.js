@@ -101,26 +101,6 @@ const list3 = []
   }  
 
   list3[5] = {  
-    intro:['ludanocintro1.mp3',
-           'ludanocintro2.mp3',  
-           'ludanocintro3.mp3',  
-           'ludanocintro4.mp3',   
-           'ludanocintro5.mp3',   
-           'ludanocintro6.mp3',   
-           'ludanocintro7.mp3',   
-           'ludanocintro8.mp3',   
-           'ludanocintro9.mp3',  
-           'ludanocintro10.mp3',   
-           'ludanocintro11.mp3',   
-           'ludanocintro12.mp3',   
-           'ludanocintro13.mp3',   
-           'ludanocintro14.mp3',   
-           'ludanocintro15.mp3' ],   
-    song:'nikaludanoc.mp3',  
-    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Serbia (🇷🇸) / interprete: Nika / cancion: Luda Noć (Crazy Night)  &nbsp&nbsp&nbsp&#160&#160&#160"   
-  }   
-  
-  list3[6] = {  
     intro:['hokhunchangintro1.mp3',
            'hokhunchangintro2.mp3',  
            'hokhunchangintro3.mp3',  
@@ -140,7 +120,7 @@ const list3 = []
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Tailandia (🇹🇭) / interprete: Popnable THAI / cancion: ho khun chang   &nbsp&nbsp&nbsp&#160&#160&#160"   
   }  
  
-  list3[7] = {  
+  list3[6] = {  
     intro:['luekintro1.mp3',
            'luekintro2.mp3',  
            'luekintro3.mp3',  
@@ -160,7 +140,7 @@ const list3 = []
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Tailandia (🇹🇭) / interprete: Popnable THAI / cancion: Luek   &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
 
-  list3[8] = {  
+  list3[7] = {  
     intro:['khunmaisonjailoeiintro1.mp3',
            'khunmaisonjailoeiintro2.mp3',  
            'khunmaisonjailoeiintro3.mp3',  
@@ -180,7 +160,7 @@ const list3 = []
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Tailandia (🇹🇭) / interprete: Popnable THAI / cancion: Khun Mai Son Jai Loei   &nbsp&nbsp&nbsp&#160&#160&#160"   
   }  
 
-  list3[9] = {  
+  list3[8] = {  
     intro:['lovemelikeyoudointro1.mp3',
            'lovemelikeyoudointro2.mp3',  
            'lovemelikeyoudointro3.mp3',  
@@ -200,27 +180,7 @@ const list3 = []
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Gran Bretaña (🇬🇧) / interprete: Ellie Goulding / cancion: love me like you do  &nbsp&nbsp&nbsp&#160&#160&#160"   
   }  
 
-  list3[10] = {  
-    intro:['amorenlanocheintro1.mp3',
-           'amorenlanocheintro2.mp3',  
-           'amorenlanocheintro3.mp3',  
-           'amorenlanocheintro4.mp3',   
-           'amorenlanocheintro5.mp3',   
-           'amorenlanocheintro6.mp3',   
-           'amorenlanocheintro7.mp3',   
-           'amorenlanocheintro8.mp3',   
-           'amorenlanocheintro9.mp3',  
-           'amorenlanocheintro10.mp3',   
-           'amorenlanocheintro11.mp3',   
-           'amorenlanocheintro12.mp3',   
-           'amorenlanocheintro13.mp3',   
-           'amorenlanocheintro14.mp3',   
-           'amorenlanocheintro15.mp3' ],   
-    song:'worldhitamorenlanoche.mp3',  
-    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: WorldHit / cancion: Amor en la Noche   &nbsp&nbsp&nbsp&#160&#160&#160"   
-  }   
-
-  list3[11] = {  
+  list3[9] = {  
     intro:['bailaconmigointro1.mp3',
            'bailaconmigointro2.mp3',  
            'bailaconmigointro3.mp3',  
@@ -240,7 +200,7 @@ const list3 = []
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: WorldHit / cancion: Baila Conmigo   &nbsp&nbsp&nbsp&#160&#160&#160"   
   }  
 
-  list3[12] = {  
+  list3[10] = {  
     intro:['unstoppableintro1.mp3',
            'unstoppableintro2.mp3',  
            'unstoppableintro3.mp3',  
@@ -259,28 +219,8 @@ const list3 = []
     song:'siaunstoppable.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Australia (🇦🇺) / interprete: Sia / cancion: Unstoppable  &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
-  
-  list3[13] = {  
-    intro:['vibrasdelcaribeintro1.mp3',
-           'vibrasdelcaribeintro2.mp3',  
-           'vibrasdelcaribeintro3.mp3',  
-           'vibrasdelcaribeintro4.mp3',   
-           'vibrasdelcaribeintro5.mp3',   
-           'vibrasdelcaribeintro6.mp3',   
-           'vibrasdelcaribeintro7.mp3',   
-           'vibrasdelcaribeintro8.mp3',   
-           'vibrasdelcaribeintro9.mp3',  
-           'vibrasdelcaribeintro10.mp3',   
-           'vibrasdelcaribeintro11.mp3',   
-           'vibrasdelcaribeintro12.mp3',   
-           'vibrasdelcaribeintro13.mp3',   
-           'vibrasdelcaribeintro14.mp3',   
-           'vibrasdelcaribeintro15.mp3' ],   
-    song:'emozikvibrasdelcaribe.mp3',  
-    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bangladesh (🇧🇩) / interprete: Emozik / cancion: Vibras del Caribe  &nbsp&nbsp&nbsp&#160&#160&#160"   
-  }  
 
-  list3[14] = {  
+  list3[11] = {  
     intro:['lanocheintro1.mp3',
            'lanocheintro2.mp3',  
            'lanocheintro3.mp3',  
@@ -300,7 +240,7 @@ const list3 = []
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bangladesh (🇧🇩) / interprete: Emozik / cancion: La Noche  &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
 
-  list3[15] = {  
+  list3[12] = {  
     intro:['whistleintro1.mp3',
            'whistleintro2.mp3',  
            'whistleintro3.mp3',  
@@ -320,7 +260,7 @@ const list3 = []
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: Flo Rida / cancion: Whistle  &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
 
-  list3[16] = {  
+  list3[13] = {  
     intro:['couragetochangeintro1.mp3',
            'couragetochangeintro2.mp3',  
            'couragetochangeintro3.mp3',  
@@ -340,7 +280,7 @@ const list3 = []
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Australia (🇦🇺) / interprete: Sia / cancion: Courage To Change  &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
 
-  list3[17] = {  
+  list3[14] = {  
     intro:['nevergiveupintro1.mp3',
            'nevergiveupintro2.mp3',  
            'nevergiveupintro3.mp3',  
@@ -360,7 +300,7 @@ const list3 = []
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Australia (🇦🇺) / interprete: Sia / cancion: Never Give Up   &nbsp&nbsp&nbsp&#160&#160&#160"   
   }  
 
-  list3[18] = {  
+  list3[15] = {  
     intro:['standbyyouintro1.mp3',
            'standbyyouintro2.mp3',  
            'standbyyouintro3.mp3',  
@@ -380,7 +320,7 @@ const list3 = []
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: Rachel Platten / cancion: Stand By You  &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
 
-  list3[19] = {  
+  list3[16] = {  
     intro:['fightsongintro1.mp3',
            'fightsongintro2.mp3',  
            'fightsongintro3.mp3',  
@@ -400,7 +340,7 @@ const list3 = []
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: Rachel Platten / cancion: Fight Song  &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
 
-  list3[20] = {  
+  list3[17] = {  
     intro:['djxoxoyallaintro1.mp3',
            'djxoxoyallaintro2.mp3',  
            'djxoxoyallaintro3.mp3',  
@@ -420,7 +360,7 @@ const list3 = []
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Italia (🇮🇹) / interprete: DJ XOXO / cancion: Yalla  &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
 
-  list3[21] = {  
+  list3[18] = {  
     intro:['loversonthesunintro1.mp3',
            'loversonthesunintro2.mp3',  
            'loversonthesunintro3.mp3',  
@@ -440,7 +380,7 @@ const list3 = []
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Francia (🇫🇷) - Estados Unidos (🇺🇸) / interprete: David Guetta y Sam Martin / cancion: Lovers On The Sun   &nbsp&nbsp&nbsp&#160&#160&#160"   
   }  
 
-  list3[22] = {  
+  list3[19] = {  
     intro:['cheapthrillsintro1.mp3',
            'cheapthrillsintro2.mp3',  
            'cheapthrillsintro3.mp3',  
@@ -460,7 +400,7 @@ const list3 = []
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Australia (🇦🇺) / interprete: Sia / cancion: Cheap Thrills (Performance Edit)  &nbsp&nbsp&nbsp&#160&#160&#160"   
   }  
 
-  list3[23] = {  
+  list3[20] = {  
     intro:['justadreamintro1.mp3',
            'justadreamintro2.mp3',  
            'justadreamintro3.mp3',  
@@ -480,7 +420,7 @@ const list3 = []
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: Nelly / cancion: Just A Dream  &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
 
-  list3[24] = {  
+  list3[21] = {  
     intro:['upalimoljubavintro1.mp3',
            'upalimoljubavintro2.mp3',  
            'upalimoljubavintro3.mp3',  
@@ -500,7 +440,7 @@ const list3 = []
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Croacia (🇭🇷) Eslovenia (🇸🇮) / interprete: LANA JURČEVIĆ & LUKA BASI / cancion: UPALIMO LJUBAV  &nbsp&nbsp&nbsp&#160&#160&#160"   
   }  
 
-  list3[25] = {  
+  list3[22] = {  
     intro:['papatyaintro1.mp3',
            'papatyaintro2.mp3',  
            'papatyaintro3.mp3',  
@@ -520,7 +460,7 @@ const list3 = []
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Turquía (🇹🇷) / interprete: Eda Sakız & İrem Derici / cancion: Papatya  &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
 
-  list3[26] = {  
+  list3[23] = {  
     intro:['sabordelfuegointro1.mp3',
            'sabordelfuegointro2.mp3',  
            'sabordelfuegointro3.mp3',  
@@ -540,7 +480,7 @@ const list3 = []
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Bangladesh (🇧🇩) / interprete: Emozik / cancion: Sabor Del Fuego   &nbsp&nbsp&nbsp&#160&#160&#160"   
   }  
 
-  list3[27] = {  
+  list3[24] = {  
     intro:['svisuludiokomeneintro1.mp3',
            'svisuludiokomeneintro2.mp3',  
            'svisuludiokomeneintro3.mp3',  
