@@ -498,4 +498,44 @@ const list3 = []
            'svisuludiokomeneintro15.mp3' ],   
     song:'lanajurcevicsvisuludiokomene.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Croacia (🇭🇷) / interprete: Lana Jurčević / cancion: SVI SU LUDI OKO MENE   &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }  
+
+list3[25] = {  
+    intro:['fuegodelanocheintro1.mp3',
+           'fuegodelanocheintro2.mp3',  
+           'fuegodelanocheintro3.mp3',  
+           'fuegodelanocheintro4.mp3',   
+           'fuegodelanocheintro5.mp3',   
+           'fuegodelanocheintro6.mp3',   
+           'fuegodelanocheintro7.mp3',   
+           'fuegodelanocheintro8.mp3',   
+           'fuegodelanocheintro9.mp3',  
+           'fuegodelanocheintro10.mp3',   
+           'fuegodelanocheintro11.mp3',   
+           'fuegodelanocheintro12.mp3',   
+           'fuegodelanocheintro13.mp3',   
+           'fuegodelanocheintro14.mp3',   
+           'fuegodelanocheintro15.mp3' ],   
+    song:'worldhitfuegodelanoche.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: WorldHit / cancion: Fuego De La Noche   &nbsp&nbsp&nbsp&#160&#160&#160"   
+  }   
+
+list3[26] = {  
+    intro:['vroceintro1.mp3',
+           'vroceintro2.mp3',  
+           'vroceintro3.mp3',  
+           'vroceintro4.mp3',   
+           'vroceintro5.mp3',   
+           'vroceintro6.mp3',   
+           'vroceintro7.mp3',   
+           'vroceintro8.mp3',   
+           'vroceintro9.mp3',  
+           'vroceintro10.mp3',   
+           'vroceintro11.mp3',   
+           'vroceintro12.mp3',   
+           'vroceintro13.mp3',   
+           'vroceintro14.mp3',   
+           'vroceintro15.mp3' ],   
+    song:'sitvroce.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Slovenia (🇸🇮) / interprete: S.I.T. (Slovenija Ima Talent) / cancion: VROČE   &nbsp&nbsp&nbsp&#160&#160&#160"   
   }   
