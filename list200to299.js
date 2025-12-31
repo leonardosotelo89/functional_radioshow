@@ -518,4 +518,24 @@ const list3 = []
            'vroceintro15.mp3' ],   
     song:'sitvroce.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Slovenia (🇸🇮) / interprete: S.I.T. (Slovenija Ima Talent) / cancion: VROČE   &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }  
+
+  list3[26] = {  
+    intro:['ukrevetuintro1.mp3',
+           'ukrevetuintro2.mp3',  
+           'ukrevetuintro3.mp3',  
+           'ukrevetuintro4.mp3',   
+           'ukrevetuintro5.mp3',   
+           'ukrevetuintro6.mp3',   
+           'ukrevetuintro7.mp3',   
+           'ukrevetuintro8.mp3',   
+           'ukrevetuintro9.mp3',  
+           'ukrevetuintro10.mp3',   
+           'ukrevetuintro11.mp3',   
+           'ukrevetuintro12.mp3',   
+           'ukrevetuintro13.mp3',   
+           'ukrevetuintro14.mp3',   
+           'ukrevetuintro15.mp3' ],   
+    song:'tarapanaukrevetu.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Croacia (🇭🇷) / interprete: TARAPANA BAND / cancion: U Krevetu    &nbsp&nbsp&nbsp&#160&#160&#160"   
     }   
