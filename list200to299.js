@@ -517,7 +517,7 @@ const list3 = []
            'vroceintro14.mp3',   
            'vroceintro15.mp3' ],   
     song:'sitvroce.mp3',  
-    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Slovenia (🇸🇮) / interprete: S.I.T. (Slovenija Ima Talent) / cancion: VROČE   &nbsp&nbsp&nbsp&#160&#160&#160"   
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Eslovenia (🇸🇮) / interprete: S.I.T. (Slovenija Ima Talent) / cancion: VROČE   &nbsp&nbsp&nbsp&#160&#160&#160"   
     }  
 
   list3[26] = {  
@@ -538,4 +538,24 @@ const list3 = []
            'ukrevetuintro15.mp3' ],   
     song:'tarapanaukrevetu.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Croacia (🇭🇷) / interprete: TARAPANA BAND / cancion: U Krevetu    &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }   
+
+  list3[27] = {  
+    intro:['porcelanintro1.mp3',
+           'porcelanintro2.mp3',  
+           'porcelanintro3.mp3',  
+           'porcelanintro4.mp3',   
+           'porcelanintro5.mp3',   
+           'porcelanintro6.mp3',   
+           'porcelanintro7.mp3',   
+           'porcelanintro8.mp3',   
+           'porcelanintro9.mp3',  
+           'porcelanintro10.mp3',   
+           'porcelanintro11.mp3',   
+           'porcelanintro12.mp3',   
+           'porcelanintro13.mp3',   
+           'porcelanintro14.mp3',   
+           'porcelanintro15.mp3' ],   
+    song:'stiltequilaporcelan.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Eslovenia (🇸🇮) / interprete: Stil + Tequila / cancion: Porcelan     &nbsp&nbsp&nbsp&#160&#160&#160"   
     }   
