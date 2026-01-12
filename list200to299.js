@@ -558,4 +558,24 @@ const list3 = []
            'porcelanintro15.mp3' ],   
     song:'stiltequilaporcelan.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Eslovenia (🇸🇮) / interprete: Stil + Tequila / cancion: Porcelan     &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }  
+
+  list3[28] = {  
+    intro:['oneworldoneheartintro1.mp3',
+           'oneworldoneheartintro2.mp3',  
+           'oneworldoneheartintro3.mp3',  
+           'oneworldoneheartintro4.mp3',   
+           'oneworldoneheartintro5.mp3',   
+           'oneworldoneheartintro6.mp3',   
+           'oneworldoneheartintro7.mp3',   
+           'oneworldoneheartintro8.mp3',   
+           'oneworldoneheartintro9.mp3',  
+           'oneworldoneheartintro10.mp3',   
+           'oneworldoneheartintro11.mp3',   
+           'oneworldoneheartintro12.mp3',   
+           'oneworldoneheartintro13.mp3',   
+           'oneworldoneheartintro14.mp3',   
+           'oneworldoneheartintro15.mp3' ],   
+    song:'shakirarihannaoneworldoneheart.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Argentina (🇦🇷) / interprete: Central Music - Shakira & Rihanna / cancion: “One World, One Heart”     &nbsp&nbsp&nbsp&#160&#160&#160"   
     }   
