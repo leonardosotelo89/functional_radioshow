@@ -577,5 +577,25 @@ const list3 = []
            'oneworldoneheartintro14.mp3',   
            'oneworldoneheartintro15.mp3' ],   
     song:'shakirarihannaoneworldoneheart.mp3',  
-    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Argentina (🇦🇷) / interprete: Central Music - Shakira & Rihanna / cancion: “One World, One Heart”     &nbsp&nbsp&nbsp&#160&#160&#160"   
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Argentina (🇦🇷) / interprete: Central Music - Shakira & Rihanna / cancion: One World, One Heart     &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }  
+
+  list3[29] = {  
+    intro:['bestieintro1.mp3',
+           'bestieintro2.mp3',  
+           'bestieintro3.mp3',  
+           'bestieintro4.mp3',   
+           'bestieintro5.mp3',   
+           'bestieintro6.mp3',   
+           'bestieintro7.mp3',   
+           'bestieintro8.mp3',   
+           'bestieintro9.mp3',  
+           'bestieintro10.mp3',   
+           'bestieintro11.mp3',   
+           'bestieintro12.mp3',   
+           'bestieintro13.mp3',   
+           'bestieintro14.mp3',   
+           'bestieintro15.mp3' ],   
+    song:'kristiandbestie.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Alemania (🇩🇪) / interprete: Kristian D. / cancion: Bestie     &nbsp&nbsp&nbsp&#160&#160&#160"   
     }   
