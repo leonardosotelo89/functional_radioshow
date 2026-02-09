@@ -598,4 +598,44 @@ const list3 = []
            'bestieintro15.mp3' ],   
     song:'kristiandbestie.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Alemania (🇩🇪) / interprete: Kristian D. / cancion: Bestie     &nbsp&nbsp&nbsp&#160&#160&#160"   
-    }   
+    }  
+
+  list3[30] = {  
+    intro:['richgirlintro1.mp3',
+           'richgirlintro2.mp3',  
+           'richgirlintro3.mp3',  
+           'richgirlintro4.mp3',   
+           'richgirlintro5.mp3',   
+           'richgirlintro6.mp3',   
+           'richgirlintro7.mp3',   
+           'richgirlintro8.mp3',   
+           'richgirlintro9.mp3',  
+           'richgirlintro10.mp3',   
+           'richgirlintro11.mp3',   
+           'richgirlintro12.mp3',   
+           'richgirlintro13.mp3',   
+           'richgirlintro14.mp3',   
+           'richgirlintro15.mp3' ],   
+    song:'gwenstefanieverichgirl.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: Gwen Stefani featuring Eve  / cancion: Rich Girl      &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }
+
+  list3[31] = {  
+    intro:['dreamersintro1.mp3',
+           'dreamersintro2.mp3',  
+           'dreamersintro3.mp3',  
+           'dreamersintro4.mp3',   
+           'dreamersintro5.mp3',   
+           'dreamersintro6.mp3',   
+           'dreamersintro7.mp3',   
+           'dreamersintro8.mp3',   
+           'dreamersintro9.mp3',  
+           'dreamersintro10.mp3',   
+           'dreamersintro11.mp3',   
+           'dreamersintro12.mp3',   
+           'dreamersintro13.mp3',   
+           'dreamersintro14.mp3',   
+           'dreamersintro15.mp3' ],   
+    song:'jungkookdreamers.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Corea Del Sur (🇰🇷) / interprete: Jungkook / cancion: Dreamers     &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }      
