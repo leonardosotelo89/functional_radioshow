@@ -638,4 +638,64 @@ const list3 = []
            'dreamersintro15.mp3' ],   
     song:'jungkookdreamers.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Corea Del Sur (🇰🇷) / interprete: Jungkook / cancion: Dreamers     &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }     
+
+  list3[32] = {  
+    intro:['unedheti1intro1.mp3',
+           'unedheti1intro2.mp3',  
+           'unedheti1intro3.mp3',  
+           'unedheti1intro4.mp3',   
+           'unedheti1intro5.mp3',   
+           'unedheti1intro6.mp3',   
+           'unedheti1intro7.mp3',   
+           'unedheti1intro8.mp3',   
+           'unedheti1intro9.mp3',  
+           'unedheti1intro10.mp3',   
+           'unedheti1intro11.mp3',   
+           'unedheti1intro12.mp3',   
+           'unedheti1intro13.mp3',   
+           'unedheti1intro14.mp3',   
+           'unedheti1intro15.mp3' ],   
+    song:'viberushyouandiunedheti1.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: VibeRush / cancion: You and I (Unë dhe Ti) version 1     &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }   
+  
+  list3[33] = {  
+    intro:['unedheti2intro1.mp3',
+           'unedheti2intro2.mp3',  
+           'unedheti2intro3.mp3',  
+           'unedheti2intro4.mp3',   
+           'unedheti2intro5.mp3',   
+           'unedheti2intro6.mp3',   
+           'unedheti2intro7.mp3',   
+           'unedheti2intro8.mp3',   
+           'unedheti2intro9.mp3',  
+           'unedheti2intro10.mp3',   
+           'unedheti2intro11.mp3',   
+           'unedheti2intro12.mp3',   
+           'unedheti2intro13.mp3',   
+           'unedheti2intro14.mp3',   
+           'unedheti2intro15.mp3' ],   
+    song:'viberushyouandiunedheti2.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: VibeRush / cancion: You and I (Unë dhe Ti) version 2     &nbsp&nbsp&nbsp&#160&#160&#160"   
     }      
+
+  list3[34] = {  
+    intro:['yarayahintro1.mp3',
+           'yarayahintro2.mp3',  
+           'yarayahintro3.mp3',  
+           'yarayahintro4.mp3',   
+           'yarayahintro5.mp3',   
+           'yarayahintro6.mp3',   
+           'yarayahintro7.mp3',   
+           'yarayahintro8.mp3',   
+           'yarayahintro9.mp3',  
+           'yarayahintro10.mp3',   
+           'yarayahintro11.mp3',   
+           'yarayahintro12.mp3',   
+           'yarayahintro13.mp3',   
+           'yarayahintro14.mp3',   
+           'yarayahintro15.mp3' ],   
+    song:'rachidtahayarayah.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Argelia (🇩🇿) / interprete: Rachid Taha / cancion: Ya Rayah     &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }       
