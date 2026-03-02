@@ -698,4 +698,84 @@ const list3 = []
            'yarayahintro15.mp3' ],   
     song:'rachidtahayarayah.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Argelia (🇩🇿) / interprete: Rachid Taha / cancion: Ya Rayah     &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }      
+
+  list3[35] = {  
+    intro:['estcequetumaimesintro1.mp3',
+           'estcequetumaimesintro2.mp3',  
+           'estcequetumaimesintro3.mp3',  
+           'estcequetumaimesintro4.mp3',   
+           'estcequetumaimesintro5.mp3',   
+           'estcequetumaimesintro6.mp3',   
+           'estcequetumaimesintro7.mp3',   
+           'estcequetumaimesintro8.mp3',   
+           'estcequetumaimesintro9.mp3',  
+           'estcequetumaimesintro10.mp3',   
+           'estcequetumaimesintro11.mp3',   
+           'estcequetumaimesintro12.mp3',   
+           'estcequetumaimesintro13.mp3',   
+           'estcequetumaimesintro14.mp3',   
+           'estcequetumaimesintro15.mp3' ],   
+    song:'gimsestcequetumaimes.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Francia (🇫🇷) / interprete: GIMS / cancion: Est-ce que tu m'aimes ?     &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }      
+
+  list3[36] = {  
+    intro:['jemenfousintro1.mp3',
+           'jemenfousintro2.mp3',  
+           'jemenfousintro3.mp3',  
+           'jemenfousintro4.mp3',   
+           'jemenfousintro5.mp3',   
+           'jemenfousintro6.mp3',   
+           'jemenfousintro7.mp3',   
+           'jemenfousintro8.mp3',   
+           'jemenfousintro9.mp3',  
+           'jemenfousintro10.mp3',   
+           'jemenfousintro11.mp3',   
+           'jemenfousintro12.mp3',   
+           'jemenfousintro13.mp3',   
+           'jemenfousintro14.mp3',   
+           'jemenfousintro15.mp3' ],   
+    song:'moksaibjemenfous.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Argelia (🇩🇿) / interprete: Mok Saib / cancion: Je M'en Fous     &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }        
+
+  list3[37] = {  
+    intro:['hyudkxntxnniintro1.mp3',
+           'hyudkxntxnniintro2.mp3',  
+           'hyudkxntxnniintro3.mp3',  
+           'hyudkxntxnniintro4.mp3',   
+           'hyudkxntxnniintro5.mp3',   
+           'hyudkxntxnniintro6.mp3',   
+           'hyudkxntxnniintro7.mp3',   
+           'hyudkxntxnniintro8.mp3',   
+           'hyudkxntxnniintro9.mp3',  
+           'hyudkxntxnniintro10.mp3',   
+           'hyudkxntxnniintro11.mp3',   
+           'hyudkxntxnniintro12.mp3',   
+           'hyudkxntxnniintro13.mp3',   
+           'hyudkxntxnniintro14.mp3',   
+           'hyudkxntxnniintro15.mp3' ],   
+    song:'popnablethaihyudkxntxnni.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Tailandia (🇹🇭) / interprete: Popnable THAI / cancion: H̄yud k̀xn txn nī̂     &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }       
+
+  list3[38] = {  
+    intro:['thexchladintro1.mp3',
+           'thexchladintro2.mp3',  
+           'thexchladintro3.mp3',  
+           'thexchladintro4.mp3',   
+           'thexchladintro5.mp3',   
+           'thexchladintro6.mp3',   
+           'thexchladintro7.mp3',   
+           'thexchladintro8.mp3',   
+           'thexchladintro9.mp3',  
+           'thexchladintro10.mp3',   
+           'thexchladintro11.mp3',   
+           'thexchladintro12.mp3',   
+           'thexchladintro13.mp3',   
+           'thexchladintro14.mp3',   
+           'thexchladintro15.mp3' ],   
+    song:'popnablethaithexchlad.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Tailandia (🇹🇭) / interprete: Popnable THAI / cancion: Ṭhex c̄hlād     &nbsp&nbsp&nbsp&#160&#160&#160"   
     }       
