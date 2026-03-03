@@ -779,3 +779,43 @@ const list3 = []
     song:'popnablethaithexchlad.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Tailandia (🇹🇭) / interprete: Popnable THAI / cancion: Ṭhex c̄hlād     &nbsp&nbsp&nbsp&#160&#160&#160"   
     }       
+
+  list3[39] = {  
+    intro:['gooddayintro1.mp3',
+           'gooddayintro2.mp3',  
+           'gooddayintro3.mp3',  
+           'gooddayintro4.mp3',   
+           'gooddayintro5.mp3',   
+           'gooddayintro6.mp3',   
+           'gooddayintro7.mp3',   
+           'gooddayintro8.mp3',   
+           'gooddayintro9.mp3',  
+           'gooddayintro10.mp3',   
+           'gooddayintro11.mp3',   
+           'gooddayintro12.mp3',   
+           'gooddayintro13.mp3',   
+           'gooddayintro14.mp3',   
+           'gooddayintro15.mp3' ],   
+    song:'liahonaolayangoodday.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: Liahona Olayan / cancion: Good Day     &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }      
+
+  list3[40] = {  
+    intro:['ifyoubelieveintro1.mp3',
+           'ifyoubelieveintro2.mp3',  
+           'ifyoubelieveintro3.mp3',  
+           'ifyoubelieveintro4.mp3',   
+           'ifyoubelieveintro5.mp3',   
+           'ifyoubelieveintro6.mp3',   
+           'ifyoubelieveintro7.mp3',   
+           'ifyoubelieveintro8.mp3',   
+           'ifyoubelieveintro9.mp3',  
+           'ifyoubelieveintro10.mp3',   
+           'ifyoubelieveintro11.mp3',   
+           'ifyoubelieveintro12.mp3',   
+           'ifyoubelieveintro13.mp3',   
+           'ifyoubelieveintro14.mp3',   
+           'ifyoubelieveintro15.mp3' ],   
+    song:'patchcroweifyoubelieve.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Australia (🇦🇺) Reino Unido (🇬🇧) Estados Unidos (🇺🇸) / interprete: Patch Crowe / cancion: If You Believe      &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }       
