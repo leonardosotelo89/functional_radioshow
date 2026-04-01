@@ -818,4 +818,84 @@ const list3 = []
            'ifyoubelieveintro15.mp3' ],   
     song:'patchcroweifyoubelieve.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Australia (🇦🇺) Reino Unido (🇬🇧) Estados Unidos (🇺🇸) / interprete: Patch Crowe / cancion: If You Believe      &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }      
+
+  list3[41] = {  
+    intro:['feathersmadetoflyintro1.mp3',
+           'feathersmadetoflyintro2.mp3',  
+           'feathersmadetoflyintro3.mp3',  
+           'feathersmadetoflyintro4.mp3',   
+           'feathersmadetoflyintro5.mp3',   
+           'feathersmadetoflyintro6.mp3',   
+           'feathersmadetoflyintro7.mp3',   
+           'feathersmadetoflyintro8.mp3',   
+           'feathersmadetoflyintro9.mp3',  
+           'feathersmadetoflyintro10.mp3',   
+           'feathersmadetoflyintro11.mp3',   
+           'feathersmadetoflyintro12.mp3',   
+           'feathersmadetoflyintro13.mp3',   
+           'feathersmadetoflyintro14.mp3',   
+           'feathersmadetoflyintro15.mp3' ],   
+    song:'faydodofeathersmadetofly.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) Haiti (🇭🇹) / interprete: Fay Dodo / cancion: Feathers Made To Fly       &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }       
+
+  list3[42] = {  
+    intro:['khattamitthaintro1.mp3',
+           'khattamitthaintro2.mp3',  
+           'khattamitthaintro3.mp3',  
+           'khattamitthaintro4.mp3',   
+           'khattamitthaintro5.mp3',   
+           'khattamitthaintro6.mp3',   
+           'khattamitthaintro7.mp3',   
+           'khattamitthaintro8.mp3',   
+           'khattamitthaintro9.mp3',  
+           'khattamitthaintro10.mp3',   
+           'khattamitthaintro11.mp3',   
+           'khattamitthaintro12.mp3',   
+           'khattamitthaintro13.mp3',   
+           'khattamitthaintro14.mp3',   
+           'khattamitthaintro15.mp3' ],   
+    song:'amandeepbhangukhattamittha.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: India (🇮🇳) / autor: Amandeep Bhangu / cancion: Khatta Mittha | Sour ’N Sweet       &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }       
+
+  list3[43] = {  
+    intro:['moombahloveintro1.mp3',
+           'moombahloveintro2.mp3',  
+           'moombahloveintro3.mp3',  
+           'moombahloveintro4.mp3',   
+           'moombahloveintro5.mp3',   
+           'moombahloveintro6.mp3',   
+           'moombahloveintro7.mp3',   
+           'moombahloveintro8.mp3',   
+           'moombahloveintro9.mp3',  
+           'moombahloveintro10.mp3',   
+           'moombahloveintro11.mp3',   
+           'moombahloveintro12.mp3',   
+           'moombahloveintro13.mp3',   
+           'moombahloveintro14.mp3',   
+           'moombahloveintro15.mp3' ],   
+    song:'djramezzmoombahlove.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rusia (🇷🇺) / interprete: DJ Ramezz / cancion: Moombah Love       &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }       
+
+  list3[44] = {  
+    intro:['masalagirlintro1.mp3',
+           'masalagirlintro2.mp3',  
+           'masalagirlintro3.mp3',  
+           'masalagirlintro4.mp3',   
+           'masalagirlintro5.mp3',   
+           'masalagirlintro6.mp3',   
+           'masalagirlintro7.mp3',   
+           'masalagirlintro8.mp3',   
+           'masalagirlintro9.mp3',  
+           'masalagirlintro10.mp3',   
+           'masalagirlintro11.mp3',   
+           'masalagirlintro12.mp3',   
+           'masalagirlintro13.mp3',   
+           'masalagirlintro14.mp3',   
+           'masalagirlintro15.mp3' ],   
+    song:'keithgerardmasalagirl.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: Keith Gerard / cancion: Masala Girl      &nbsp&nbsp&nbsp&#160&#160&#160"   
     }       
