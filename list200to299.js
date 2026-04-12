@@ -958,4 +958,44 @@ const list3 = []
            'winyoubackintro15.mp3' ],   
     song:'doerferwinyouback.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Alemania (🇩🇪) / interprete: DOERFER / cancion: Win You Back      &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }      
+
+  list3[48] = {  
+    intro:['dontyouneedsomebodyintro1.mp3',
+           'dontyouneedsomebodyintro2.mp3',  
+           'dontyouneedsomebodyintro3.mp3',  
+           'dontyouneedsomebodyintro4.mp3',   
+           'dontyouneedsomebodyintro5.mp3',   
+           'dontyouneedsomebodyintro6.mp3',   
+           'dontyouneedsomebodyintro7.mp3',   
+           'dontyouneedsomebodyintro8.mp3',   
+           'dontyouneedsomebodyintro9.mp3',  
+           'dontyouneedsomebodyintro10.mp3',   
+           'dontyouneedsomebodyintro11.mp3',   
+           'dontyouneedsomebodyintro12.mp3',   
+           'dontyouneedsomebodyintro13.mp3',   
+           'dontyouneedsomebodyintro14.mp3',   
+           'dontyouneedsomebodyintro15.mp3' ],   
+    song:'redonedontyouneedsomebody.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 paises: Marruecos (🇲🇦) España (🇪🇸) Estados Unidos (🇺🇸) Estados Unidos (🇺🇸) Jamaica (🇯🇲) / interpretes: RedOne: marroquí; Enrique Iglesias: español; R. City: estadounidenses (Islas Vírgenes de EE. UU.); Serayah: estadounidense; Shaggy: jamaiquino; / cancion: Don’t You Need Somebody      &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }       
+
+  list3[49] = {  
+    intro:['getitonintro1.mp3',
+           'getitonintro2.mp3',  
+           'getitonintro3.mp3',  
+           'getitonintro4.mp3',   
+           'getitonintro5.mp3',   
+           'getitonintro6.mp3',   
+           'getitonintro7.mp3',   
+           'getitonintro8.mp3',   
+           'getitonintro9.mp3',  
+           'getitonintro10.mp3',   
+           'getitonintro11.mp3',   
+           'getitonintro12.mp3',   
+           'getitonintro13.mp3',   
+           'getitonintro14.mp3',   
+           'getitonintro15.mp3' ],   
+    song:'chillnovaloopsgetiton.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Nigeria (🇳🇬) / interprete: chillChillNova Loops (Akon: senegalés / estadounidense) (Pitbull: estadounidense) (Shakira: colombiana) (Rihanna: barbadense) (Sean Paul: jamaiquino) / cancion: Get It On      &nbsp&nbsp&nbsp&#160&#160&#160"   
     }       
