@@ -898,4 +898,64 @@ const list3 = []
            'masalagirlintro15.mp3' ],   
     song:'keithgerardmasalagirl.mp3',  
     text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Estados Unidos (🇺🇸) / interprete: Keith Gerard / cancion: Masala Girl      &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }      
+
+  list3[45] = {  
+    intro:['balmadhiredhireintro1.mp3',
+           'balmadhiredhireintro2.mp3',  
+           'balmadhiredhireintro3.mp3',  
+           'balmadhiredhireintro4.mp3',   
+           'balmadhiredhireintro5.mp3',   
+           'balmadhiredhireintro6.mp3',   
+           'balmadhiredhireintro7.mp3',   
+           'balmadhiredhireintro8.mp3',   
+           'balmadhiredhireintro9.mp3',  
+           'balmadhiredhireintro10.mp3',   
+           'balmadhiredhireintro11.mp3',   
+           'balmadhiredhireintro12.mp3',   
+           'balmadhiredhireintro13.mp3',   
+           'balmadhiredhireintro14.mp3',   
+           'balmadhiredhireintro15.mp3' ],   
+    song:'rdxnonvegbalmadhiredhire.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: India (🇮🇳) / interprete: RDX Non Veg / cancion: Balma Dhire Dhire      &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }       
+
+  list3[46] = {  
+    intro:['tevreauintro1.mp3',
+           'tevreauintro2.mp3',  
+           'tevreauintro3.mp3',  
+           'tevreauintro4.mp3',   
+           'tevreauintro5.mp3',   
+           'tevreauintro6.mp3',   
+           'tevreauintro7.mp3',   
+           'tevreauintro8.mp3',   
+           'tevreauintro9.mp3',  
+           'tevreauintro10.mp3',   
+           'tevreauintro11.mp3',   
+           'tevreauintro12.mp3',   
+           'tevreauintro13.mp3',   
+           'tevreauintro14.mp3',   
+           'tevreauintro15.mp3' ],   
+    song:'rom4riotevreau.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Rumania (🇷🇴) / interprete: Rom4rio  / cancion: Te Vreau!      &nbsp&nbsp&nbsp&#160&#160&#160"   
+    }       
+
+  list3[47] = {  
+    intro:['winyoubackintro1.mp3',
+           'winyoubackintro2.mp3',  
+           'winyoubackintro3.mp3',  
+           'winyoubackintro4.mp3',   
+           'winyoubackintro5.mp3',   
+           'winyoubackintro6.mp3',   
+           'winyoubackintro7.mp3',   
+           'winyoubackintro8.mp3',   
+           'winyoubackintro9.mp3',  
+           'winyoubackintro10.mp3',   
+           'winyoubackintro11.mp3',   
+           'winyoubackintro12.mp3',   
+           'winyoubackintro13.mp3',   
+           'winyoubackintro14.mp3',   
+           'winyoubackintro15.mp3' ],   
+    song:'doerferwinyouback.mp3',  
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Alemania (🇩🇪) / interprete: DOERFER / cancion: Win You Back      &nbsp&nbsp&nbsp&#160&#160&#160"   
     }       
