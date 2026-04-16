@@ -997,5 +997,5 @@ const list3 = []
            'getitonintro14.mp3',   
            'getitonintro15.mp3' ],   
     song:'chillnovaloopsgetiton.mp3',  
-    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Nigeria (🇳🇬) / interprete: chillChillNova Loops (Akon: senegalés / estadounidense) (Pitbull: estadounidense) (Shakira: colombiana) (Rihanna: barbadense) (Sean Paul: jamaiquino) / cancion: Get It On      &nbsp&nbsp&nbsp&#160&#160&#160"   
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: Nigeria (🇳🇬) / interprete: ChillNova Loops (Akon: senegalés / estadounidense) (Pitbull: estadounidense) (Shakira: colombiana) (Rihanna: barbadense) (Sean Paul: jamaiquino) / cancion: Get It On      &nbsp&nbsp&nbsp&#160&#160&#160"   
     }       
