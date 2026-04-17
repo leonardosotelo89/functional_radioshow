@@ -857,7 +857,7 @@ const list3 = []
            'khattamitthaintro14.mp3',   
            'khattamitthaintro15.mp3' ],   
     song:'amandeepbhangukhattamittha.mp3',  
-    text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: India (🇮🇳) / autor: Amandeep Bhangu / cancion: Khatta Mittha | Sour ’N Sweet       &nbsp&nbsp&nbsp&#160&#160&#160"   
+    text:" &nbsp&nbsp&nbsp&#160&#160&#160  pais: India (🇮🇳) / autor: Amandeep Bhangu / cancion: Khatta Mittha | Sour ’N Sweet        &nbsp&nbsp&nbsp&#160&#160&#160"   
     }       
 
   list3[43] = {  
