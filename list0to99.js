@@ -1039,9 +1039,13 @@ const list1 = []
           'introstwo/glowenosdogoryintro8.mp3',  
           'introstwo/glowenosdogoryintro9.mp3',  
           'introstwo/glowenosdogoryintro10.mp3',  
-          'introstwo/glowenosdogoryintro11.mp3'],  
+          'introstwo/glowenosdogoryintro11.mp3', 
+          'introstwo/glowenosdogoryintro12.mp3',  
+          'introstwo/glowenosdogoryintro13.mp3',  
+          'introstwo/glowenosdogoryintro14.mp3',  
+          'introstwo/glowenosdogoryintro15.mp3'],  
    song:'sonidos2/pectuskasiacerekwickaglowenosdogory.mp3', 
-   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: polonia (🇵🇱) / interprete: pectus & Kasia Cerekwicka / cancion: Głowę noś do góry   &nbsp&nbsp&nbsp&#160&#160&#160"  
+   text:" &nbsp&nbsp&nbsp&#160&#160&#160 pais: polonia (🇵🇱) / interpretes: pectus & Kasia Cerekwicka / cancion: Głowę noś do góry   &nbsp&nbsp&nbsp&#160&#160&#160"  
  }  
 
  list1[63] = { 
