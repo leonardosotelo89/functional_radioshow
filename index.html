@@ -229,13 +229,21 @@ if(luck >= 250 && luck < 300){
 mainaudio.src = "https://leonardosotelo89.github.io/functional_radioshow_archive2/intros250to299/" + array[luck].intro[parseInt(Math.random()*array[luck].intro.length)]
 //div3.innerHTML += mainaudio.src +"<br>" 
 } 
-    mainaudio.play()
-    
-    mainaudio.onended = function() {
+
+
+   //registration before execution 
+   mainaudio.onended = function(){
       main() 
-     } 
+   } 
+   
+   
+   mainaudio.play()
+  
   }
+
   introduce()
+
+
   function main(){  
 
    mainaudio.src = array[luck].song  
@@ -249,12 +257,16 @@ mainaudio.src = "https://leonardosotelo89.github.io/functional_radioshow_archive
 //div3.innerHTML += mainaudio.src +"<br>" 
 }
 
-   mainaudio.play()  
 
    mainaudio.onended = function(){
      telltime()
    }
+
+   mainaudio.play()  
+
    } 
+
+
    function telltime(){
 
       
@@ -262,7 +274,10 @@ mainaudio.src = "https://leonardosotelo89.github.io/functional_radioshow_archive
 
     timeinterval--
     
-    if(timeinterval > 0)random(sounds)
+    if(timeinterval > 0){
+    random(sounds)
+    return
+    }
     
     if(timeinterval == 0){
 
@@ -282,7 +297,7 @@ mainaudio.src = "https://leonardosotelo89.github.io/functional_radioshow_archive
  } 
 */
   
-playnext.onclick = function(){ 
+ playnext.onclick = function(){ 
    random(sounds) 
    this.style.background = 'blue'
  } 
